@@ -1,3 +1,7 @@
+<!doctype html>
+<html lang="ka"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>Opera Atlas</title>
 <meta name="claude:viewport-fit-sides" content="cover">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -340,8 +344,9 @@ function wiki(title){
 function hydrate(){
   Array.prototype.forEach.call(document.querySelectorAll("[data-bg]"),function(el){
     var L=el.getAttribute("data-bg").split("|"),t=L[Math.floor(Math.random()*L.length)];
-    wiki(t).then(function(src){if(!src)return;var big=src.replace(/\/500px-/,"/1200px-"),im=new Image();
-      im.onload=function(){el.style.backgroundImage='linear-gradient(180deg,rgba(59,10,25,.55),rgba(59,10,25,.82)),url("'+big+'")';el.style.backgroundSize="cover";el.style.backgroundPosition="center"};im.src=big});
+    wiki(t).then(function(src){if(!src)return;var big=src.replace(/\/500px-/,"/960px-"),im=new Image();
+      function put(u){el.style.backgroundImage='linear-gradient(180deg,rgba(59,10,25,.55),rgba(59,10,25,.82)),url("'+u+'")';el.style.backgroundSize="cover";el.style.backgroundPosition="center"}
+      im.onload=function(){put(big)};im.onerror=function(){var i2=new Image();i2.onload=function(){put(src)};i2.src=src};im.src=big});
   });
   Array.prototype.forEach.call(document.querySelectorAll("[data-wiki],[data-img]"),function(el){
     var own=el.getAttribute("data-img"),w=el.getAttribute("data-wiki");
