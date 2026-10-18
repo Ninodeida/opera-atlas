@@ -47,35 +47,43 @@
  "houses": {
   "met": {
    "n": "Metropolitan Opera",
-   "c": "ny"
+   "c": "ny",
+   "w": "Metropolitan_Opera"
   },
   "roh": {
    "n": "Royal Opera House",
-   "c": "ldn"
+   "c": "ldn",
+   "w": "Royal_Opera_House"
   },
   "eno": {
    "n": "English National Opera",
-   "c": "ldn"
+   "c": "ldn",
+   "w": "English_National_Opera"
   },
   "wso": {
    "n": "Wiener Staatsoper",
-   "c": "vie"
+   "c": "vie",
+   "w": "Vienna_State_Opera"
   },
   "sca": {
    "n": "Teatro alla Scala",
-   "c": "mil"
+   "c": "mil",
+   "w": "La_Scala"
   },
   "reg": {
    "n": "Teatro Regio Torino",
-   "c": "tur"
+   "c": "tur",
+   "w": "Teatro_Regio_(Turin)"
   },
   "tbs": {
    "n": "Tbilisi Opera and Ballet State Theatre",
-   "c": "tbs"
+   "c": "tbs",
+   "w": "Tbilisi_Opera_and_Ballet_Theatre"
   },
   "rgb": {
    "n": "Theater Regensburg",
-   "c": "reg"
+   "c": "reg",
+   "w": "Theater_Regensburg"
   }
  },
  "events": [
@@ -500,7 +508,7 @@
     "t": {
      "en": "Born in Tbilisi on 12 October. Studied journalism, then voice at the Tbilisi Conservatory with Guliko Kariauli.",
      "it": "Nasce a Tbilisi il 12 ottobre. Studia giornalismo, poi canto al Conservatorio di Tbilisi con Guliko Kariauli.",
-     "ka": "დაიბადა თბილისში, 12 ოქტომბერს. სწავლობდა ჟურნალისტიკას, შემდეგ თბილისის კონსერვატორიაში გულიკო ქარიაულთან ვოკალს.",
+     "ka": "დაიბადა თბილისში, 12 ოქტომბერს. სწავლობდა ჟურნალისტიკას, შემდეგ თბილისის კონსერვატორიაში გულიკო კარიაულთან ვოკალს.",
      "ru": "Родилась в Тбилиси 12 октября. Училась журналистике, затем вокалу в Тбилисской консерватории у Гулико Кариаули."
     },
     "l": [
@@ -727,10 +735,6 @@
   ],
   "links": [
    [
-    "Official website",
-    "https://www.ninosurguladze.com"
-   ],
-   [
     "Operabase schedule",
     "https://operabase.com/a/Nino_Surguladze/13231"
    ],
@@ -750,6 +754,63 @@
     "Facebook",
     "https://www.facebook.com/NinoSurguladzeOfficial"
    ]
+  ],
+  "w": "Nino_Surguladze",
+  "videos": [
+   {
+    "q": "Nino Surguladze Carmen",
+    "t": {
+     "en": "Carmen",
+     "it": "Carmen",
+     "ka": "კარმენი",
+     "ru": "Кармен"
+    }
+   },
+   {
+    "q": "Nino Surguladze Aida Amneris",
+    "t": {
+     "en": "Amneris in Aida",
+     "it": "Amneris in Aida",
+     "ka": "ამნერისი, Aida",
+     "ru": "Амнерис, «Аида»"
+    }
+   },
+   {
+    "q": "Rigoletto a Mantova Nino Surguladze Maddalena",
+    "t": {
+     "en": "Rigoletto a Mantova (Maddalena)",
+     "it": "Rigoletto a Mantova (Maddalena)",
+     "ka": "Rigoletto a Mantova (მადალენა)",
+     "ru": "«Риголетто в Мантуе» (Маддалена)"
+    }
+   },
+   {
+    "q": "Nino Surguladze I Capuleti e i Montecchi Romeo",
+    "t": {
+     "en": "Romeo in I Capuleti e i Montecchi",
+     "it": "Romeo in I Capuleti e i Montecchi",
+     "ka": "რომეო, I Capuleti e i Montecchi",
+     "ru": "Ромео, «Капулетти и Монтекки»"
+    }
+   },
+   {
+    "q": "Nino Surguladze interview",
+    "t": {
+     "en": "Interviews",
+     "it": "Interviste",
+     "ka": "ინტერვიუები",
+     "ru": "Интервью"
+    }
+   },
+   {
+    "q": "Nino Surguladze concert",
+    "t": {
+     "en": "Concerts and recitals",
+     "it": "Concerti e recital",
+     "ka": "კონცერტები და რეციტალები",
+     "ru": "Концерты и рецитали"
+    }
+   }
   ]
  }
 }
