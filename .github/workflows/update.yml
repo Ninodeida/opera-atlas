@@ -1,0 +1,27 @@
+name: Update Opera Atlas
+
+on:
+  schedule:
+    - cron: "17 5 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Fetch feeds and refresh data
+        run: python scripts/update.py
+      - name: Commit changes
+        run: |
+          git config user.name "opera-atlas-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add feed.json data.json
+          git diff --staged --quiet || git commit -m "Daily update"
+          git push
