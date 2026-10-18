@@ -95,6 +95,9 @@ select{font:inherit;padding:8px 10px;border:1px solid var(--line);background:var
 .notice{border-left:3px solid var(--brass);padding:8px 14px;background:var(--surface);margin:18px 0;font-size:.92rem;max-width:70ch}
 footer{margin-top:40px;padding-top:16px;border-top:1px solid var(--line);font-size:.85rem;color:var(--muted);max-width:70ch}
 @media (prefers-reduced-motion:no-preference){section.view.on{animation:in .25s ease-out}@keyframes in{from{opacity:.0;transform:translateY(4px)}to{opacity:1;transform:none}}}
+
+.stat b,.date b,h1,.tl .y,.review h3{font-variant-numeric:lining-nums tabular-nums}
+.stat b{font-variant-numeric:lining-nums tabular-nums}
 </style>
 
 <header class="mast">
@@ -182,7 +185,22 @@ if(VIEWS.indexOf(location.hash.slice(1))>-1)view=location.hash.slice(1);
 function T(o){return o?(o[lang]||o.en||""):""}
 function esc(s){return String(s).replace(/[&<>"]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]})}
 function today(){var d=new Date();return d.getFullYear()+"-"+("0"+(d.getMonth()+1)).slice(-2)+"-"+("0"+d.getDate()).slice(-2)}
-function fmt(iso,opt){var p=iso.split("-");var d=new Date(+p[0],(+p[1]||1)-1,+p[2]||1);return d.toLocaleDateString(LOCALE[lang],opt)}
+var MON={
+ en:{l:["January","February","March","April","May","June","July","August","September","October","November","December"],s:["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]},
+ it:{l:["gennaio","febbraio","marzo","aprile","maggio","giugno","luglio","agosto","settembre","ottobre","novembre","dicembre"],s:["gen","feb","mar","apr","mag","giu","lug","ago","set","ott","nov","dic"]},
+ ka:{l:["იანვარი","თებერვალი","მარტი","აპრილი","მაისი","ივნისი","ივლისი","აგვისტო","სექტემბერი","ოქტომბერი","ნოემბერი","დეკემბერი"],s:["იან","თებ","მარ","აპრ","მაი","ივნ","ივლ","აგვ","სექ","ოქტ","ნოე","დეკ"]},
+ ru:{l:["январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],g:["января","февраля","марта","апреля","мая","июня","июля","августа","сентября","октября","ноября","декабря"],s:["янв","фев","мар","апр","мая","июн","июл","авг","сен","окт","ноя","дек"]}
+};
+function fmt(iso,opt){
+  var p=iso.split("-"),y=+p[0],mi=(+p[1]||1)-1,dd=+p[2]||0,M=MON[lang],out=[];
+  if(opt.day&&dd)out.push(dd);
+  if(opt.month){
+    var name=opt.month==="short"?M.s[mi]:((opt.day&&dd&&M.g)?M.g[mi]:M.l[mi]);
+    out.push(name);
+  }
+  if(opt.year)out.push(y);
+  return out.join(" ");
+}
 function hname(k){return DATA.houses[k].n}
 function city(k){return T(DATA.cities[DATA.houses[k].c])}
 function isUp(ev){return ev.e>=today()}
