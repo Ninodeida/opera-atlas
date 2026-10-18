@@ -131,6 +131,7 @@ footer{margin-top:40px;padding-top:16px;border-top:1px solid var(--line);font-si
 .vcard b{font-family:var(--font-display);font-size:1.15rem;line-height:1.15}
 .vcard small{color:var(--muted)}
 .gal{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:12px}.gal figure{margin:0;border:1px solid var(--line);background:var(--surface)}.gal img{display:block;width:100%;aspect-ratio:4/5;object-fit:cover}.gal figcaption{font-size:.8rem;color:var(--muted);padding:6px 8px}
+.bio{max-width:72ch}.bio h3{font-family:var(--font-display);font-size:1.35rem;margin:20px 0 4px;color:var(--accent)}.bio p{margin:0 0 10px}
 </style>
 
 <header class="mast">
@@ -141,7 +142,6 @@ footer{margin-top:40px;padding-top:16px;border-top:1px solid var(--line);font-si
         <button data-l="ka" aria-pressed="false">ქარ</button>
         <button data-l="en" aria-pressed="false">EN</button>
         <button data-l="it" aria-pressed="false">IT</button>
-        <button data-l="ru" aria-pressed="false">РУ</button>
       </div>
     </div>
     <nav class="tabs" id="tabs"></nav>
@@ -163,7 +163,7 @@ var UI={
   hs:"Opera houses",hn:"upcoming",hcred:"Photos load from Wikipedia and Wikimedia Commons (free licences). If a photo does not load, a monogram is shown.",vt:"Watch and listen",vwatch:"Search on YouTube",vnote:"These cards open YouTube searches for each topic, so you always see current videos. Videos belong to their owners.",pcred:"Photo: Wikipedia / Wikimedia Commons",fh:"Latest headlines",fn:"Latest mentions of Nino Surguladze",fnote:"Collected automatically every day from public news feeds. Headlines are shown in their original language.",upd:"Data updated",up:"Upcoming",past:"Past",allh:"All houses",house:"House",show:"Show",
   s1:"upcoming productions",s2:"premieres",s3:"opera houses",s4:"reviews",
   next:"Next on stage",news:"Season announcements",pt:"Premieres this season",ct:"Calendar",
-  ty:{new:"New production",world:"World premiere",cpremiere:"Premiere",revival:"Revival"},
+  ty:{new:"New production",world:"World premiere",cpremiere:"Premiere",revival:"Revival",run:"In repertoire"},
   none:"Nothing to show for this filter.",read:"Read the review",src:"Source",
   rt:"Reviews of past productions",rl:"Nino Surguladze appears in",
   nt:"Mezzo-soprano · born in Tbilisi",nl:"Career, from the beginning to today",nu:"Upcoming",nr:"Reviews",nlink:"Official and reference links",
@@ -175,7 +175,7 @@ var UI={
   hs:"Teatri d'opera",hn:"in programma",hcred:"Le foto vengono caricate da Wikipedia e Wikimedia Commons (licenze libere). Se una foto non si carica, appare un monogramma.",vt:"Guarda e ascolta",vwatch:"Cerca su YouTube",vnote:"Le schede aprono ricerche su YouTube per ogni tema, così trovi sempre video aggiornati. I video appartengono ai rispettivi autori.",pcred:"Foto: Wikipedia / Wikimedia Commons",fh:"Ultime notizie",fn:"Ultime menzioni di Nino Surguladze",fnote:"Raccolte automaticamente ogni giorno da feed pubblici. I titoli restano nella lingua originale.",upd:"Dati aggiornati",up:"In programma",past:"Passati",allh:"Tutti i teatri",house:"Teatro",show:"Mostra",
   s1:"produzioni in programma",s2:"prime",s3:"teatri",s4:"recensioni",
   next:"Prossimamente in scena",news:"Annunci di stagione",pt:"Prime della stagione",ct:"Calendario",
-  ty:{new:"Nuova produzione",world:"Prima assoluta",cpremiere:"Prima",revival:"Ripresa"},
+  ty:{new:"Nuova produzione",world:"Prima assoluta",cpremiere:"Prima",revival:"Ripresa",run:"In repertorio"},
   none:"Nessun risultato per questo filtro.",read:"Leggi la recensione",src:"Fonte",
   rt:"Recensioni di produzioni passate",rl:"Con Nino Surguladze",
   nt:"Mezzosoprano · nata a Tbilisi",nl:"Carriera, dagli esordi a oggi",nu:"Prossimi impegni",nr:"Recensioni",nlink:"Link ufficiali e di riferimento",
@@ -187,28 +187,16 @@ var UI={
   hs:"ოპერის თეატრები",hn:"მოსალოდნელი",hcred:"ფოტოები იტვირთება Wikipedia-სა და Wikimedia Commons-იდან (თავისუფალი ლიცენზიები). თუ ფოტო არ ჩაიტვირთა, ნაცვლად ჩანს მონოგრამა.",vt:"ვუყუროთ და მოვისმინოთ",vwatch:"ძებნა YouTube-ზე",vnote:"ბარათები ხსნის YouTube-ის ძიებას თემის მიხედვით, ამიტომ ყოველთვის ახალ ვიდეოებს ნახავთ. ვიდეოები მათ ავტორებს ეკუთვნის.",pcred:"ფოტო: Wikipedia / Wikimedia Commons",fh:"უახლესი სათაურები",fn:"ნინო სურგულაძის უახლესი ხსენებები",fnote:"ყოველდღე ავტომატურად გროვდება ღია საინფორმაციო არხებიდან. სათაურები ორიგინალ ენაზე რჩება.",upd:"მონაცემები განახლდა",up:"მოსალოდნელი",past:"განვლილი",allh:"ყველა თეატრი",house:"თეატრი",show:"ჩვენება",
   s1:"მოსალოდნელი დადგმა",s2:"პრემიერა",s3:"თეატრი",s4:"რეცენზია",
   next:"უახლოესი წარმოდგენები",news:"სეზონის ანონსები",pt:"სეზონის პრემიერები",ct:"კალენდარი",
-  ty:{new:"ახალი დადგმა",world:"მსოფლიო პრემიერა",cpremiere:"პრემიერა",revival:"აღდგენილი დადგმა"},
+  ty:{new:"ახალი დადგმა",world:"მსოფლიო პრემიერა",cpremiere:"პრემიერა",revival:"აღდგენილი დადგმა",run:"რეპერტუარში"},
   none:"ამ ფილტრით არაფერი მოიძებნა.",read:"რეცენზიის წაკითხვა",src:"წყარო",
   rt:"განვლილი დადგმების რეცენზიები",rl:"ნინო სურგულაძის მონაწილეობით",
   nt:"მეცოსოპრანო · დაიბადა თბილისში",nl:"კარიერა დასაწყისიდან დღემდე",nu:"მომავალი გამოსვლები",nr:"რეცენზიები",nlink:"ოფიციალური და საცნობარო ბმულები",
   nroles:"პარტიები და თეატრები",naw:"ჯილდოები და ორდენები",
   note1:"ნინოს გვერდზე ჩანს მხოლოდ ის, რაც მითითებულ წყაროებშია გამოქვეყნებული. თუ წყარო თარიღს არ ასახელებს, თარიღი გამოტოვებულია.",
   foot:"შედგენილია მითითებული ღია წყაროებიდან 2026 წლის 18 ოქტომბერს. აღწერები გადმოცემულია საკუთარი სიტყვებით; ორიგინალისთვის გადადით ბმულებზე. ბილეთის ყიდვამდე თარიღები და შემადგენლობა თეატრში გადაამოწმეთ."},
- ru:{tag:"Оперный календарь, премьеры, рецензии",ov:"Обзор",cal:"Календарь",pre:"Премьеры",rev:"Рецензии",nino:"Нино Сургуладзе",
-  h1:"Сезон 2026–27 на одной странице.",lede:"Что идёт, где и когда: премьеры, анонсы и рецензии ведущих театров, а также отдельный раздел о грузинской меццо-сопрано Нино Сургуладзе.",
-  hs:"Оперные театры",hn:"предстоящих",hcred:"Фотографии загружаются из Википедии и Wikimedia Commons (свободные лицензии). Если фото не загрузилось, показывается монограмма.",vt:"Смотреть и слушать",vwatch:"Искать на YouTube",vnote:"Карточки открывают поиск на YouTube по теме, поэтому вы всегда видите актуальные видео. Видео принадлежат их авторам.",pcred:"Фото: Википедия / Wikimedia Commons",fh:"Свежие заголовки",fn:"Свежие упоминания Нино Сургуладзе",fnote:"Ежедневно собираются автоматически из открытых новостных лент. Заголовки показаны на языке оригинала.",upd:"Данные обновлены",up:"Предстоящие",past:"Прошедшие",allh:"Все театры",house:"Театр",show:"Показать",
-  s1:"предстоящих постановок",s2:"премьер",s3:"театров",s4:"рецензий",
-  next:"Ближайшие спектакли",news:"Анонсы сезонов",pt:"Премьеры сезона",ct:"Календарь",
-  ty:{new:"Новая постановка",world:"Мировая премьера",cpremiere:"Премьера",revival:"Возобновление"},
-  none:"По этому фильтру ничего не найдено.",read:"Читать рецензию",src:"Источник",
-  rt:"Рецензии на прошедшие постановки",rl:"С участием Нино Сургуладзе",
-  nt:"Меццо-сопрано · родилась в Тбилиси",nl:"Карьера от начала до наших дней",nu:"Предстоящие выступления",nr:"Рецензии",nlink:"Официальные и справочные ссылки",
-  nroles:"Партии и театры",naw:"Награды",
-  note1:"На странице Нино указано только то, что опубликовано в приведённых источниках. Если источник не называет дату, дата не указывается.",
-  foot:"Составлено по указанным открытым источникам 18 октября 2026 года. Описания переданы своими словами; оригинальные тексты по ссылкам. Перед покупкой билетов всегда проверяйте даты и составы в театре."}
 };
 
-var LOCALE={en:"en-GB",it:"it-IT",ka:"ka-GE",ru:"ru-RU"};
+var LOCALE={en:"en-GB",it:"it-IT",ka:"ka-GE"};
 var lang="ka",view="ov",hf="all",time="up";
 try{var sv=localStorage.getItem("oa-lang");if(sv&&UI[sv])lang=sv}catch(e){}
 try{var nav=(navigator.language||"").slice(0,2);if(!localStorage.getItem("oa-lang")&&UI[nav])lang=nav}catch(e){}
@@ -222,7 +210,6 @@ var MON={
  en:{l:["January","February","March","April","May","June","July","August","September","October","November","December"],s:["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]},
  it:{l:["gennaio","febbraio","marzo","aprile","maggio","giugno","luglio","agosto","settembre","ottobre","novembre","dicembre"],s:["gen","feb","mar","apr","mag","giu","lug","ago","set","ott","nov","dic"]},
  ka:{l:["იანვარი","თებერვალი","მარტი","აპრილი","მაისი","ივნისი","ივლისი","აგვისტო","სექტემბერი","ოქტომბერი","ნოემბერი","დეკემბერი"],s:["იან","თებ","მარ","აპრ","მაი","ივნ","ივლ","აგვ","სექ","ოქტ","ნოე","დეკ"]},
- ru:{l:["январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],g:["января","февраля","марта","апреля","мая","июня","июля","августа","сентября","октября","ноября","декабря"],s:["янв","фев","мар","апр","мая","июн","июл","авг","сен","окт","ноя","дек"]}
 };
 function fmt(iso,opt){
   var p=iso.split("-"),y=+p[0],mi=(+p[1]||1)-1,dd=+p[2]||0,M=MON[lang],out=[];
@@ -249,7 +236,7 @@ function dateBlock(ev){
 function tag(ty){return '<span class="tag '+(ty==="world"?"world":"")+'">'+esc(UI[lang].ty[ty])+'</span>'}
 function eventRow(ev){
   return '<div class="row">'+dateBlock(ev)+'<div><p class="t"><a href="'+esc(ev.u)+'" target="_blank" rel="noopener">'+esc(ev.t)+'</a></p>'+
-   '<div class="meta">'+tag(ev.ty)+esc(ev.c)+' · '+esc(hname(ev.h))+', '+esc(city(ev.h))+'</div>'+
+   '<div class="meta">'+tag(ev.ty)+(ev.c?esc(ev.c)+' · ':'')+esc(hname(ev.h))+', '+esc(city(ev.h))+'</div>'+
    '<p class="note">'+esc(T(ev.n))+'</p></div></div>';
 }
 function reviewBlock(r){
@@ -258,7 +245,7 @@ function reviewBlock(r){
   return '<div class="review"><h3>'+esc(r.w)+'</h3><div class="meta">'+esc(where)+' · '+esc(fmt(r.d,r.d.length>4?{month:"long",year:"numeric"}:{year:"numeric"}))+(r.nino?' · <span class="tag plain">'+esc(u.nino)+'</span>':'')+'</div>'+
    '<p>'+esc(T(r.t))+'</p><p class="src">'+esc(u.src)+': '+esc(r.src)+' · <a href="'+esc(r.u)+'" target="_blank" rel="noopener">'+esc(u.read)+' ↗</a></p></div>';
 }
-function links(arr){return '<div class="links">'+arr.map(function(x){return '<a href="'+esc(x[1])+'" target="_blank" rel="noopener">'+esc(x[0])+' ↗</a>'}).join("")+'</div>'}
+function links(arr){if(!arr||!arr.length)return "";return '<div class="links">'+arr.map(function(x){return '<a href="'+esc(x[1])+'" target="_blank" rel="noopener">'+esc(x[0])+' ↗</a>'}).join("")+'</div>'}
 
 function vOverview(){
   var u=UI[lang],up=sorted(DATA.events.filter(isUp));
@@ -306,7 +293,7 @@ function vNino(){
   var u=UI[lang],N=DATA.nino;
   var h='<div class="hero nino-hero"><div class="portrait" data-wiki="'+esc(N.w||"")+'" data-img="'+esc(N.img||"")+'"><span>NS</span></div><div class="hero-in"><span class="stamp">'+esc(u.nt)+'</span><h1>'+esc(u.nino)+'</h1>'+
    '<div class="chips">'+N.awards.map(function(a){return '<span class="chip">'+esc(T(a))+'</span>'}).join("")+'</div><p class="pcred"><a href="https://en.wikipedia.org/wiki/Nino_Surguladze" target="_blank" rel="noopener">'+esc(u.pcred)+' ↗</a></p></div></div>'+
-   '<div class="notice">'+esc(u.note1)+'</div>'+
+   '<div class="notice">'+esc(u.note1)+'</div>'+bioBlock()+
    '<h2 class="block-title" style="margin-top:22px">'+esc(u.nl)+'</h2><ul class="tl">'+
    N.timeline.map(function(x){return '<li><span class="y">'+esc(x.y)+'</span><div><p>'+esc(T(x.t))+'</p>'+links(x.l)+'</div></li>'}).join("")+'</ul>'+
    '<h2 class="block-title" style="margin-top:28px">'+esc(u.nu)+'</h2><ul class="tl">'+
@@ -326,9 +313,16 @@ function housesBlock(){
     return '<a class="hcard" href="#cal" data-house="'+k+'"><div class="hc-img" data-wiki="'+esc(H.w||"")+'" data-img="'+esc(H.img||"")+'"><span>'+esc(initials(H.n))+'</span></div><div class="hc-t"><b>'+esc(H.n)+'</b><span>'+esc(city(k))+' · '+n+' '+esc(u.hn)+'</span></div></a>';
   }).join("")+'</div><p class="meta">'+esc(u.hcred)+'</p>';
 }
+function bioBlock(){
+  var B=DATA.nino.bio||[];if(!B.length)return "";
+  var H={ka:"ბიოგრაფია",en:"Biography",it:"Biografia"},F={ka:"ბიოგრაფია შედგენილია არტისტის ოფიციალური ბიოგრაფიის მიხედვით, რომელიც საიტის მფლობელმა მოგვაწოდა; ტექსტი ერთ სტილშია გამართული და თარგმნილია.",en:"Biography based on the artist's official biography supplied by the site owner; edited into one style and translated.",it:"Biografia basata sulla biografia ufficiale dell'artista fornita dal proprietario del sito; redatta in uno stile uniforme e tradotta."};
+  return '<h2 class="block-title" style="margin-top:22px">'+H[lang]+'</h2><div class="bio">'+B.map(function(s){
+    return '<h3>'+esc(T(s.h))+'</h3>'+T(s.p).split("\n\n").map(function(p){return '<p>'+esc(p)+'</p>'}).join("");
+  }).join("")+'</div><p class="meta">'+F[lang]+'</p>';
+}
 function galleryBlock(){
   var G=DATA.nino.gallery||[];if(!G.length)return "";
-  return '<h2 class="block-title" style="margin-top:28px">'+({ka:"ფოტოგალერეა",en:"Photo gallery",it:"Galleria fotografica",ru:"Фотогалерея"})[lang]+'</h2><div class="gal">'+G.map(function(g){return '<figure><img loading="lazy" src="'+esc(g.src)+'" alt="'+esc(T(g.c||{}))+'"><figcaption>'+esc(T(g.c||{}))+'</figcaption></figure>'}).join("")+'</div>';
+  return '<h2 class="block-title" style="margin-top:28px">'+({ka:"ფოტოგალერეა",en:"Photo gallery",it:"Galleria fotografica"})[lang]+'</h2><div class="gal">'+G.map(function(g){return '<figure><img loading="lazy" src="'+esc(g.src)+'" alt="'+esc(T(g.c||{}))+'"><figcaption>'+esc(T(g.c||{}))+'</figcaption></figure>'}).join("")+'</div>';
 }
 function videoBlock(){
   var u=UI[lang];

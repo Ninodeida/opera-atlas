@@ -4,44 +4,37 @@
   "ny": {
    "en": "New York",
    "it": "New York",
-   "ka": "ნიუ-იორკი",
-   "ru": "Нью-Йорк"
+   "ka": "ნიუ-იორკი"
   },
   "ldn": {
    "en": "London",
    "it": "Londra",
-   "ka": "ლონდონი",
-   "ru": "Лондон"
+   "ka": "ლონდონი"
   },
   "vie": {
    "en": "Vienna",
    "it": "Vienna",
-   "ka": "ვენა",
-   "ru": "Вена"
+   "ka": "ვენა"
   },
   "mil": {
    "en": "Milan",
    "it": "Milano",
-   "ka": "მილანი",
-   "ru": "Милан"
+   "ka": "მილანი"
   },
   "tur": {
    "en": "Turin",
    "it": "Torino",
-   "ka": "ტურინი",
-   "ru": "Турин"
+   "ka": "ტურინი"
   },
   "reg": {
    "en": "Regensburg",
    "it": "Ratisbona",
-   "ka": "რეგენსბურგი",
-   "ru": "Регенсбург"
+   "ka": "რეგენსბურგი"
   },
   "tbs": {
    "en": "Tbilisi",
    "it": "Tbilisi",
-   "ka": "თბილისი",
-   "ru": "Тбилиси"
+   "ka": "თბილისი"
   }
  },
  "houses": {
@@ -99,8 +92,7 @@
    "n": {
     "en": "Season-opening new production by Louisa Proske, conducted by Yannick Nézet-Séguin, with Lise Davidsen and Quinn Kelsey.",
     "it": "Nuova produzione di apertura firmata Louisa Proske, direttore Yannick Nézet-Séguin, con Lise Davidsen e Quinn Kelsey.",
-    "ka": "სეზონის გახსნის ახალი დადგმა: რეჟისორი ლუიზა პროსკე, დირიჟორი იანიკ ნეზე-სეგენი, ლიზე დავიდსენი და ქუინ კელსი.",
-    "ru": "Новая постановка открытия сезона: режиссёр Луиза Проске, дирижёр Янник Незе-Сеген, Лизе Давидсен и Куинн Келси."
+    "ka": "სეზონის გახსნის ახალი დადგმა: რეჟისორი ლუიზა პროსკე, დირიჟორი იანიკ ნეზე-სეგენი, ლიზე დავიდსენი და ქუინ კელსი."
    }
   },
   {
@@ -115,8 +107,7 @@
    "n": {
     "en": "World premiere commissioned by the Met; cast includes Christine Goerke, Anthony Roth Costanzo and Peter Mattei.",
     "it": "Prima mondiale commissionata dal Met; nel cast Christine Goerke, Anthony Roth Costanzo e Peter Mattei.",
-    "ka": "მსოფლიო პრემიერა, მეტის შეკვეთით; მონაწილეობენ კრისტინ გიორკე, ენტონი როთ კოსტანცო და პეტერ მატეი.",
-    "ru": "Мировая премьера по заказу «Метрополитен»; в составе Кристин Герке, Энтони Рот Костанцо, Петер Маттеи."
+    "ka": "მსოფლიო პრემიერა, მეტის შეკვეთით; მონაწილეობენ კრისტინ გიორკე, ენტონი როთ კოსტანცო და პეტერ მატეი."
    }
   },
   {
@@ -131,8 +122,7 @@
    "n": {
     "en": "First new Met production in over 30 years; Sondra Radvanovsky as Minnie.",
     "it": "Prima nuova produzione al Met in oltre 30 anni; Sondra Radvanovsky è Minnie.",
-    "ka": "პირველი ახალი დადგმა მეტში 30 წელზე მეტი ხნის შემდეგ; მინის როლში სონდრა რადვანოვსკი.",
-    "ru": "Первая новая постановка в «Метрополитен» за 30 с лишним лет; Минни — Сондра Радвановски."
+    "ka": "პირველი ახალი დადგმა მეტში 30 წელზე მეტი ხნის შემდეგ; მინის როლში სონდრა რადვანოვსკი."
    }
   },
   {
@@ -147,8 +137,7 @@
    "n": {
     "en": "Met company premiere, directed by James Robinson.",
     "it": "Prima per il Met, regia di James Robinson.",
-    "ka": "პრემიერა მეტში; რეჟისორი ჯეიმს რობინსონი.",
-    "ru": "Премьера в «Метрополитен»; режиссёр Джеймс Робинсон."
+    "ka": "პრემიერა მეტში; რეჟისორი ჯეიმს რობინსონი."
    }
   },
   {
@@ -163,8 +152,7 @@
    "n": {
     "en": "Kasper Holten's production opens the season; Gordon Bintner in the title role, Stefano Montanari conducts.",
     "it": "La produzione di Kasper Holten apre la stagione; Gordon Bintner protagonista, direttore Stefano Montanari.",
-    "ka": "კასპერ ჰოლტენის დადგმა ხსნის სეზონს; სათაურ როლში გორდონ ბინტნერი, დირიჟორი სტეფანო მონტანარი.",
-    "ru": "Постановка Каспера Хольтена открывает сезон; Дон Жуан — Гордон Бинтнер, дирижёр Стефано Монтанари."
+    "ka": "კასპერ ჰოლტენის დადგმა ხსნის სეზონს; სათაურ როლში გორდონ ბინტნერი, დირიჟორი სტეფანო მონტანარი."
    }
   },
   {
@@ -179,8 +167,7 @@
    "n": {
     "en": "New production by Evgeny Titov (house debut), conducted by Jakub Hrůša.",
     "it": "Nuova produzione di Evgeny Titov (debutto alla Royal Opera), direttore Jakub Hrůša.",
-    "ka": "ევგენი ტიტოვის ახალი დადგმა (დებიუტი თეატრში), დირიჟორი იაკუბ ჰრუშა.",
-    "ru": "Новая постановка Евгения Титова (дебют в театре), дирижёр Якуб Грюша."
+    "ka": "ევგენი ტიტოვის ახალი დადგმა (დებიუტი თეატრში), დირიჟორი იაკუბ ჰრუშა."
    }
   },
   {
@@ -195,8 +182,7 @@
    "n": {
     "en": "UK premiere opening ENO's season, directed by Kip Williams. Exact dates: see ENO.",
     "it": "Prima britannica che apre la stagione ENO, regia di Kip Williams. Date esatte: sul sito ENO.",
-    "ka": "დიდი ბრიტანეთის პრემიერა, ENO-ს სეზონის გახსნა; რეჟისორი კიპ უილიამსი. ზუსტი თარიღები იხილეთ ENO-ს საიტზე.",
-    "ru": "Британская премьера, открывающая сезон ENO; режиссёр Кип Уильямс. Точные даты на сайте ENO."
+    "ka": "დიდი ბრიტანეთის პრემიერა, ENO-ს სეზონის გახსნა; რეჟისორი კიპ უილიამსი. ზუსტი თარიღები იხილეთ ENO-ს საიტზე."
    }
   },
   {
@@ -211,8 +197,7 @@
    "n": {
     "en": "Children's opera, world premiere, directed by Nina Blum.",
     "it": "Opera per ragazzi, prima assoluta, regia di Nina Blum.",
-    "ka": "საბავშვო ოპერა, მსოფლიო პრემიერა; რეჟისორი ნინა ბლუმი.",
-    "ru": "Детская опера, мировая премьера; режиссёр Нина Блюм."
+    "ka": "საბავშვო ოპერა, მსოფლიო პრემიერა; რეჟისორი ნინა ბლუმი."
    }
   },
   {
@@ -227,8 +212,7 @@
    "n": {
     "en": "Rolando Villazón features in this Vienna revival.",
     "it": "Rolando Villazón nella ripresa viennese.",
-    "ka": "ვენის აღდგენილ დადგმაში მონაწილეობს როლანდო ვილასონი.",
-    "ru": "В венском возобновлении участвует Роландо Вильясон."
+    "ka": "ვენის აღდგენილ დადგმაში მონაწილეობს როლანდო ვილასონი."
    }
   },
   {
@@ -243,8 +227,7 @@
    "n": {
     "en": "ENO premiere of a new production of Gluck's rarely performed masterpiece.",
     "it": "Nuova produzione per l'ENO di un capolavoro di Gluck raramente eseguito.",
-    "ka": "გლუკის იშვიათად შესრულებული შედევრის ახალი დადგმა ENO-ში.",
-    "ru": "Новая постановка редко исполняемого шедевра Глюка в ENO."
+    "ka": "გლუკის იშვიათად შესრულებული შედევრის ახალი დადგმა ENO-ში."
    }
   },
   {
@@ -259,8 +242,7 @@
    "n": {
     "en": "Verismo Festival opens the Regio season; Andrea Battistoni conducts.",
     "it": "Il Festival Verismo apre la stagione del Regio; direttore Andrea Battistoni.",
-    "ka": "ვერიზმოს ფესტივალი ხსნის რეჯოს სეზონს; დირიჟორი ანდრეა ბატისტონი.",
-    "ru": "Фестиваль веризма открывает сезон «Реджо»; дирижёр Андреа Баттистони."
+    "ka": "ვერიზმოს ფესტივალი ხსნის რეჯოს სეზონს; დირიჟორი ანდრეა ბატისტონი."
    }
   },
   {
@@ -275,8 +257,7 @@
    "n": {
     "en": "New opera by Jonathan Dove and Peter Lund after Frances Hodgson Burnett.",
     "it": "Nuova opera di Jonathan Dove e Peter Lund dal romanzo di Frances Hodgson Burnett.",
-    "ka": "ჯონათან დოუვისა და პიტერ ლუნდის ახალი ოპერა ფრენსის ჰოჯსონ ბერნეტის რომანის მიხედვით.",
-    "ru": "Новая опера Джонатана Дав и Питера Лунда по роману Фрэнсис Ходжсон Бёрнетт."
+    "ka": "ჯონათან დოუვისა და პიტერ ლუნდის ახალი ოპერა ფრენსის ჰოჯსონ ბერნეტის რომანის მიხედვით."
    }
   },
   {
@@ -291,8 +272,7 @@
    "n": {
     "en": "Prima della Scala, 7 December: Myung-Whun Chung's first season as music director, staging by Damiano Michieletto, with Brian Jagde, Luca Salsi and Eleonora Buratto.",
     "it": "Prima della Scala, 7 dicembre: prima stagione di Myung-Whun Chung come direttore musicale, regia di Damiano Michieletto, con Brian Jagde, Luca Salsi ed Eleonora Buratto.",
-    "ka": "სკალას პრემიერა, 7 დეკემბერი: მიუნგ-ვუნ ჩუნგის პირველი სეზონი მუსიკალურ დირექტორად; დადგმა დამიანო მიკელეტო, ბრაიან ჯეგდი, ლუკა სალსი და ელეონორა ბურატო.",
-    "ru": "Открытие сезона Ла Скала 7 декабря: первый сезон Мён Вун Чунга в качестве музыкального директора, постановка Дамиано Микелетто, Брайан Джэгд, Лука Сальси и Элеонора Буратто."
+    "ka": "სკალას პრემიერა, 7 დეკემბერი: მიუნგ-ვუნ ჩუნგის პირველი სეზონი მუსიკალურ დირექტორად; დადგმა დამიანო მიკელეტო, ბრაიან ჯეგდი, ლუკა სალსი და ელეონორა ბურატო."
    }
   },
   {
@@ -307,8 +287,7 @@
    "n": {
     "en": "New production by Tinuke Craig closes ENO's season.",
     "it": "Nuova produzione di Tinuke Craig.",
-    "ka": "ტინუკე კრეიგის ახალი დადგმა.",
-    "ru": "Новая постановка Тинуке Крэйг."
+    "ka": "ტინუკე კრეიგის ახალი დადგმა."
    }
   },
   {
@@ -323,8 +302,7 @@
    "n": {
     "en": "Francesco Ivan Ciampa makes his La Scala debut; staged by Chiara Muti.",
     "it": "Debutto alla Scala di Francesco Ivan Ciampa; regia di Chiara Muti.",
-    "ka": "ფრანჩესკო ივან ჩამპას დებიუტი სკალაში; რეჟისორი კიარა მუტი.",
-    "ru": "Дебют Франческо Ивана Чампы в Ла Скала; режиссёр Кьяра Мути."
+    "ka": "ფრანჩესკო ივან ჩამპას დებიუტი სკალაში; რეჟისორი კიარა მუტი."
    }
   },
   {
@@ -339,8 +317,37 @@
    "n": {
     "en": "Premiere with Lisette Oropesa and Emily D'Angelo, directed by Tatjana Gürbaca.",
     "it": "Prima con Lisette Oropesa ed Emily D'Angelo, regia di Tatjana Gürbaca.",
-    "ka": "პრემიერა ლიზეტ ოროპესასა და ემილი დანჯელოს მონაწილეობით; რეჟისორი ტატიანა გიურბაჩა.",
-    "ru": "Премьера с Лизетт Оропеса и Эмили Д'Анджело; режиссёр Татьяна Гюрбача."
+    "ka": "პრემიერა ლიზეტ ოროპესასა და ემილი დანჯელოს მონაწილეობით; რეჟისორი ტატიანა გიურბაჩა."
+   }
+  },
+  {
+   "id": "tbs-nectar-2610",
+   "s": "2026-10-22",
+   "e": "2026-10-25",
+   "h": "tbs",
+   "ty": "run",
+   "t": "სიყვარულის ნექტარი",
+   "c": "",
+   "u": "https://www.opera.ge/",
+   "n": {
+    "en": "Performances on 22, 23, 24 and 25 October 2026, as listed on the theatre's website. The site does not state the composer.",
+    "it": "Recite il 22, 23, 24 e 25 ottobre 2026, come indicato sul sito del teatro. Il sito non indica il compositore.",
+    "ka": "წარმოდგენები 22, 23, 24 და 25 ოქტომბერს, თეატრის საიტის მიხედვით. ავტორი საიტზე მითითებული არ არის."
+   }
+  },
+  {
+   "id": "tbs-sleeping-2610",
+   "s": "2026-10-30",
+   "e": "2026-11-03",
+   "h": "tbs",
+   "ty": "run",
+   "t": "მძინარე მზეთუნახავი",
+   "c": "",
+   "u": "https://www.opera.ge/",
+   "n": {
+    "en": "Performances on 30 and 31 October and 1 and 3 November 2026, as listed on the theatre's website. The site does not state the composer or genre.",
+    "it": "Recite il 30 e 31 ottobre e l'1 e 3 novembre 2026, come indicato sul sito del teatro. Il sito non indica compositore né genere.",
+    "ka": "წარმოდგენები 30 და 31 ოქტომბერს, 1 და 3 ნოემბერს, თეატრის საიტის მიხედვით. ავტორი და ჟანრი საიტზე მითითებული არ არის."
    }
   }
  ],
@@ -352,8 +359,7 @@
    "t": {
     "en": "ENO announces nine operas for 2026/27, six of them new productions, including Tosca and Adriana Mater as a connected pair.",
     "it": "L'ENO annuncia nove opere per il 2026/27, sei nuove produzioni, tra cui Tosca e Adriana Mater come dittico collegato.",
-    "ka": "ENO აცხადებს 2026/27 სეზონს: ცხრა ოპერა, მათ შორის ექვსი ახალი დადგმა; Tosca და Adriana Mater ერთმანეთთან დაკავშირებული წყვილია.",
-    "ru": "ENO объявил сезон 2026/27: девять опер, шесть новых постановок, включая связанную пару «Тоска» и «Адриана Матер»."
+    "ka": "ENO აცხადებს 2026/27 სეზონს: ცხრა ოპერა, მათ შორის ექვსი ახალი დადგმა; Tosca და Adriana Mater ერთმანეთთან დაკავშირებული წყვილია."
    }
   },
   {
@@ -363,8 +369,7 @@
    "t": {
     "en": "Royal Opera 2026/27: ten new productions, among them Parsifal, Un ballo in maschera, the final part of Kosky's Ring (Götterdämmerung), La Gioconda and Hercules.",
     "it": "Royal Opera 2026/27: dieci nuove produzioni, tra cui Parsifal, Un ballo in maschera, Götterdämmerung (ultimo capitolo del Ring di Kosky), La Gioconda ed Hercules.",
-    "ka": "Royal Opera 2026/27: ათი ახალი დადგმა, მათ შორის Parsifal, Un ballo in maschera, Götterdämmerung (კოსკის „რინგის“ დასკვნითი ნაწილი), La Gioconda და Hercules.",
-    "ru": "Royal Opera 2026/27: десять новых постановок, среди них «Парсифаль», «Бал-маскарад», «Гибель богов» (финал «Кольца» Коски), «Джоконда» и «Геракл»."
+    "ka": "Royal Opera 2026/27: ათი ახალი დადგმა, მათ შორის Parsifal, Un ballo in maschera, Götterdämmerung (კოსკის „რინგის“ დასკვნითი ნაწილი), La Gioconda და Hercules."
    }
   },
   {
@@ -374,8 +379,7 @@
    "t": {
     "en": "Vienna State Opera unveils six opera premieres and two ballet premieres for 2026/27.",
     "it": "La Staatsoper di Vienna presenta sei prime d'opera e due di balletto per il 2026/27.",
-    "ka": "ვენის სახელმწიფო ოპერა 2026/27-ისთვის ექვს საოპერო და ორ საბალეტო პრემიერას გვთავაზობს.",
-    "ru": "Венская государственная опера представила шесть оперных и две балетные премьеры сезона 2026/27."
+    "ka": "ვენის სახელმწიფო ოპერა 2026/27-ისთვის ექვს საოპერო და ორ საბალეტო პრემიერას გვთავაზობს."
    }
   },
   {
@@ -385,8 +389,7 @@
    "t": {
     "en": "La Scala 2026/27: 13 operas, with Nixon in China, Leonora by Paër, I Puritani after 55 years, Don Quichotte and a new Macbeth by Barrie Kosky.",
     "it": "Scala 2026/27: 13 titoli, tra cui Nixon in China, Leonora di Paër, I Puritani dopo 55 anni, Don Quichotte e un nuovo Macbeth di Barrie Kosky.",
-    "ka": "ლა სკალა 2026/27: 13 ოპერა, მათ შორის Nixon in China, პაერის Leonora, I Puritani 55 წლის შემდეგ, Don Quichotte და ბარი კოსკის ახალი Macbeth.",
-    "ru": "Ла Скала 2026/27: 13 опер, среди них «Никсон в Китае», «Леонора» Паэра, «Пуритане» после 55 лет, «Дон Кихот» и новый «Макбет» Барри Коски."
+    "ka": "ლა სკალა 2026/27: 13 ოპერა, მათ შორის Nixon in China, პაერის Leonora, I Puritani 55 წლის შემდეგ, Don Quichotte და ბარი კოსკის ახალი Macbeth."
    }
   },
   {
@@ -396,8 +399,7 @@
    "t": {
     "en": "The Met announces five new productions, twelve revivals and a 60th-anniversary gala for 2026/27.",
     "it": "Il Met annuncia cinque nuove produzioni, dodici riprese e un gala per il 60° anniversario nel 2026/27.",
-    "ka": "მეტი 2026/27 სეზონისთვის აცხადებს ხუთ ახალ დადგმას, თორმეტ აღდგენას და 60 წლისთავის გალას.",
-    "ru": "«Метрополитен» объявил на 2026/27 пять новых постановок, двенадцать возобновлений и гала к 60-летию."
+    "ka": "მეტი 2026/27 სეზონისთვის აცხადებს ხუთ ახალ დადგმას, თორმეტ აღდგენას და 60 წლისთავის გალას."
    }
   }
  ],
@@ -412,8 +414,7 @@
    "t": {
     "en": "A grim, psychologically driven post-apocalyptic staging. Quinn Kelsey is singled out for authority in the title role, the chorus is praised, and Lise Davidsen's much-awaited Lady Macbeth debut is judged somewhat disappointing.",
     "it": "Allestimento cupo e post-apocalittico. Quinn Kelsey spicca per autorevolezza, il coro è lodato, mentre il debutto di Lise Davidsen come Lady Macbeth, molto atteso, delude in parte.",
-    "ka": "პირქუში, ფსიქოლოგიური, პოსტაპოკალიფსური დადგმა. კრიტიკოსი გამოარჩევს კუინ კელსის ავტორიტეტულ მაკბეტს და გუნდს; ლიზე დავიდსენის ლედი მაკბეტის დებიუტი ნაწილობრივ იმედგაცრუებად მიიჩნევა.",
-    "ru": "Мрачная психологическая постановка в духе постапокалипсиса. Отмечены авторитетный Макбет Куинна Келси и хор; долгожданный дебют Лизе Давидсен в роли леди Макбет признан отчасти разочаровывающим."
+    "ka": "პირქუში, ფსიქოლოგიური, პოსტაპოკალიფსური დადგმა. კრიტიკოსი გამოარჩევს კუინ კელსის ავტორიტეტულ მაკბეტს და გუნდს; ლიზე დავიდსენის ლედი მაკბეტის დებიუტი ნაწილობრივ იმედგაცრუებად მიიჩნევა."
    }
   },
   {
@@ -428,8 +429,7 @@
    "t": {
     "en": "Lindy Hume's staging strips away clichés. The reviewer calls Nino Surguladze a marvel in the title role, praising her subtle acting and her phrasing in the Habanera and the duet with Don José.",
     "it": "La regia di Lindy Hume elimina i cliché. Per il recensore Nino Surguladze è una meraviglia nel ruolo del titolo, con recitazione sottile e fraseggio notevole nell'Habanera e nel duetto con Don José.",
-    "ka": "ლინდი ჰიუმის დადგმა კლიშეებს ერიდება. რეცენზენტისთვის ნინო სურგულაძე სათაურ როლში საოცრებაა: დახვეწილი მსახიობობა და ფრაზირება ჰაბანერასა და დონ ხოსესთან დუეტში.",
-    "ru": "Постановка Линди Хьюм избегает клише. Рецензент называет Нино Сургуладзе чудом в главной роли: тонкая игра и фразировка в Хабанере и дуэте с Хосе."
+    "ka": "ლინდი ჰიუმის დადგმა კლიშეებს ერიდება. რეცენზენტისთვის ნინო სურგულაძე სათაურ როლში საოცრებაა: დახვეწილი მსახიობობა და ფრაზირება ჰაბანერასა და დონ ხოსესთან დუეტში."
    }
   },
   {
@@ -444,8 +444,7 @@
    "t": {
     "en": "Review of a strong double casting. Nino Surguladze appears as Amneris alongside Violeta Urmana in the same role.",
     "it": "Recensione di un doppio cast di alto livello. Nino Surguladze è Amneris, alternandosi con Violeta Urmana.",
-    "ka": "რეცენზია ძლიერ ორმაგ შემადგენლობაზე. ნინო სურგულაძე ამნერისის პარტიას ასრულებს ვიოლეტა ურმანასთან ერთად.",
-    "ru": "Рецензия на сильный двойной состав. Нино Сургуладзе поёт Амнерис, чередуясь с Виолетой Урманой."
+    "ka": "რეცენზია ძლიერ ორმაგ შემადგენლობაზე. ნინო სურგულაძე ამნერისის პარტიას ასრულებს ვიოლეტა ურმანასთან ერთად."
    }
   },
   {
@@ -460,8 +459,7 @@
    "t": {
     "en": "Opernwelt calls her Romeo extraordinary, fully committed and sung with a warm, dramatic, velvety voice, and praises the bel canto of the whole production.",
     "it": "Opernwelt definisce straordinario il suo Romeo: totale dedizione scenica, voce calda, drammatica e vellutata; lodato il belcanto dell'intera produzione.",
-    "ka": "Opernwelt მის რომეოს არაჩვეულებრივს უწოდებს: სრული თავდადება სცენაზე, თბილი, დრამატული, ხავერდოვანი ხმა; მთელი დადგმის ბელკანტოც შექებულია.",
-    "ru": "Opernwelt называет её Ромео исключительным: полная самоотдача, тёплый, драматичный, бархатный голос; хвалит и бельканто всей постановки."
+    "ka": "Opernwelt მის რომეოს არაჩვეულებრივს უწოდებს: სრული თავდადება სცენაზე, თბილი, დრამატული, ხავერდოვანი ხმა; მთელი დადგმის ბელკანტოც შექებულია."
    }
   },
   {
@@ -476,8 +474,7 @@
    "t": {
     "en": "The New York Times reviewed the live television production filmed in Mantua with Plácido Domingo. Nino Surguladze sang Maddalena.",
     "it": "Il New York Times ha recensito la produzione televisiva in diretta girata a Mantova con Plácido Domingo. Nino Surguladze era Maddalena.",
-    "ka": "The New York Times-მა მანტუაში გადაღებული ცოცხალი სატელევიზიო წარმოდგენა განიხილა პლასიდო დომინგოს მონაწილეობით. ნინო სურგულაძე მადალენას ასრულებდა.",
-    "ru": "The New York Times рецензировала телевизионную постановку, снятую в Мантуе с Пласидо Доминго. Нино Сургуладзе пела Маддалену."
+    "ka": "The New York Times-მა მანტუაში გადაღებული ცოცხალი სატელევიზიო წარმოდგენა განიხილა პლასიდო დომინგოს მონაწილეობით. ნინო სურგულაძე მადალენას ასრულებდა."
    }
   }
  ],
@@ -486,20 +483,22 @@
    {
     "en": "Presidential Order of Excellence (Georgia)",
     "it": "Presidential Order of Excellence (Georgia)",
-    "ka": "საქართველოს პრეზიდენტის ბრწყინვალების ორდენი",
-    "ru": "Presidential Order of Excellence (Грузия)"
+    "ka": "საქართველოს პრეზიდენტის ბრწყინვალების ორდენი"
    },
    {
     "en": "Cavaliere della Stella d'Italia",
     "it": "Cavaliere della Stella d'Italia",
-    "ka": "იტალიის ვარსკვლავის კავალერი",
-    "ru": "Кавалер ордена Звезды Италии"
+    "ka": "იტალიის ვარსკვლავის კავალერი"
    },
    {
     "en": "GBOSCAR 2014–15, best mezzo-soprano (Fenena, Arena di Verona)",
     "it": "GBOSCAR 2014–15, miglior mezzosoprano (Fenena, Arena di Verona)",
-    "ka": "GBOSCAR 2014–15, საუკეთესო მეცოსოპრანო (ფენენა, ვერონას არენა)",
-    "ru": "GBOSCAR 2014–15, лучшая меццо-сопрано (Фенена, Арена ди Верона)"
+    "ka": "GBOSCAR 2014–15, საუკეთესო მეცოსოპრანო (ფენენა, ვერონას არენა)"
+   },
+   {
+    "en": "Gold Medal of the Dante Alighieri Society (Italy), 2026",
+    "it": "Medaglia d'oro della Società Dante Alighieri, 2026",
+    "ka": "დანტე ალიგიერის საზოგადოების ოქროს მედალი (იტალია), 2026"
    }
   ],
   "timeline": [
@@ -508,8 +507,7 @@
     "t": {
      "en": "Born in Tbilisi on 12 October. Studied journalism, then voice at the Tbilisi Conservatory with Guliko Kariauli.",
      "it": "Nasce a Tbilisi il 12 ottobre. Studia giornalismo, poi canto al Conservatorio di Tbilisi con Guliko Kariauli.",
-     "ka": "დაიბადა თბილისში, 12 ოქტომბერს. სწავლობდა ჟურნალისტიკას, შემდეგ თბილისის კონსერვატორიაში გულიკო კარიაულთან ვოკალს.",
-     "ru": "Родилась в Тбилиси 12 октября. Училась журналистике, затем вокалу в Тбилисской консерватории у Гулико Кариаули."
+     "ka": "დაიბადა თბილისში, 12 ოქტომბერს. სწავლობდა ჟურნალისტიკას, შემდეგ თბილისის კონსერვატორიაში გულიკო კარიაულთან ვოკალს."
     },
     "l": [
      [
@@ -523,8 +521,7 @@
     "t": {
      "en": "Prizes at the Toulouse and Francisco Viñas competitions; takes part in BBC Cardiff Singer of the World (2003). Debuts at the Liceu in Barcelona aged 22 as Sonyetka (Lady Macbeth of Mtsensk).",
      "it": "Premi ai concorsi di Tolosa e Francisco Viñas; partecipa al BBC Cardiff Singer of the World (2003). Debutta al Liceu di Barcellona a 22 anni come Sonjetka (Lady Macbeth del distretto di Mcensk).",
-     "ka": "პრიზები ტულუზის და ფრანსისკო ვინიასის კონკურსებზე; მონაწილეობს BBC Cardiff Singer of the World-ში (2003). 22 წლის ასაკში დებიუტი ბარსელონას ლისეუში სონეტკას როლით („მცენსკის ლედი მაკბეტი“).",
-     "ru": "Премии на конкурсах в Тулузе и имени Франсиско Виньяса; участие в BBC Cardiff Singer of the World (2003). Дебют в «Лисеу» (Барселона) в 22 года в роли Сонетки («Леди Макбет Мценского уезда»)."
+     "ka": "პრიზები ტულუზის და ფრანსისკო ვინიასის კონკურსებზე; მონაწილეობს BBC Cardiff Singer of the World-ში (2003). 22 წლის ასაკში დებიუტი ბარსელონას ლისეუში სონეტკას როლით („მცენსკის ლედი მაკბეტი“)."
     },
     "l": [
      [
@@ -542,8 +539,7 @@
     "t": {
      "en": "Milan debut as Cuniza (Oberto) and Zulma (L'italiana in Algeri). Completes her training at the La Scala Academy under Leyla Gencer, Luciana Serra and Luigi Alva.",
      "it": "Debutto a Milano come Cuniza (Oberto) e Zulma (L'italiana in Algeri). Completa gli studi all'Accademia della Scala con Leyla Gencer, Luciana Serra e Luigi Alva.",
-     "ka": "მილანში დებიუტი კუნიცას (Oberto) და ზულმას (L'italiana in Algeri) როლებით. სკალას აკადემიაში დაასრულა სწავლა ლეილა ჯენჯერთან, ლუჩანა სერასა და ლუიჯი ალვასთან.",
-     "ru": "Дебют в Милане: Куниза («Оберто») и Зульма («Итальянка в Алжире»). Завершает обучение в Академии Ла Скала у Лейлы Генчер, Лучаны Серры и Луиджи Альвы."
+     "ka": "მილანში დებიუტი კუნიცას (Oberto) და ზულმას (L'italiana in Algeri) როლებით. სკალას აკადემიაში დაასრულა სწავლა ლეილა ჯენჯერთან, ლუჩანა სერასა და ლუიჯი ალვასთან."
     },
     "l": [
      [
@@ -561,8 +557,7 @@
     "t": {
      "en": "La Scala debut aged 23 as Marie in Moïse et Pharaon under Riccardo Muti, at a season opening. Later at La Scala: Meg (Falstaff), Olga, Idamante, Fenena, Siebel, Valencienne.",
      "it": "Debutto alla Scala a 23 anni come Marie in Moïse et Pharaon con Riccardo Muti, in un'inaugurazione di stagione. Poi alla Scala: Meg, Olga, Idamante, Fenena, Siebel, Valencienne.",
-     "ka": "სკალაში დებიუტი 23 წლის ასაკში: მარი (Moïse et Pharaon), რიკარდო მუტის დირიჟორობით, სეზონის გახსნაზე. შემდგომ სკალაში: მეგი (Falstaff), ოლგა, იდამანტე, ფენენა, ზიბელი, ვალანსიენი.",
-     "ru": "Дебют в Ла Скала в 23 года: Мари («Моисей и Фараон») под управлением Риккардо Мути на открытии сезона. Позже в Ла Скала: Мэг, Ольга, Идамант, Фенена, Зибель, Валансьенн."
+     "ka": "სკალაში დებიუტი 23 წლის ასაკში: მარი (Moïse et Pharaon), რიკარდო მუტის დირიჟორობით, სეზონის გახსნაზე. შემდგომ სკალაში: მეგი (Falstaff), ოლგა, იდამანტე, ფენენა, ზიბელი, ვალანსიენი."
     },
     "l": [
      [
@@ -580,8 +575,7 @@
     "t": {
      "en": "Salzburg Festival debut as Sinaide in Moïse et Pharaon.",
      "it": "Debutto al Festival di Salisburgo come Sinaide in Moïse et Pharaon.",
-     "ka": "დებიუტი ზალცბურგის ფესტივალზე: სინაიდა (Moïse et Pharaon).",
-     "ru": "Дебют на Зальцбургском фестивале: Синаида («Моисей и Фараон»)."
+     "ka": "დებიუტი ზალცბურგის ფესტივალზე: სინაიდა (Moïse et Pharaon)."
     },
     "l": [
      [
@@ -595,8 +589,7 @@
     "t": {
      "en": "Maddalena in the live television film Rigoletto a Mantova with Plácido Domingo, Ruggero Raimondi and Vittorio Grigolo.",
      "it": "Maddalena nel film televisivo in diretta Rigoletto a Mantova con Plácido Domingo, Ruggero Raimondi e Vittorio Grigolo.",
-     "ka": "მადალენა ცოცხალ სატელევიზიო ფილმში Rigoletto a Mantova პლასიდო დომინგოს, რუჯერო რაიმონდისა და ვიტორიო გრიგოლოს მონაწილეობით.",
-     "ru": "Маддалена в телефильме «Риголетто в Мантуе» с Пласидо Доминго, Руджеро Раймонди и Витторио Григоло."
+     "ka": "მადალენა ცოცხალ სატელევიზიო ფილმში Rigoletto a Mantova პლასიდო დომინგოს, რუჯერო რაიმონდისა და ვიტორიო გრიგოლოს მონაწილეობით."
     },
     "l": [
      [
@@ -614,8 +607,7 @@
     "t": {
      "en": "13 September: charity concert at Tbilisi Concert Hall with international colleagues, for her foundation Desire Tree, which helps children needing medical care.",
      "it": "13 settembre: concerto benefico alla Tbilisi Concert Hall con colleghi internazionali per la sua fondazione Desire Tree, che aiuta bambini bisognosi di cure.",
-     "ka": "13 სექტემბერი: საქველმოქმედო კონცერტი თბილისის საკონცერტო დარბაზში საერთაშორისო კოლეგებთან ერთად მისი ფონდის „სურვილების ხე“ სასარგებლოდ, რომელიც სამედიცინო დახმარებას უწევს ბავშვებს.",
-     "ru": "13 сентября: благотворительный концерт в Тбилисском концертном зале с зарубежными коллегами в пользу её фонда Desire Tree, помогающего детям, которым нужна медицинская помощь."
+     "ka": "13 სექტემბერი: საქველმოქმედო კონცერტი თბილისის საკონცერტო დარბაზში საერთაშორისო კოლეგებთან ერთად მისი ფონდის „სურვილების ხე“ სასარგებლოდ, რომელიც სამედიცინო დახმარებას უწევს ბავშვებს."
     },
     "l": [
      [
@@ -629,8 +621,7 @@
     "t": {
      "en": "GBOSCAR for best mezzo-soprano of the 2014–15 season for Fenena in Nabucco at the Arena di Verona.",
      "it": "GBOSCAR come miglior mezzosoprano della stagione 2014–15 per Fenena in Nabucco all'Arena di Verona.",
-     "ka": "GBOSCAR 2014–15 სეზონის საუკეთესო მეცოსოპრანოდ: ფენენა, Nabucco, ვერონას არენა.",
-     "ru": "GBOSCAR как лучшая меццо-сопрано сезона 2014–15 за Фенену в «Набукко» на Арена ди Верона."
+     "ka": "GBOSCAR 2014–15 სეზონის საუკეთესო მეცოსოპრანოდ: ფენენა, Nabucco, ვერონას არენა."
     },
     "l": [
      [
@@ -644,8 +635,7 @@
     "t": {
      "en": "Carmen with New Zealand Opera (June), Amneris at Opera Hong Kong (October), a part in the Netflix series The Alienist.",
      "it": "Carmen alla New Zealand Opera (giugno), Amneris all'Opera Hong Kong (ottobre), una parte nella serie Netflix The Alienist.",
-     "ka": "კარმენი New Zealand Opera-ში (ივნისი), ამნერისი Opera Hong Kong-ში (ოქტომბერი), როლი Netflix-ის სერიალში The Alienist.",
-     "ru": "Кармен в New Zealand Opera (июнь), Амнерис в Opera Hong Kong (октябрь), роль в сериале Netflix «Алиенист»."
+     "ka": "კარმენი New Zealand Opera-ში (ივნისი), ამნერისი Opera Hong Kong-ში (ოქტომბერი), როლი Netflix-ის სერიალში The Alienist."
     },
     "l": [
      [
@@ -667,8 +657,7 @@
     "t": {
      "en": "Title role in a video-recorded Carmen at the Opéra Royal de Wallonie, Liège.",
      "it": "Ruolo del titolo in una Carmen registrata in video all'Opéra Royal de Wallonie di Liegi.",
-     "ka": "სათაურ როლი ვიდეოჩანაწერში Carmen, ლიეჟის ვალონიის სამეფო ოპერა.",
-     "ru": "Главная партия в видеозаписи «Кармен» в Королевской опере Валлонии (Льеж)."
+     "ka": "სათაურ როლი ვიდეოჩანაწერში Carmen, ლიეჟის ვალონიის სამეფო ოპერა."
     },
     "l": [
      [
@@ -682,8 +671,7 @@
     "t": {
      "en": "20–28 January: Amneris in a new Aida production at Teatro Massimo Bellini, Catania, alternating with Irene Savignano.",
      "it": "20–28 gennaio: Amneris in una nuova Aida al Teatro Massimo Bellini di Catania, in alternanza con Irene Savignano.",
-     "ka": "20–28 იანვარი: ამნერისი ახალ Aida-ში, კატანიის ბელინის თეატრი, ირენე სავინიანოსთან ერთად.",
-     "ru": "20–28 января: Амнерис в новой «Аиде» в Театро Массимо Беллини (Катания), поочерёдно с Ирене Савиньяно."
+     "ka": "20–28 იანვარი: ამნერისი ახალ Aida-ში, კატანიის ბელინის თეატრი, ირენე სავინიანოსთან ერთად."
     },
     "l": [
      [
@@ -691,21 +679,99 @@
       "https://www.lasicilia.it/evento/eventi/3013631/aida-al-teatro-massimo-bellini-amore-potere-e-tragedia-in-scena-dal-20-al-28-gennaio.html"
      ]
     ]
+   },
+   {
+    "y": "2018",
+    "t": {
+     "en": "Azucena in Il trovatore at the Teatro Regio di Parma; Alceste (Gluck) at Maggio Musicale Fiorentino, her debut there (March); Carmen at the Opéra Royal de Wallonie (conductor Speranza Scappucci).",
+     "it": "Azucena ne Il trovatore al Teatro Regio di Parma; Alceste (Gluck) al Maggio Musicale Fiorentino, suo debutto (marzo); Carmen all'Opéra Royal de Wallonie (direttore Speranza Scappucci).",
+     "ka": "აძუჩენა „ტრუბადურში\" Teatro Regio di Parma-ში; გლუკის „ალკესტი\" Maggio Musicale Fiorentino-ზე, დებიუტი (მარტი); კარმენი Opéra Royal de Wallonie-ში (დირიჟორი სპერანცა სკაპუჩი)."
+    }
+   },
+   {
+    "y": "2019",
+    "t": {
+     "en": "Amneris in Aida at the Opéra Royal de Wallonie, Liège; Maddalena in Rigoletto at the Palau de les Arts Reina Sofía, Valencia (May); Azucena in Il trovatore at the Teatro Comunale di Bologna; Rigoletto in Beijing.",
+     "it": "Amneris in Aida all'Opéra Royal de Wallonie di Liegi; Maddalena in Rigoletto al Palau de les Arts Reina Sofía di Valencia (maggio); Azucena ne Il trovatore al Teatro Comunale di Bologna; Rigoletto a Pechino.",
+     "ka": "ამნერისი „აიდაში\" Opéra Royal de Wallonie-ში, ლიეჟი; მადალენა „რიგოლეტოში\" Palau de les Arts Reina Sofía-ში, ვალენსია (მაისი); აძუჩენა „ტრუბადურში\" ბოლონიის Teatro Comunale-ში; „რიგოლეტო\" პეკინში."
+    }
+   },
+   {
+    "y": "2020",
+    "t": {
+     "en": "International gala concerts and special cultural projects during the pandemic; active charitable work through the Desire Tree Foundation.",
+     "it": "Concerti di gala internazionali e progetti culturali speciali durante la pandemia; intensa attività benefica con la Fondazione Desire Tree.",
+     "ka": "საერთაშორისო გალა-კონცერტები და განსაკუთრებული კულტურული პროექტები პანდემიის პერიოდში; აქტიური საქველმოქმედო საქმიანობა ფონდ „სურვილის ხის\" ფარგლებში."
+    }
+   },
+   {
+    "y": "2021",
+    "t": {
+     "en": "Preziosilla in La forza del destino in Liège; Fenena in Nabucco in Bari (October); Maddalena in Rigoletto at the Liceu (November–December).",
+     "it": "Preziosilla ne La forza del destino a Liegi; Fenena in Nabucco a Bari (ottobre); Maddalena in Rigoletto al Liceu (novembre–dicembre).",
+     "ka": "Პრეციოზილა „ბედისწერის ძალაში\" ლიეჟში; ფენენა „ნაბუკოში\" ბარიში (ოქტომბერი); მადალენა „რიგოლეტოში\" Liceu-ში (ნოემბერი–დეკემბერი)."
+    }
+   },
+   {
+    "y": "2022",
+    "t": {
+     "en": "The Innkeeper in Prokofiev's The Fiery Angel at the Teatro Real, Madrid.",
+     "it": "L'Ostessa ne L'angelo di fuoco di Prokof'ev al Teatro Real di Madrid.",
+     "ka": "მეპატრონე პროკოფიევის „ცეცხლოვან ანგელოზში\" მადრიდის Teatro Real-ში."
+    }
+   },
+   {
+    "y": "2023",
+    "t": {
+     "en": "Concert and opera appearances across Europe; continued work in the Verdi, Bizet and French repertoire.",
+     "it": "Concerti e produzioni liriche in Europa; prosegue il lavoro nel repertorio verdiano, bizetiano e francese.",
+     "ka": "საკონცერტო და საოპერო გამოსვლები ევროპაში; გაგრძელდა მუშაობა ვერდის, ბიზესა და ფრანგულ რეპერტუარში."
+    }
+   },
+   {
+    "y": "2024",
+    "t": {
+     "en": "Suzuki in Madama Butterfly at the Teatro Real; Kabanicha in Káťa Kabanová at the Opéra Royal de Wallonie.",
+     "it": "Suzuki in Madama Butterfly al Teatro Real; Kabanicha in Káťa Kabanová all'Opéra Royal de Wallonie.",
+     "ka": "სუძუკი „მადამა ბატერფლაიში\" Teatro Real-ში; კაბანიხა „კატია კაბანოვაში\" Opéra Royal de Wallonie-ში."
+    }
+   },
+   {
+    "y": "2025",
+    "t": {
+     "en": "Gala concerts and opera projects across Europe; continued work in her main dramatic mezzo repertoire: Carmen, Amneris, Santuzza.",
+     "it": "Concerti di gala e progetti lirici in Europa; prosegue il lavoro nel repertorio principale di mezzosoprano drammatico: Carmen, Amneris, Santuzza.",
+     "ka": "გალა-კონცერტები და საოპერო პროექტები ევროპაში; გაგრძელდა მუშაობა ძირითად დრამატულ მეცო-რეპერტუარზე: კარმენი, ამნერისი, სანტუცა."
+    }
+   },
+   {
+    "y": "2026",
+    "t": {
+     "en": "Amneris in the season-opening Aida at the Teatro Massimo Bellini, Catania (conductor Fabrizio Maria Carminati); Verdi's Messa da Requiem at the Teatro Politeama Garibaldi, Palermo (Stefano Ranzani) and Symphony No. 9 in Palermo. Announced debuts: Venus in Tannhäuser (Sydney) and Lohengrin (Liège).",
+     "it": "Amneris nell'Aida di apertura di stagione al Teatro Massimo Bellini di Catania (direttore Fabrizio Maria Carminati); Messa da Requiem di Verdi al Teatro Politeama Garibaldi di Palermo (Stefano Ranzani) e Sinfonia n. 9 a Palermo. Debutti annunciati: Venere in Tannhäuser (Sydney) e Lohengrin (Liegi).",
+     "ka": "ამნერისი სეზონის გამხსნელ „აიდაში\" კატანიის Teatro Massimo Bellini-ში (დირიჟორი ფაბრიციო მარია კარმინატი); ვერდის „Messa da Requiem\" პალერმოს Teatro Politeama Garibaldi-ში (სტეფანო რანძანი) და მე-9 სიმფონია პალერმოში. გამოცხადებული დებიუტები: ვენერა „ტანჰოიზერში\" (სიდნეი) და „ლოენგრინი\" (ლიეჟი)."
+    }
+   },
+   {
+    "y": "2026",
+    "t": {
+     "en": "Received the Gold Medal of Italy's international Dante Alighieri Society and a diploma as a distinguished figure.",
+     "it": "Riceve la Medaglia d'oro della Società Dante Alighieri internazionale e un diploma di benemerenza.",
+     "ka": "მიიღო იტალიის საერთაშორისო დანტე ალიგიერის საზოგადოების ოქროს მედალი და დამსახურებული მოღვაწის წოდების დიპლომი."
+    }
    }
   ],
   "roles": {
    "en": "Roles named in official biographies: Carmen, Amneris, Maddalena, Dorabella, Romeo (Capuleti), Adalgisa, Santuzza, Suzuki, Azucena, Preziosilla, Marfa (Káťa Kabanová), Ježibaba (Rusalka), Olga, Fenena, Idamante. Houses include the Met, Covent Garden, Opéra de Paris, Teatro Real, Lyric Opera of Chicago, Glyndebourne, Mariinsky, San Carlo, Arena di Verona.",
    "it": "Ruoli indicati nelle biografie ufficiali: Carmen, Amneris, Maddalena, Dorabella, Romeo (Capuleti), Adalgisa, Santuzza, Suzuki, Azucena, Preziosilla, Marfa (Káťa Kabanová), Ježibaba (Rusalka), Olga, Fenena, Idamante. Teatri: Met, Covent Garden, Opéra de Paris, Teatro Real, Lyric Opera di Chicago, Glyndebourne, Mariinskij, San Carlo, Arena di Verona.",
-   "ka": "ოფიციალურ ბიოგრაფიებში დასახელებული პარტიები: კარმენი, ამნერისი, მადალენა, დორაბელა, რომეო (Capuleti), ადალჯიზა, სანტუცა, სუძუკი, აძუჩენა, პრეციოზილა, მარფა (Káťa Kabanová), ეზიბაბა (Rusalka), ოლგა, ფენენა, იდამანტე. თეატრები: მეტროპოლიტენი, კოვენტ-გარდენი, პარიზის ოპერა, ტეატრო რეალი, ჩიკაგოს ლირიკული ოპერა, გლაინდბორნი, მარიინსკი, სან კარლო, ვერონას არენა.",
-   "ru": "Партии из официальных биографий: Кармен, Амнерис, Маддалена, Дорабелла, Ромео («Капулетти»), Адальджиза, Сантуцца, Судзуки, Азучена, Прециозилла, Марфа («Катя Кабанова»), Ёжибаба («Русалка»), Ольга, Фенена, Идамант. Театры: «Метрополитен», Ковент-Гарден, Парижская опера, Театро Реаль, Чикагская лирическая опера, Глайндборн, Мариинский, Сан-Карло, Арена ди Верона."
+   "ka": "ოფიციალურ ბიოგრაფიებში დასახელებული პარტიები: კარმენი, ამნერისი, მადალენა, დორაბელა, რომეო (Capuleti), ადალჯიზა, სანტუცა, სუძუკი, აძუჩენა, პრეციოზილა, მარფა (Káťa Kabanová), ეზიბაბა (Rusalka), ოლგა, ფენენა, იდამანტე. თეატრები: მეტროპოლიტენი, კოვენტ-გარდენი, პარიზის ოპერა, ტეატრო რეალი, ჩიკაგოს ლირიკული ოპერა, გლაინდბორნი, მარიინსკი, სან კარლო, ვერონას არენა."
   },
   "upcoming": [
    {
     "t": {
      "en": "Santuzza (Cavalleria rusticana), Teatro Regio Torino. Listed as upcoming in her management biography; the Regio's published October–November cast lists other Santuzzas, so check dates before travelling.",
      "it": "Santuzza (Cavalleria rusticana), Teatro Regio di Torino. Indicata come prossimo impegno nella biografia del management; il cast pubblicato dal Regio per ottobre–novembre indica altre Santuzza, verificare le date prima di partire.",
-     "ka": "სანტუცა (Cavalleria rusticana), ტურინის რეჯო. მენეჯმენტის ბიოგრაფიაში მითითებულია როგორც მომავალი ვალდებულება; რეჯოს გამოქვეყნებულ ოქტომბერ–ნოემბრის შემადგენლობაში სხვა სანტუცები სახელდება, ამიტომ თარიღები წინასწარ გადაამოწმეთ.",
-     "ru": "Сантуцца («Сельская честь»), Театро Реджо, Турин. Указана как будущий ангажемент в биографии менеджмента; в опубликованном составе Реджо на октябрь–ноябрь названы другие исполнительницы, перед поездкой проверьте даты."
+     "ka": "სანტუცა (Cavalleria rusticana), ტურინის რეჯო. მენეჯმენტის ბიოგრაფიაში მითითებულია როგორც მომავალი ვალდებულება; რეჯოს გამოქვეყნებულ ოქტომბერ–ნოემბრის შემადგენლობაში სხვა სანტუცები სახელდება, ამიტომ თარიღები წინასწარ გადაამოწმეთ."
     },
     "l": [
      [
@@ -722,8 +788,7 @@
     "t": {
      "en": "Venus (Tannhäuser), 2027: shown on her Opera Australia artist page. Dates not confirmed.",
      "it": "Venere (Tannhäuser), 2027: indicata nella sua pagina artista di Opera Australia. Date non confermate.",
-     "ka": "ვენერა (Tannhäuser), 2027: მითითებულია Opera Australia-ს მხატვრის გვერდზე. თარიღები დადასტურებული არ არის.",
-     "ru": "Венера («Тангейзер»), 2027: указана на её странице в Opera Australia. Даты не подтверждены."
+     "ka": "ვენერა (Tannhäuser), 2027: მითითებულია Opera Australia-ს მხატვრის გვერდზე. თარიღები დადასტურებული არ არის."
     },
     "l": [
      [
@@ -762,8 +827,7 @@
     "t": {
      "en": "Carmen",
      "it": "Carmen",
-     "ka": "კარმენი",
-     "ru": "Кармен"
+     "ka": "კარმენი"
     }
    },
    {
@@ -771,8 +835,7 @@
     "t": {
      "en": "Amneris in Aida",
      "it": "Amneris in Aida",
-     "ka": "ამნერისი, Aida",
-     "ru": "Амнерис, «Аида»"
+     "ka": "ამნერისი, Aida"
     }
    },
    {
@@ -780,8 +843,7 @@
     "t": {
      "en": "Rigoletto a Mantova (Maddalena)",
      "it": "Rigoletto a Mantova (Maddalena)",
-     "ka": "Rigoletto a Mantova (მადალენა)",
-     "ru": "«Риголетто в Мантуе» (Маддалена)"
+     "ka": "Rigoletto a Mantova (მადალენა)"
     }
    },
    {
@@ -789,8 +851,7 @@
     "t": {
      "en": "Romeo in I Capuleti e i Montecchi",
      "it": "Romeo in I Capuleti e i Montecchi",
-     "ka": "რომეო, I Capuleti e i Montecchi",
-     "ru": "Ромео, «Капулетти и Монтекки»"
+     "ka": "რომეო, I Capuleti e i Montecchi"
     }
    },
    {
@@ -798,8 +859,7 @@
     "t": {
      "en": "Interviews",
      "it": "Interviste",
-     "ka": "ინტერვიუები",
-     "ru": "Интервью"
+     "ka": "ინტერვიუები"
     }
    },
    {
@@ -807,8 +867,141 @@
     "t": {
      "en": "Concerts and recitals",
      "it": "Concerti e recital",
-     "ka": "კონცერტები და რეციტალები",
-     "ru": "Концерты и рецитали"
+     "ka": "კონცერტები და რეციტალები"
+    }
+   }
+  ],
+  "bio": [
+   {
+    "h": {
+     "en": "Overview",
+     "it": "Profilo",
+     "ka": "მოკლედ"
+    },
+    "p": {
+     "en": "Nino Surguladze is one of the leading mezzo-sopranos of her generation. The press has called her \"the Penélope Cruz of opera\" and compared her to Audrey Hepburn and Anna Magnani. She is admired for a warm, velvety voice, incisive musicianship, excellent acting and a commanding stage presence.",
+     "it": "Nino Surguladze è una delle principali mezzosoprano della sua generazione. La stampa l'ha definita \"la Penélope Cruz dell'opera\" e l'ha paragonata ad Audrey Hepburn e Anna Magnani. È apprezzata per la voce calda e vellutata, la musicalità incisiva, le ottime doti d'attrice e la forte presenza scenica.",
+     "ka": "ნინო სურგულაძე თავისი თაობის წამყვანი მეცოსოპრანოა. პრესა მას „ოპერის პენელოპე კრუსს\" უწოდებს და ოდრი ჰეპბერნსა და ანა მანიანისთან ადარებს. მას აფასებენ თბილი, ხავერდოვანი ხმის, მკვეთრი მუსიკალურობის, შესანიშნავი მსახიობური ოსტატობისა და ძლიერი სცენური ხიბლისთვის."
+    }
+   },
+   {
+    "h": {
+     "en": "Early years and training",
+     "it": "Gli esordi e la formazione",
+     "ka": "ადრეული წლები და სწავლა"
+    },
+    "p": {
+     "en": "She was born in Tbilisi into a family of scientists; both parents were avid music lovers. She attended the First Experimental School and the Children's Music School in Tbilisi. As a child she took part in several musicals, made her debut at seven at the Tbilisi Philharmonic and toured abroad, including in the United States. In 1991 she shared first prize with the group Natvris Khe at the Georgian Music and Choreography Contest.\n\nAs a girl she also appeared in three films: Metichara (1988), Martivi pasiansi (1990) and Valsi Pechoraze (1992). For the last of these, a jury headed by Claude Chabrol awarded her the special prize \"Espoir du Cinéma Européen\" at the Geneva Film Festival in 1995.\n\nShe sang popular music in many concerts in Georgia. At sixteen she gave a solo concert with a band from Dallas at the Zelt-Musik-Festival in Freiburg, where Pat Metheny and Randy Crawford also appeared. After this festival she decided to pursue an operatic career. She first graduated in journalism, then enrolled at the V. Sarajishvili Tbilisi State Conservatoire, where she studied singing with Professor Guliko Kariauli and graduated with distinction.\n\nShe won prizes at several international competitions, among them the Francisco Viñas International Singing Contest in Barcelona. She completed her training in Milan with Leyla Gencer, Luciana Serra and Luigi Alva and graduated from the Accademia Teatro alla Scala in 2003. During those years she also sang at La Scala in Gluck's Iphigénie en Aulide, Mussorgsky's Boris Godunov and Verdi's Oberto, Conte di San Bonifacio.",
+     "it": "È nata a Tbilisi in una famiglia di scienziati; entrambi i genitori sono appassionati di musica. Ha frequentato la Prima Scuola Sperimentale e la Scuola di Musica per Ragazzi di Tbilisi. Da bambina ha partecipato a diversi musical, ha debuttato a sette anni alla Filarmonica di Tbilisi ed è stata in tournée all'estero, anche negli Stati Uniti. Nel 1991 ha condiviso il primo premio con il gruppo Natvris Khe al Concorso georgiano di musica e coreografia.\n\nDa ragazza ha recitato anche in tre film: Metichara (1988), Martivi pasiansi (1990) e Valsi Pechoraze (1992). Per l'ultimo, nel 1995 una giuria presieduta da Claude Chabrol le ha assegnato il premio speciale \"Espoir du Cinéma Européen\" al Festival del cinema di Ginevra.\n\nHa cantato musica leggera in molti concerti in Georgia. A sedici anni ha tenuto un concerto da solista con un gruppo di Dallas allo Zelt-Musik-Festival di Friburgo, dove si sono esibiti anche Pat Metheny e Randy Crawford. Dopo quel festival ha deciso di intraprendere la carriera lirica. Si è prima laureata in giornalismo, poi si è iscritta al Conservatorio statale V. Sarajishvili di Tbilisi, dove ha studiato canto con la professoressa Guliko Kariauli, diplomandosi con lode.\n\nHa vinto premi in vari concorsi internazionali, tra cui il Concorso internazionale di canto Francisco Viñas di Barcellona. Ha completato la formazione a Milano con Leyla Gencer, Luciana Serra e Luigi Alva e si è diplomata all'Accademia del Teatro alla Scala nel 2003. In quegli anni ha cantato alla Scala anche in Iphigénie en Aulide di Gluck, Boris Godunov di Musorgskij e Oberto, Conte di San Bonifacio di Verdi.",
+     "ka": "დაიბადა თბილისში, მეცნიერთა ოჯახში; ორივე მშობელი მუსიკის დიდი მოყვარული იყო. სწავლობდა თბილისის პირველ ექსპერიმენტულ სკოლასა და საბავშვო მუსიკალურ სკოლაში. ბავშვობაში მონაწილეობდა რამდენიმე მიუზიკლში, შვიდი წლისამ დებიუტი შეასრულა თბილისის ფილარმონიაში და საზღვარგარეთაც იგასტროლა, მათ შორის აშშ-ში. 1991 წელს ჯგუფ „ნატვრის ხესთან\" ერთად გაიყო პირველი პრიზი ქართული მუსიკისა და ქორეოგრაფიის კონკურსზე.\n\nგოგონას ასაკში ითამაშა სამ ფილმში: „მეტიჩარა\" (1988), „მარტვი პასიანსი\" (1990) და „ვალსი პეჩორაზე\" (1992). ბოლო ფილმისთვის 1995 წელს კლოდ შაბროლის ხელმძღვანელობით მოქმედმა ჟიურიმ ჟენევის კინოფესტივალზე სპეციალური პრიზი „Espoir du Cinéma Européen\" გადასცა.\n\nსაქართველოში ბევრ კონცერტზე მღეროდა პოპულარულ მუსიკას. 16 წლის ასაკში ფრაიბურგის Zelt-Musik-Festival-ზე დალასის ჯგუფთან ერთად სოლო კონცერტი გამართა; ფესტივალში პეტ მეთენი და რენდი კროფორდიც მონაწილეობდნენ. ამ ფესტივალის შემდეგ გადაწყვიტა ოპერის გზას დადგომოდა. ჯერ ჟურნალისტიკა დაამთავრა, შემდეგ ვანო სარაჯიშვილის სახელობის თბილისის სახელმწიფო კონსერვატორიაში ჩაირიცხა, სადაც პროფესორ გულიკო კარიაულთან სწავლობდა ვოკალს და წარჩინებით დაამთავრა.\n\nრამდენიმე საერთაშორისო კონკურსზე პრიზები მოიგო, მათ შორის ბარსელონაში ფრანსისკო ვინიასის სახელობის საერთაშორისო კონკურსზე. განათლება მილანში დაასრულა ლეილა ჯენჯერთან, ლუჩიანა სერასთან და ლუიჯი ალვასთან; 2003 წელს დაამთავრა La Scala-ს თეატრის აკადემია. ამ წლებში La Scala-ზე ასევე მღეროდა გლუკის „იფიგენია ავლისში\", მუსორგსკის „ბორის გოდუნოვსა\" და ვერდის „ობერტოში, გრაფი სან-ბონიფაჩო\"."
+    }
+   },
+   {
+    "h": {
+     "en": "La Scala and Italy",
+     "it": "La Scala e l'Italia",
+     "ka": "La Scala და იტალია"
+    },
+    "p": {
+     "en": "In 2003 she joined Riccardo Muti for the opening of the 2003–04 La Scala season as Marie in Rossini's Moïse et Pharaon. At La Scala she has since sung Meg Page in Verdi's Falstaff (Muti, season opening), Olga in Eugene Onegin (director Graham Vick), Idamante in Mozart's Idomeneo (Daniel Harding), Solokha in Tchaikovsky's Cherevichki, Siebel in Faust, Fenena in Nabucco and Valencienne in The Merry Widow.\n\nElsewhere in Italy she has sung Nicklausse in Les Contes d'Hoffmann and Olga in Eugene Onegin at the Teatro Regio di Torino; Marguerite in La Damnation de Faust (Plasson) at the Teatro Regio di Parma; Dorabella in Così fan tutte and Cuniza in Oberto at the Teatro Carlo Felice in Genoa; Carmen in Macerata (director Dante Ferretti, a three-time Academy Award winner), Bologna, Naples and Bari; and Fenena in Nabucco at the Arena di Verona and in Piacenza.",
+     "it": "Nel 2003 ha affiancato Riccardo Muti all'inaugurazione della stagione 2003–04 della Scala nel ruolo di Marie in Moïse et Pharaon di Rossini. Alla Scala ha poi cantato Meg Page nel Falstaff di Verdi (Muti, inaugurazione di stagione), Olga in Eugene Onegin (regia di Graham Vick), Idamante nell'Idomeneo di Mozart (Daniel Harding), Solocha in Cherevički di Čajkovskij, Siebel in Faust, Fenena in Nabucco e Valencienne ne La vedova allegra.\n\nAltrove in Italia ha cantato Nicklausse in Les Contes d'Hoffmann e Olga in Eugene Onegin al Teatro Regio di Torino; Marguerite ne La Damnation de Faust (Plasson) al Teatro Regio di Parma; Dorabella in Così fan tutte e Cuniza in Oberto al Teatro Carlo Felice di Genova; Carmen a Macerata (regia di Dante Ferretti, tre volte premio Oscar), a Bologna, Napoli e Bari; e Fenena in Nabucco all'Arena di Verona e a Piacenza.",
+     "ka": "2003 წელს რიკარდო მუტისთან ერთად მონაწილეობდა La Scala-ს 2003–04 სეზონის გახსნაში როსინის „მოსე და ფარაონში\" მარის როლით. La Scala-ზე შემდეგ ასრულა მეგ პეიჯი ვერდის „ფალსტაფში\" (მუტი, სეზონის გახსნა), ოლგა „ევგენი ონეგინში\" (რეჟისორი გრეჰემ ვიკი), იდამანტე მოცარტის „იდომენეოში\" (დირიჟორი დანიელ ჰარდინგი), სოლოხა ჩაიკოვსკის „ჩერევიჩკებში\", ზიბელი „ფაუსტში\", ფენენა „ნაბუკოში\" და ვალენსიენი „მხიარულ ქვრივში\".\n\nიტალიის სხვა თეატრებში იმღერა ნიკლაუსი „ჰოფმანის ზღაპრებში\" და ოლგა „ევგენი ონეგინში\" (Teatro Regio di Torino); მარგარიტა „ფაუსტის დაგმობაში\" (Teatro Regio di Parma, დირიჟორი პლასონი); დორაბელა „ყველა ასეა\" და კუნიცა „ობერტოში\" (Teatro Carlo Felice, გენუა); კარმენი მაჩერატაში (რეჟისორი დანტე ფერეტი, სამგზის ოსკარის ლაურეატი), ბოლონიაში, ნეაპოლსა და ბარიში; ფენენა „ნაბუკოში\" ვერონის არენაზე (Arena di Verona) და პიაჩენცაში."
+    }
+   },
+   {
+    "h": {
+     "en": "Spain",
+     "it": "Spagna",
+     "ka": "ესპანეთი"
+    },
+    "p": {
+     "en": "She made her debut at the Gran Teatre del Liceu in Barcelona at the age of 22 as Sonyetka in Shostakovich's Lady Macbeth of the Mtsensk District. At the Liceu she then sang Federica and Laura in Verdi's Luisa Miller opposite Samuel Ramey, and Maddalena in Rigoletto, a role she also sang at the Teatro Real in Madrid with Leo Nucci in the title role. She was also a great success as Dorabella in Così fan tutte (opposite Barbara Frittoli) at the Palau de les Arts Reina Sofía in Valencia.",
+     "it": "Ha debuttato al Gran Teatre del Liceu di Barcellona a 22 anni come Sonyetka in Lady Macbeth del distretto di Mcensk di Šostakovič. Al Liceu ha poi cantato Federica e Laura in Luisa Miller di Verdi accanto a Samuel Ramey e Maddalena in Rigoletto, ruolo che ha interpretato anche al Teatro Real di Madrid con Leo Nucci nel ruolo del titolo. Ha ottenuto grande successo anche come Dorabella in Così fan tutte (con Barbara Frittoli) al Palau de les Arts Reina Sofía di Valencia.",
+     "ka": "22 წლის ასაკში დებიუტი შეასრულა ბარსელონის Gran Teatre del Liceu-ში, შოსტაკოვიჩის „მცენსკის ლედი მაკბეტში\" სონეტკას როლით. Liceu-ში შემდეგ იმღერა ფედერიკა და ლაურა ვერდის „ლუიზა მილერში\" სამუელ რეიმისთან ერთად და მადალენა „რიგოლეტოში\"; ეს როლი მადრიდის Teatro Real-შიც შეასრულა, სათაურ პარტიაში ლეო ნუჩისთან ერთად. დიდი წარმატებით ასრულებდა დორაბელას „ყველა ასეა\"-ში (ბარბარა ფრიტოლისთან ერთად) ვალენსიის Palau de les Arts Reina Sofía-ში."
+    }
+   },
+   {
+    "h": {
+     "en": "United States and United Kingdom",
+     "it": "Stati Uniti e Regno Unito",
+     "ka": "აშშ და დიდი ბრიტანეთი"
+    },
+    "p": {
+     "en": "In the United States she sang Maddalena in Rigoletto at the Metropolitan Opera in New York, Olga in Eugene Onegin at the Lyric Opera of Chicago and Carmen in San Diego.\n\nIn the United Kingdom she sang Olga (Eugene Onegin, conducted by Philippe Jordan) and Dorabella (Così fan tutte) at the Royal Opera House in London, and Clara in Prokofiev's Betrothal in a Monastery at the Glyndebourne Festival.",
+     "it": "Negli Stati Uniti ha cantato Maddalena in Rigoletto al Metropolitan Opera di New York, Olga in Eugene Onegin alla Lyric Opera di Chicago e Carmen a San Diego.\n\nNel Regno Unito ha cantato Olga (Eugene Onegin, direttore Philippe Jordan) e Dorabella (Così fan tutte) alla Royal Opera House di Londra, e Clara in Obručenie v monastyre (Fidanzamento in un convento) di Prokof'ev al Festival di Glyndebourne.",
+     "ka": "აშშ-ში იმღერა მადალენა „რიგოლეტოში\" ნიუ-იორკის Metropolitan Opera-ში, ოლგა „ევგენი ონეგინში\" ჩიკაგოს Lyric Opera-ში და კარმენი სან-დიეგოში.\n\nდიდ ბრიტანეთში ლონდონის Royal Opera House-ში ასრულა ოლგა („ევგენი ონეგინი\", დირიჟორი ფილიპ ჟორდანი) და დორაბელა („ყველა ასეა\"), გლაინდბორნის ფესტივალზე კი კლარა პროკოფიევის „მონასტერში ნიშნობაში\"."
+    }
+   },
+   {
+    "h": {
+     "en": "Austria and Germany",
+     "it": "Austria e Germania",
+     "ka": "ავსტრია და გერმანია"
+    },
+    "p": {
+     "en": "She made her debut at the Salzburg Festival in 2009 as Sinaïde in Rossini's Moïse et Pharaon under Riccardo Muti, the opera she also sang with him at the season opening in Rome. In Austria she has also sung Carmen in Graz.\n\nIn Germany she has sung Sesto in La clemenza di Tito, Nicklausse, Carmen and Idamante in Hamburg; Polinesso and Ariodante in Handel's Ariodante in Frankfurt; Maddalena in Cologne; and Federica in Luisa Miller at the Bayerische Staatsoper in Munich, where she also sang Maffio Orsini in Donizetti's Lucrezia Borgia opposite Edita Gruberová.",
+     "it": "Ha debuttato al Festival di Salisburgo nel 2009 come Sinaïde in Moïse et Pharaon di Rossini diretta da Riccardo Muti, opera che ha cantato con lui anche all'inaugurazione di stagione a Roma. In Austria ha cantato anche Carmen a Graz.\n\nIn Germania ha cantato Sesto ne La clemenza di Tito, Nicklausse, Carmen e Idamante ad Amburgo; Polinesso e Ariodante nell'Ariodante di Händel a Francoforte; Maddalena a Colonia; e Federica in Luisa Miller alla Bayerische Staatsoper di Monaco, dove ha cantato anche Maffio Orsini in Lucrezia Borgia di Donizetti accanto a Edita Gruberová.",
+     "ka": "2009 წელს ზალცბურგის ფესტივალზე რიკარდო მუტის დირიჟორობით დებიუტი შეასრულა როსინის „მოსე და ფარაონში\" სინაიდის როლით; ეს ოპერა მუტისთან ერთად რომში სეზონის გახსნაზეც იმღერა. ავსტრიაში გრაცშიც ასრულებდა კარმენს.\n\nგერმანიაში ჰამბურგში იმღერა სესტო („ტიტეს მოწყალება\"), ნიკლაუსი, კარმენი და იდამანტე; ფრანკფურტში — პოლინესო და არიოდანტე ჰენდელის „არიოდანტეში\"; კიოლნში — მადალენა; მიუნხენის Bayerische Staatsoper-ში — ფედერიკა „ლუიზა მილერში\" და მაფიო ორსინი დონიცეტის „ლუკრეცია ბორჯიაში\" ედიტა გრუბეროვასთან ერთად."
+    }
+   },
+   {
+    "h": {
+     "en": "Asia and recent successes",
+     "it": "Asia e successi recenti",
+     "ka": "აზია და ბოლო წლების წარმატებები"
+    },
+    "p": {
+     "en": "In Tokyo she has sung Suzuki in Madama Butterfly, Dorabella and Carmen. In Seoul she has sung Carmen, and in Istanbul she sang it in a concert performance dedicated to the memory of Leyla Gencer.\n\nHer later successes include Romeo in Bellini's I Capuleti e i Montecchi in Bergen; Marguerite in La Damnation de Faust in Liège; Amneris in Aida at the Teatro di San Carlo in Naples and in Bologna, Hong Kong, Bari, Liège and Bergen; Carmen at the Mariinsky Theatre in St Petersburg, in Sassari and on tour with New Zealand Opera in Wellington, Christchurch and Auckland; Santuzza in Cavalleria rusticana in Avignon; Adalgisa in Norma in Beirut; Stéphano in Roméo et Juliette at the Arena di Verona; Maddalena in Rigoletto (Fabio Luisi) in Genoa, Bogotá and Macerata; and Federica in Luisa Miller in Naples and Budapest. She also made her debut as Giulietta in Les Contes d'Hoffmann at the Liceu in Barcelona and gave the Rosenblatt Recital at Wigmore Hall in London, with songs, lieder and arias by Mozart, Donizetti, Verdi, Saint-Saëns, Cilea, Schubert, Schumann, Brahms and Wolf.",
+     "it": "A Tokyo ha cantato Suzuki in Madama Butterfly, Dorabella e Carmen. A Seul ha cantato Carmen, e a Istanbul l'ha eseguita in forma di concerto in memoria di Leyla Gencer.\n\nTra i successi successivi: Romeo ne I Capuleti e i Montecchi di Bellini a Bergen; Marguerite ne La Damnation de Faust a Liegi; Amneris in Aida al Teatro di San Carlo di Napoli e a Bologna, Hong Kong, Bari, Liegi e Bergen; Carmen al Teatro Mariinskij di San Pietroburgo, a Sassari e in tournée con la New Zealand Opera a Wellington, Christchurch e Auckland; Santuzza in Cavalleria rusticana ad Avignone; Adalgisa in Norma a Beirut; Stéphano in Roméo et Juliette all'Arena di Verona; Maddalena in Rigoletto (Fabio Luisi) a Genova, Bogotá e Macerata; e Federica in Luisa Miller a Napoli e Budapest. Ha inoltre debuttato come Giulietta in Les Contes d'Hoffmann al Liceu di Barcellona e tenuto il Rosenblatt Recital alla Wigmore Hall di Londra con canzoni, lieder e arie di Mozart, Donizetti, Verdi, Saint-Saëns, Cilea, Schubert, Schumann, Brahms e Wolf.",
+     "ka": "ტოკიოში იმღერა სუძუკი „მადამა ბატერფლაიში\", დორაბელა და კარმენი. სეულში კარმენს ასრულებდა, სტამბულში კი ამავე ოპერის საკონცერტო შესრულებაში მონაწილეობდა ლეილა ჯენჯერის ხსოვნისადმი მიძღვნილ საღამოზე.\n\nბოლო წლების წარმატებებია: რომეო ბელინის „კაპულეტები და მონტეკები\"-ში ბერგენში; მარგარიტა „ფაუსტის დაგმობაში\" ლიეჟში; ამნერისი „აიდაში\" ნეაპოლის Teatro di San Carlo-ში, ბოლონიაში, ჰონკონგში, ბარიში, ლიეჟსა და ბერგენში; კარმენი სანქტ-პეტერბურგის მარიინსკის თეატრში, საზარიში და New Zealand Opera-ს გასტროლებზე უელინგტონში, ქრაისტჩერჩსა და ოკლენდში; სანტუცა „სოფლის ღირსებაში\" ავინიონში; ადალჯიზა „ნორმაში\" ბეირუთში; სტეფანო „რომეო და ჯულიეტაში\" ვერონის არენაზე; მადალენა „რიგოლეტოში\" (დირიჟორი ფაბიო ლუიზი) გენუაში, ბოგოტასა და მაჩერატაში; ფედერიკა „ლუიზა მილერში\" ნეაპოლსა და ბუდაპეშტში. ბარსელონის Liceu-ში დებიუტი შეასრულა ჯულიეტას პარტიაში („ჰოფმანის ზღაპრები\"), ლონდონის Wigmore Hall-ში კი გამართა როზენბლატის რეციტალი: მოცარტის, დონიცეტის, ვერდის, სენ-სანსის, ჩილეას, შუბერტის, შუმანის, ბრამსისა და ვოლფის სიმღერები, ლიდერები და არიები."
+    }
+   },
+   {
+    "h": {
+     "en": "Concerts and recordings",
+     "it": "Concerti e registrazioni",
+     "ka": "კონცერტები და ჩანაწერები"
+    },
+    "p": {
+     "en": "Among her notable concerts as a soloist are the Christmas concert at San Marco church in Milan (Riccardo Muti); Dvořák's Requiem at the Berliner Philharmonie with the Berliner Philharmoniker under Nicola Luisotti; Verdi's Requiem with the Orchestre Philharmonique de Monte-Carlo (Gelmetti); and Schubert's Mass No. 6 in E-flat major at the Concertgebouw in Amsterdam. In 2016, at Giya Kancheli's anniversary concert in Tbilisi, she premiered songs the composer wrote and dedicated to her.\n\nHer discography numbers nine titles, including live recordings from Milan, Barcelona, Glyndebourne, Verona and Macerata.",
+     "it": "Tra i concerti più importanti come solista: il concerto di Natale nella chiesa di San Marco a Milano (Riccardo Muti); il Requiem di Dvořák alla Philharmonie di Berlino con i Berliner Philharmoniker diretti da Nicola Luisotti; la Messa da Requiem di Verdi con l'Orchestre Philharmonique de Monte-Carlo (Gelmetti); e la Messa n. 6 in mi bemolle maggiore di Schubert al Concertgebouw di Amsterdam. Nel 2016, al concerto per l'anniversario di Giya Kancheli a Tbilisi, ha eseguito in prima assoluta canzoni scritte e a lei dedicate dal compositore.\n\nLa sua discografia conta nove titoli, tra cui registrazioni dal vivo a Milano, Barcellona, Glyndebourne, Verona e Macerata.",
+     "ka": "მისი გამორჩეული კონცერტებია: საშობაო კონცერტი მილანის სან-მარკოს ეკლესიაში (რიკარდო მუტი); დვორჟაკის რეკვიემი ბერლინის ფილარმონიაში ბერლინის ფილარმონიკოსებთან ერთად (დირიჟორი ნიკოლა ლუისოტი); ვერდის რეკვიემი მონტე-კარლოს ფილარმონიულ ორკესტრთან ერთად (დირიჟორი ჯელმეტი); შუბერტის მე-6 მესა ამსტერდამის Concertgebouw-ში. 2016 წელს გია ყანჩელის იუბილეს კონცერტზე თბილისში პირველად შეასრულა კომპოზიტორის მიერ მისთვის დაწერილი და მიძღვნილი სიმღერები.\n\nმისი დისკოგრაფია ცხრა ჩანაწერს მოიცავს, მათ შორის ცოცხალ ჩანაწერებს მილანიდან, ბარსელონიდან, გლაინდბორნიდან, ვერონიდან და მაჩერატადან."
+    }
+   },
+   {
+    "h": {
+     "en": "Film and television",
+     "it": "Cinema e televisione",
+     "ka": "კინო და ტელევიზია"
+    },
+    "p": {
+     "en": "In September 2010 she sang Maddalena in Rigoletto a Mantova, filmed live on location in Mantua for RAI with Plácido Domingo (Rigoletto), Vittorio Grigolo (Duke of Mantua), Julia Novikova (Gilda) and Ruggero Raimondi (Sparafucile), under Zubin Mehta. The production was broadcast simultaneously in 148 countries. In 2017 she appeared in the Netflix series The Alienist (with Daniel Brühl, Luke Evans and Dakota Fanning), which premiered in January 2018.\n\nOn 1 May 2018 she took part, with Ezio Bosso and Carmen Giannatasio, in the traditional 1 May concert, which drew more than seven standing ovations and was watched live by over 4 million people on television and online.",
+     "it": "Nel settembre 2010 ha cantato Maddalena in Rigoletto a Mantova, ripreso dal vivo a Mantova per la RAI con Plácido Domingo (Rigoletto), Vittorio Grigolo (Duca di Mantova), Julia Novikova (Gilda) e Ruggero Raimondi (Sparafucile), sotto la direzione di Zubin Mehta. La produzione è stata trasmessa in contemporanea in 148 paesi. Nel 2017 ha preso parte alla serie Netflix The Alienist (con Daniel Brühl, Luke Evans e Dakota Fanning), uscita a gennaio 2018.\n\nIl 1° maggio 2018 ha partecipato, con Ezio Bosso e Carmen Giannatasio, al tradizionale concerto del Primo Maggio, che ha ottenuto più di sette standing ovation ed è stato seguito in diretta da oltre 4 milioni di persone in televisione e online.",
+     "ka": "2010 წლის სექტემბერში იმღერა მადალენა ფილმში „რიგოლეტო მანტუაში\", რომელიც RAI-სთვის ცოცხლად გადაიღეს მანტუაში: პლასიდო დომინგო (რიგოლეტო), ვიტორიო გრიგოლო (მანტუის ჰერცოგი), იულია ნოვიკოვა (ჯილდა) და რუჯერო რაიმონდი (სპარაფუჩილე), დირიჟორი ზუბინ მეტა. ტრანსლაცია ერთდროულად 148 ქვეყანაში გავიდა. 2017 წელს ითამაშა Netflix-ის სერიალში „The Alienist\" (დანიელ ბრიულთან, ლუკ ევანსთან და დაკოტა ფანინგთან ერთად), რომლის პრემიერა 2018 წლის იანვარში შედგა.\n\n2018 წლის 1 მაისს ეციო ბოსოსა და კარმენ ჯანატასიოსთან ერთად მონაწილეობდა ტრადიციულ 1 მაისის კონცერტში: შვიდზე მეტჯერ ფეხზე მდგარი აპლოდისმენტები და 4 მილიონზე მეტი მაყურებელი ტელევიზიითა და ინტერნეტით."
+    }
+   },
+   {
+    "h": {
+     "en": "Honours",
+     "it": "Onorificenze",
+     "ka": "ჯილდოები"
+    },
+    "p": {
+     "en": "After Rigoletto a Mantova, for her contribution to culture and for promoting the Georgian cause abroad, she was awarded the Presidential Order of Excellence, one of the highest distinctions of Georgia.\n\nIn 2015, for fostering links between Italy and Georgia, on the recommendation of Italy's Ministry of Foreign Affairs and International Cooperation and by decision of President Sergio Mattarella, she was made a Cavaliere della Stella d'Italia. The ceremony took place in Tbilisi in the presence of Italian Ambassador Antonio Enrico Bartoli and Georgian President Giorgi Margvelashvili.\n\nIn spring 2016 she received the GBOSCAR for the 2014–15 opera season as best mezzo-soprano, for Fenena in Nabucco at the Arena di Verona (GBOSCAR – L'Eccellenza dell'Opera e della Danza, 2nd edition).\n\nIn 2026 she received the Gold Medal of Italy's international Dante Alighieri Society and a diploma as a distinguished figure (\"deserving public figure\").",
+     "it": "Dopo Rigoletto a Mantova, per il suo contributo alla cultura e per la promozione della causa georgiana all'estero, le è stato conferito il Presidential Order of Excellence, una delle massime onorificenze della Georgia.\n\nNel 2015, per aver promosso e rafforzato i legami tra Italia e Georgia, su proposta del Ministero degli Affari Esteri e della Cooperazione Internazionale e per decisione del Presidente Sergio Mattarella, è stata nominata Cavaliere dell'Ordine della Stella d'Italia. La cerimonia si è svolta a Tbilisi alla presenza dell'Ambasciatore d'Italia Antonio Enrico Bartoli e del Presidente della Georgia Giorgi Margvelashvili.\n\nNella primavera 2016 ha ricevuto il GBOSCAR per la stagione lirica 2014–15 come miglior mezzosoprano, per Fenena in Nabucco all'Arena di Verona (GBOSCAR – L'Eccellenza dell'Opera e della Danza, 2a edizione).\n\nNel 2026 ha ricevuto la Medaglia d'oro della Società Dante Alighieri internazionale e un diploma di benemerenza.",
+     "ka": "„რიგოლეტო მანტუაში\" შემდეგ, კულტურაში შეტანილი წვლილისა და საზღვარგარეთ ქართული საქმის წინ წაწევისთვის, დაჯილდოვდა საქართველოს პრეზიდენტის ბრწყინვალების ორდენით — ქვეყნის ერთ-ერთი უმაღლესი ჯილდოთი.\n\n2015 წელს იტალიასა და საქართველოს შორის კავშირების განმტკიცებისთვის, იტალიის საგარეო საქმეთა და საერთაშორისო თანამშრომლობის სამინისტროს წარდგინებით და პრეზიდენტ სერჯო მატარელას გადაწყვეტილებით, მიენიჭა იტალიის ვარსკვლავის კავალერის (Cavaliere della Stella d'Italia) წოდება. ცერემონია თბილისში გაიმართა, იტალიის ელჩის ანტონიო ენრიკო ბარტოლისა და საქართველოს პრეზიდენტ გიორგი მარგველაშვილის მონაწილეობით.\n\n2016 წლის გაზაფხულზე ვერონის არენაზე „ნაბუკოში\" ფენენას პარტიისთვის მიიღო 2014–15 საოპერო სეზონის GBOSCAR საუკეთესო მეცოსოპრანოს ნომინაციაში (GBOSCAR – L'Eccellenza dell'Opera e della Danza, მე-2 გამოცემა).\n\n2026 წელს მიიღო იტალიის საერთაშორისო დანტე ალიგიერის საზოგადოების ოქროს მედალი და დამსახურებული მოღვაწის წოდების დიპლომი."
+    }
+   },
+   {
+    "h": {
+     "en": "Desire Tree Foundation",
+     "it": "Fondazione Desire Tree",
+     "ka": "ფონდი „სურვილის ხე\""
+    },
+    "p": {
+     "en": "The cause closest to her heart is the Desire Tree Foundation, which she founded in 2014. It helps Georgian children up to the age of 20 who need urgent medical treatment abroad and raises public awareness of their suffering; it has helped save dozens of children. In 2015 the Minister of Finance of Georgia gave the Foundation official charity status. Since 2014 it has organised five large charity concerts with world-class musicians.\n\nIts most significant project is \"For Love\", which combines ballet (Nino Rota's suite from Fellini's La strada) and opera (Poulenc's monodrama La voix humaine) in one performance. It was realised with director Marco Gandini, a long-time associate of Franco Zeffirelli; choreographer and La Scala principal dancer Gianluca Schiavoni; conductor Carlo Ponti Jr.; and the Tbilisi Opera and Ballet Theatre. The leading parts were danced by the prima ballerina Nino Ananiashvili and sung by Nino Surguladze. Sophia Loren was patron of the event and guest of honour at the opening night on 15 June 2016 at the Tbilisi Opera and Ballet Theatre. The performance was broadcast live on Georgian television; besides raising significant funds, it strengthened cultural relations between Italy and Georgia.",
+     "it": "La causa che le sta più a cuore è la Fondazione Desire Tree, da lei fondata nel 2014. Aiuta i bambini georgiani fino a 20 anni che hanno bisogno di cure mediche urgenti all'estero e sensibilizza l'opinione pubblica sulle loro sofferenze; ha contribuito a salvare decine di bambini. Nel 2015 il Ministro delle Finanze della Georgia ha riconosciuto alla Fondazione lo status ufficiale di ente benefico. Dal 2014 ha organizzato cinque grandi concerti di beneficenza con musicisti di fama mondiale.\n\nIl progetto più importante è \"For Love\", che unisce balletto (la suite di Nino Rota dal film La strada di Fellini) e opera (il monodramma La voix humaine di Poulenc) in un unico spettacolo. È stato realizzato con il regista Marco Gandini, da molti anni collaboratore di Franco Zeffirelli; il coreografo e primo ballerino della Scala Gianluca Schiavoni; il direttore Carlo Ponti Jr.; e il Teatro dell'Opera e del Balletto di Tbilisi. Le parti principali sono state danzate dalla prima ballerina Nino Ananiashvili e cantate da Nino Surguladze. Sophia Loren è stata madrina dell'evento e ospite d'onore alla prima del 15 giugno 2016 al Teatro dell'Opera e del Balletto di Tbilisi. Lo spettacolo è andato in diretta sulla televisione georgiana; oltre a raccogliere fondi importanti, ha rafforzato le relazioni culturali tra Italia e Georgia.",
+     "ka": "მისთვის ყველაზე ახლობელი საქმე ფონდი „სურვილის ხეა\" (Desire Tree), რომელიც 2014 წელს დააარსა. ფონდი ეხმარება 20 წლამდე ქართველ ბავშვებს, რომლებსაც საზღვარგარეთ გადაუდებელი სამედიცინო მკურნალობა სჭირდებათ, და საზოგადოებას ბავშვთა ტკივილზე ზრუნვისკენ მოუწოდებს; ათობით ბავშვის გადარჩენაში შეიტანა წვლილი. 2015 წელს საქართველოს ფინანსთა მინისტრის გადაწყვეტილებით ფონდს საქველმოქმედო ორგანიზაციის ოფიციალური სტატუსი მიენიჭა. 2014 წლიდან ფონდმა მსოფლიო დონის მუსიკოსების მონაწილეობით ხუთი დიდი საქველმოქმედო კონცერტი გამართა.\n\nფონდის ყველაზე მნიშვნელოვანი პროექტია „სიყვარულისთვის\" („For Love\"), რომელიც ერთ წარმოდგენაში აერთიანებს ბალეტს (ნინო როტას სუიტა ფელინის ფილმიდან „გზა\") და ოპერას (პულენკის მონოოპერა „ადამიანის ხმა\"). პროექტი განხორციელდა რეჟისორ მარკო განდინის (ფრანკო ძეფირელის დიდი ხნის თანამოაზრე), ქორეოგრაფისა და La Scala-ს პირველი მოცეკვავის ჯანლუკა სკიავონის, დირიჟორ კარლო პონტი უმცროსისა და თბილისის ოპერისა და ბალეტის თეატრის მონაწილეობით. მთავარ პარტიებს ასრულებდნენ პრიმა-ბალერინა ნინო ანანიაშვილი და ნინო სურგულაძე. ღონისძიების პატრონი და საპატიო სტუმარი სოფი ლორენი იყო; პრემიერა 2016 წლის 15 ივნისს გაიმართა თბილისის ოპერისა და ბალეტის თეატრში და ცოცხლად გადაიცა ქართულ ტელევიზიაში. წარმოდგენამ მნიშვნელოვანი თანხა მოაგროვა და იტალიასა და საქართველოს შორის კულტურული ურთიერთობებიც გააძლიერა."
     }
    }
   ]
