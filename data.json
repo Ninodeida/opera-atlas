@@ -1,0 +1,755 @@
+{
+ "updated": "2026-10-18",
+ "cities": {
+  "ny": {
+   "en": "New York",
+   "it": "New York",
+   "ka": "ნიუ-იორკი",
+   "ru": "Нью-Йорк"
+  },
+  "ldn": {
+   "en": "London",
+   "it": "Londra",
+   "ka": "ლონდონი",
+   "ru": "Лондон"
+  },
+  "vie": {
+   "en": "Vienna",
+   "it": "Vienna",
+   "ka": "ვენა",
+   "ru": "Вена"
+  },
+  "mil": {
+   "en": "Milan",
+   "it": "Milano",
+   "ka": "მილანი",
+   "ru": "Милан"
+  },
+  "tur": {
+   "en": "Turin",
+   "it": "Torino",
+   "ka": "ტურინი",
+   "ru": "Турин"
+  },
+  "reg": {
+   "en": "Regensburg",
+   "it": "Ratisbona",
+   "ka": "რეგენსბურგი",
+   "ru": "Регенсбург"
+  },
+  "tbs": {
+   "en": "Tbilisi",
+   "it": "Tbilisi",
+   "ka": "თბილისი",
+   "ru": "Тбилиси"
+  }
+ },
+ "houses": {
+  "met": {
+   "n": "Metropolitan Opera",
+   "c": "ny"
+  },
+  "roh": {
+   "n": "Royal Opera House",
+   "c": "ldn"
+  },
+  "eno": {
+   "n": "English National Opera",
+   "c": "ldn"
+  },
+  "wso": {
+   "n": "Wiener Staatsoper",
+   "c": "vie"
+  },
+  "sca": {
+   "n": "Teatro alla Scala",
+   "c": "mil"
+  },
+  "reg": {
+   "n": "Teatro Regio Torino",
+   "c": "tur"
+  },
+  "tbs": {
+   "n": "Tbilisi Opera and Ballet State Theatre",
+   "c": "tbs"
+  },
+  "rgb": {
+   "n": "Theater Regensburg",
+   "c": "reg"
+  }
+ },
+ "events": [
+  {
+   "id": "met-mac",
+   "s": "2026-09-22",
+   "e": "2026-10-20",
+   "h": "met",
+   "ty": "new",
+   "t": "Macbeth",
+   "c": "Verdi",
+   "u": "https://theartsshelf.com/2026/02/22/the-metropolitan-opera-announces-2026-27-season-programme/",
+   "n": {
+    "en": "Season-opening new production by Louisa Proske, conducted by Yannick Nézet-Séguin, with Lise Davidsen and Quinn Kelsey.",
+    "it": "Nuova produzione di apertura firmata Louisa Proske, direttore Yannick Nézet-Séguin, con Lise Davidsen e Quinn Kelsey.",
+    "ka": "სეზონის გახსნის ახალი დადგმა: რეჟისორი ლუიზა პროსკე, დირიჟორი იანიკ ნეზე-სეგენი, ლიზე დავიდსენი და ქუინ კელსი.",
+    "ru": "Новая постановка открытия сезона: режиссёр Луиза Проске, дирижёр Янник Незе-Сеген, Лизе Давидсен и Куинн Келси."
+   }
+  },
+  {
+   "id": "met-lin",
+   "s": "2026-10-19",
+   "e": "2026-11-14",
+   "h": "met",
+   "ty": "world",
+   "t": "Lincoln in the Bardo",
+   "c": "Missy Mazzoli",
+   "u": "https://medicine-opera.com/2026/02/the-mets-26-27-season/",
+   "n": {
+    "en": "World premiere commissioned by the Met; cast includes Christine Goerke, Anthony Roth Costanzo and Peter Mattei.",
+    "it": "Prima mondiale commissionata dal Met; nel cast Christine Goerke, Anthony Roth Costanzo e Peter Mattei.",
+    "ka": "მსოფლიო პრემიერა, მეტის შეკვეთით; მონაწილეობენ კრისტინ გიორკე, ენტონი როთ კოსტანცო და პეტერ მატეი.",
+    "ru": "Мировая премьера по заказу «Метрополитен»; в составе Кристин Герке, Энтони Рот Костанцо, Петер Маттеи."
+   }
+  },
+  {
+   "id": "met-fan",
+   "s": "2026-12-31",
+   "e": "2027-01-30",
+   "h": "met",
+   "ty": "new",
+   "t": "La fanciulla del West",
+   "c": "Puccini",
+   "u": "https://medicine-opera.com/2026/02/the-mets-26-27-season/",
+   "n": {
+    "en": "First new Met production in over 30 years; Sondra Radvanovsky as Minnie.",
+    "it": "Prima nuova produzione al Met in oltre 30 anni; Sondra Radvanovsky è Minnie.",
+    "ka": "პირველი ახალი დადგმა მეტში 30 წელზე მეტი ხნის შემდეგ; მინის როლში სონდრა რადვანოვსკი.",
+    "ru": "Первая новая постановка в «Метрополитен» за 30 с лишним лет; Минни — Сондра Радвановски."
+   }
+  },
+  {
+   "id": "met-sil",
+   "s": "2027-03-08",
+   "e": "2027-04-03",
+   "h": "met",
+   "ty": "cpremiere",
+   "t": "Silent Night",
+   "c": "Kevin Puts",
+   "u": "https://medicine-opera.com/2026/02/the-mets-26-27-season/",
+   "n": {
+    "en": "Met company premiere, directed by James Robinson.",
+    "it": "Prima per il Met, regia di James Robinson.",
+    "ka": "პრემიერა მეტში; რეჟისორი ჯეიმს რობინსონი.",
+    "ru": "Премьера в «Метрополитен»; режиссёр Джеймс Робинсон."
+   }
+  },
+  {
+   "id": "roh-don",
+   "s": "2026-09-10",
+   "e": "2026-10-15",
+   "h": "roh",
+   "ty": "revival",
+   "t": "Don Giovanni",
+   "c": "Mozart",
+   "u": "https://www.broadwayworld.com/article/DON-GIOVANNI-to-Open-The-Royal-Operas-202627-Season-20260714",
+   "n": {
+    "en": "Kasper Holten's production opens the season; Gordon Bintner in the title role, Stefano Montanari conducts.",
+    "it": "La produzione di Kasper Holten apre la stagione; Gordon Bintner protagonista, direttore Stefano Montanari.",
+    "ka": "კასპერ ჰოლტენის დადგმა ხსნის სეზონს; სათაურ როლში გორდონ ბინტნერი, დირიჟორი სტეფანო მონტანარი.",
+    "ru": "Постановка Каспера Хольтена открывает сезон; Дон Жуан — Гордон Бинтнер, дирижёр Стефано Монтанари."
+   }
+  },
+  {
+   "id": "roh-par",
+   "s": "2026-10-01",
+   "e": "2026-10-17",
+   "h": "roh",
+   "ty": "new",
+   "t": "Parsifal",
+   "c": "Wagner",
+   "u": "https://operawire.com/tag/royal-opera-house/",
+   "n": {
+    "en": "New production by Evgeny Titov (house debut), conducted by Jakub Hrůša.",
+    "it": "Nuova produzione di Evgeny Titov (debutto alla Royal Opera), direttore Jakub Hrůša.",
+    "ka": "ევგენი ტიტოვის ახალი დადგმა (დებიუტი თეატრში), დირიჟორი იაკუბ ჰრუშა.",
+    "ru": "Новая постановка Евгения Титова (дебют в театре), дирижёр Якуб Грюша."
+   }
+  },
+  {
+   "id": "eno-ang",
+   "s": "2026-10-01",
+   "e": "2026-10-31",
+   "h": "eno",
+   "ty": "cpremiere",
+   "t": "Angel's Bone",
+   "c": "Du Yun",
+   "u": "https://seatplan.com/london/news/eno-new-season-announced/",
+   "n": {
+    "en": "UK premiere opening ENO's season, directed by Kip Williams. Exact dates: see ENO.",
+    "it": "Prima britannica che apre la stagione ENO, regia di Kip Williams. Date esatte: sul sito ENO.",
+    "ka": "დიდი ბრიტანეთის პრემიერა, ENO-ს სეზონის გახსნა; რეჟისორი კიპ უილიამსი. ზუსტი თარიღები იხილეთ ENO-ს საიტზე.",
+    "ru": "Британская премьера, открывающая сезон ENO; режиссёр Кип Уильямс. Точные даты на сайте ENO."
+   }
+  },
+  {
+   "id": "vie-geh",
+   "s": "2026-10-10",
+   "e": "2026-10-10",
+   "h": "wso",
+   "ty": "world",
+   "t": "Geheimmission Zauberflöte",
+   "c": "Mozart / Gerald Resch",
+   "u": "https://www.broadwayworld.com/bwwopera/article/Vienna-State-Opera-Unveils-202627-Season-Featuring-Six-Opera-Premieres-Two-Ballet-Premieres-More-20260414",
+   "n": {
+    "en": "Children's opera, world premiere, directed by Nina Blum.",
+    "it": "Opera per ragazzi, prima assoluta, regia di Nina Blum.",
+    "ka": "საბავშვო ოპერა, მსოფლიო პრემიერა; რეჟისორი ნინა ბლუმი.",
+    "ru": "Детская опера, мировая премьера; режиссёр Нина Блюм."
+   }
+  },
+  {
+   "id": "vie-orf",
+   "s": "2026-10-25",
+   "e": "2026-10-25",
+   "h": "wso",
+   "ty": "revival",
+   "t": "L'Orfeo",
+   "c": "Monteverdi",
+   "u": "https://www.broadwayworld.com/bwwopera/article/Vienna-State-Opera-Unveils-202627-Season-Featuring-Six-Opera-Premieres-Two-Ballet-Premieres-More-20260414",
+   "n": {
+    "en": "Rolando Villazón features in this Vienna revival.",
+    "it": "Rolando Villazón nella ripresa viennese.",
+    "ka": "ვენის აღდგენილ დადგმაში მონაწილეობს როლანდო ვილასონი.",
+    "ru": "В венском возобновлении участвует Роландо Вильясон."
+   }
+  },
+  {
+   "id": "eno-iph",
+   "s": "2026-11-06",
+   "e": "2026-11-14",
+   "h": "eno",
+   "ty": "new",
+   "t": "Iphigénie en Tauride",
+   "c": "Gluck",
+   "u": "https://www.eno.org/press/english-national-opera-announces-2026-27-season/",
+   "n": {
+    "en": "ENO premiere of a new production of Gluck's rarely performed masterpiece.",
+    "it": "Nuova produzione per l'ENO di un capolavoro di Gluck raramente eseguito.",
+    "ka": "გლუკის იშვიათად შესრულებული შედევრის ახალი დადგმა ENO-ში.",
+    "ru": "Новая постановка редко исполняемого шедевра Глюка в ENO."
+   }
+  },
+  {
+   "id": "reg-cav",
+   "s": "2026-10-15",
+   "e": "2026-11-21",
+   "h": "reg",
+   "ty": "new",
+   "t": "Cavalleria rusticana / Pagliacci",
+   "c": "Mascagni / Leoncavallo",
+   "u": "https://www.broadwayworld.com/article/Teatro-Regio-Torino-Will-Open-Season-in-October-20260925",
+   "n": {
+    "en": "Verismo Festival opens the Regio season; Andrea Battistoni conducts.",
+    "it": "Il Festival Verismo apre la stagione del Regio; direttore Andrea Battistoni.",
+    "ka": "ვერიზმოს ფესტივალი ხსნის რეჯოს სეზონს; დირიჟორი ანდრეა ბატისტონი.",
+    "ru": "Фестиваль веризма открывает сезон «Реджо»; дирижёр Андреа Баттистони."
+   }
+  },
+  {
+   "id": "reg2",
+   "s": "2026-12-05",
+   "e": "2027-05-09",
+   "h": "rgb",
+   "ty": "world",
+   "t": "The Secret Garden",
+   "c": "Jonathan Dove",
+   "u": "https://www.wisemusicclassical.com/features/2026/02/opera-season-highlights-2026-27/",
+   "n": {
+    "en": "New opera by Jonathan Dove and Peter Lund after Frances Hodgson Burnett.",
+    "it": "Nuova opera di Jonathan Dove e Peter Lund dal romanzo di Frances Hodgson Burnett.",
+    "ka": "ჯონათან დოუვისა და პიტერ ლუნდის ახალი ოპერა ფრენსის ჰოჯსონ ბერნეტის რომანის მიხედვით.",
+    "ru": "Новая опера Джонатана Дав и Питера Лунда по роману Фрэнсис Ходжсон Бёрнетт."
+   }
+  },
+  {
+   "id": "sca-ote",
+   "s": "2026-12-07",
+   "e": "2027-01-05",
+   "h": "sca",
+   "ty": "new",
+   "t": "Otello",
+   "c": "Verdi",
+   "u": "https://en.ilsole24ore.com/art/la-scala-presents-season-debuts-myung-whun-chung-AI9F0EMD",
+   "n": {
+    "en": "Prima della Scala, 7 December: Myung-Whun Chung's first season as music director, staging by Damiano Michieletto, with Brian Jagde, Luca Salsi and Eleonora Buratto.",
+    "it": "Prima della Scala, 7 dicembre: prima stagione di Myung-Whun Chung come direttore musicale, regia di Damiano Michieletto, con Brian Jagde, Luca Salsi ed Eleonora Buratto.",
+    "ka": "სკალას პრემიერა, 7 დეკემბერი: მიუნგ-ვუნ ჩუნგის პირველი სეზონი მუსიკალურ დირექტორად; დადგმა დამიანო მიკელეტო, ბრაიან ჯეგდი, ლუკა სალსი და ელეონორა ბურატო.",
+    "ru": "Открытие сезона Ла Скала 7 декабря: первый сезон Мён Вун Чунга в качестве музыкального директора, постановка Дамиано Микелетто, Брайан Джэгд, Лука Сальси и Элеонора Буратто."
+   }
+  },
+  {
+   "id": "eno-btw",
+   "s": "2027-02-13",
+   "e": "2027-02-27",
+   "h": "eno",
+   "ty": "new",
+   "t": "Breaking the Waves",
+   "c": "Missy Mazzoli",
+   "u": "https://www.wisemusicclassical.com/features/2026/02/opera-season-highlights-2026-27/",
+   "n": {
+    "en": "New production by Tinuke Craig closes ENO's season.",
+    "it": "Nuova produzione di Tinuke Craig.",
+    "ka": "ტინუკე კრეიგის ახალი დადგმა.",
+    "ru": "Новая постановка Тинуке Крэйг."
+   }
+  },
+  {
+   "id": "sca-bol",
+   "s": "2027-04-17",
+   "e": "2027-04-30",
+   "h": "sca",
+   "ty": "revival",
+   "t": "Anna Bolena",
+   "c": "Donizetti",
+   "u": "https://www.gramilano.com/2026/05/la-scala-2026-2027-opera-season/",
+   "n": {
+    "en": "Francesco Ivan Ciampa makes his La Scala debut; staged by Chiara Muti.",
+    "it": "Debutto alla Scala di Francesco Ivan Ciampa; regia di Chiara Muti.",
+    "ka": "ფრანჩესკო ივან ჩამპას დებიუტი სკალაში; რეჟისორი კიარა მუტი.",
+    "ru": "Дебют Франческо Ивана Чампы в Ла Скала; режиссёр Кьяра Мути."
+   }
+  },
+  {
+   "id": "vie-cap",
+   "s": "2027-06-11",
+   "e": "2027-06-11",
+   "h": "wso",
+   "ty": "new",
+   "t": "I Capuleti e i Montecchi",
+   "c": "Bellini",
+   "u": "https://www.broadwayworld.com/bwwopera/article/Vienna-State-Opera-Unveils-202627-Season-Featuring-Six-Opera-Premieres-Two-Ballet-Premieres-More-20260414",
+   "n": {
+    "en": "Premiere with Lisette Oropesa and Emily D'Angelo, directed by Tatjana Gürbaca.",
+    "it": "Prima con Lisette Oropesa ed Emily D'Angelo, regia di Tatjana Gürbaca.",
+    "ka": "პრემიერა ლიზეტ ოროპესასა და ემილი დანჯელოს მონაწილეობით; რეჟისორი ტატიანა გიურბაჩა.",
+    "ru": "Премьера с Лизетт Оропеса и Эмили Д'Анджело; режиссёр Татьяна Гюрбача."
+   }
+  }
+ ],
+ "news": [
+  {
+   "d": "2026-04-22",
+   "h": "eno",
+   "u": "https://www.eno.org/press/english-national-opera-announces-2026-27-season/",
+   "t": {
+    "en": "ENO announces nine operas for 2026/27, six of them new productions, including Tosca and Adriana Mater as a connected pair.",
+    "it": "L'ENO annuncia nove opere per il 2026/27, sei nuove produzioni, tra cui Tosca e Adriana Mater come dittico collegato.",
+    "ka": "ENO აცხადებს 2026/27 სეზონს: ცხრა ოპერა, მათ შორის ექვსი ახალი დადგმა; Tosca და Adriana Mater ერთმანეთთან დაკავშირებული წყვილია.",
+    "ru": "ENO объявил сезон 2026/27: девять опер, шесть новых постановок, включая связанную пару «Тоска» и «Адриана Матер»."
+   }
+  },
+  {
+   "d": "2026-04-14",
+   "h": "roh",
+   "u": "https://www.rbo.org.uk/latest-news/royal-ballet-and-opera-2627-season",
+   "t": {
+    "en": "Royal Opera 2026/27: ten new productions, among them Parsifal, Un ballo in maschera, the final part of Kosky's Ring (Götterdämmerung), La Gioconda and Hercules.",
+    "it": "Royal Opera 2026/27: dieci nuove produzioni, tra cui Parsifal, Un ballo in maschera, Götterdämmerung (ultimo capitolo del Ring di Kosky), La Gioconda ed Hercules.",
+    "ka": "Royal Opera 2026/27: ათი ახალი დადგმა, მათ შორის Parsifal, Un ballo in maschera, Götterdämmerung (კოსკის „რინგის“ დასკვნითი ნაწილი), La Gioconda და Hercules.",
+    "ru": "Royal Opera 2026/27: десять новых постановок, среди них «Парсифаль», «Бал-маскарад», «Гибель богов» (финал «Кольца» Коски), «Джоконда» и «Геракл»."
+   }
+  },
+  {
+   "d": "2026-04-14",
+   "h": "wso",
+   "u": "https://www.broadwayworld.com/bwwopera/article/Vienna-State-Opera-Unveils-202627-Season-Featuring-Six-Opera-Premieres-Two-Ballet-Premieres-More-20260414",
+   "t": {
+    "en": "Vienna State Opera unveils six opera premieres and two ballet premieres for 2026/27.",
+    "it": "La Staatsoper di Vienna presenta sei prime d'opera e due di balletto per il 2026/27.",
+    "ka": "ვენის სახელმწიფო ოპერა 2026/27-ისთვის ექვს საოპერო და ორ საბალეტო პრემიერას გვთავაზობს.",
+    "ru": "Венская государственная опера представила шесть оперных и две балетные премьеры сезона 2026/27."
+   }
+  },
+  {
+   "d": "2026-05",
+   "h": "sca",
+   "u": "https://operawire.com/teatro-alla-scala-announces-operas-for-2026-27-season/",
+   "t": {
+    "en": "La Scala 2026/27: 13 operas, with Nixon in China, Leonora by Paër, I Puritani after 55 years, Don Quichotte and a new Macbeth by Barrie Kosky.",
+    "it": "Scala 2026/27: 13 titoli, tra cui Nixon in China, Leonora di Paër, I Puritani dopo 55 anni, Don Quichotte e un nuovo Macbeth di Barrie Kosky.",
+    "ka": "ლა სკალა 2026/27: 13 ოპერა, მათ შორის Nixon in China, პაერის Leonora, I Puritani 55 წლის შემდეგ, Don Quichotte და ბარი კოსკის ახალი Macbeth.",
+    "ru": "Ла Скала 2026/27: 13 опер, среди них «Никсон в Китае», «Леонора» Паэра, «Пуритане» после 55 лет, «Дон Кихот» и новый «Макбет» Барри Коски."
+   }
+  },
+  {
+   "d": "2026-02-19",
+   "h": "met",
+   "u": "https://myscena.org/newswire/newswire-the-metropolitan-opera-announces-2026-27-season-including-five-new-productions/",
+   "t": {
+    "en": "The Met announces five new productions, twelve revivals and a 60th-anniversary gala for 2026/27.",
+    "it": "Il Met annuncia cinque nuove produzioni, dodici riprese e un gala per il 60° anniversario nel 2026/27.",
+    "ka": "მეტი 2026/27 სეზონისთვის აცხადებს ხუთ ახალ დადგმას, თორმეტ აღდგენას და 60 წლისთავის გალას.",
+    "ru": "«Метрополитен» объявил на 2026/27 пять новых постановок, двенадцать возобновлений и гала к 60-летию."
+   }
+  }
+ ],
+ "reviews": [
+  {
+   "id": "r-met",
+   "d": "2026-10",
+   "h": "met",
+   "w": "Macbeth",
+   "src": "Bachtrack",
+   "u": "https://bachtrack.com/22/296/view/31466",
+   "t": {
+    "en": "A grim, psychologically driven post-apocalyptic staging. Quinn Kelsey is singled out for authority in the title role, the chorus is praised, and Lise Davidsen's much-awaited Lady Macbeth debut is judged somewhat disappointing.",
+    "it": "Allestimento cupo e post-apocalittico. Quinn Kelsey spicca per autorevolezza, il coro è lodato, mentre il debutto di Lise Davidsen come Lady Macbeth, molto atteso, delude in parte.",
+    "ka": "პირქუში, ფსიქოლოგიური, პოსტაპოკალიფსური დადგმა. კრიტიკოსი გამოარჩევს კუინ კელსის ავტორიტეტულ მაკბეტს და გუნდს; ლიზე დავიდსენის ლედი მაკბეტის დებიუტი ნაწილობრივ იმედგაცრუებად მიიჩნევა.",
+    "ru": "Мрачная психологическая постановка в духе постапокалипсиса. Отмечены авторитетный Макбет Куинна Келси и хор; долгожданный дебют Лизе Давидсен в роли леди Макбет признан отчасти разочаровывающим."
+   }
+  },
+  {
+   "id": "r-nz",
+   "d": "2017-06",
+   "h": null,
+   "place": "New Zealand Opera, Auckland",
+   "w": "Carmen",
+   "src": "Bachtrack",
+   "u": "https://bachtrack.com/opera-event/carmen-new-zealand-opera-kiri-te-kanawa-theatre-22-june-2017/270367",
+   "nino": true,
+   "t": {
+    "en": "Lindy Hume's staging strips away clichés. The reviewer calls Nino Surguladze a marvel in the title role, praising her subtle acting and her phrasing in the Habanera and the duet with Don José.",
+    "it": "La regia di Lindy Hume elimina i cliché. Per il recensore Nino Surguladze è una meraviglia nel ruolo del titolo, con recitazione sottile e fraseggio notevole nell'Habanera e nel duetto con Don José.",
+    "ka": "ლინდი ჰიუმის დადგმა კლიშეებს ერიდება. რეცენზენტისთვის ნინო სურგულაძე სათაურ როლში საოცრებაა: დახვეწილი მსახიობობა და ფრაზირება ჰაბანერასა და დონ ხოსესთან დუეტში.",
+    "ru": "Постановка Линди Хьюм избегает клише. Рецензент называет Нино Сургуладзе чудом в главной роли: тонкая игра и фразировка в Хабанере и дуэте с Хосе."
+   }
+  },
+  {
+   "id": "r-hk",
+   "d": "2017-10",
+   "h": null,
+   "place": "Opera Hong Kong",
+   "w": "Aida",
+   "src": "Asian Review of Books",
+   "u": "https://asianreviewofbooks.com/aida-opera-hong-kong-10-15-october-2017/",
+   "nino": true,
+   "t": {
+    "en": "Review of a strong double casting. Nino Surguladze appears as Amneris alongside Violeta Urmana in the same role.",
+    "it": "Recensione di un doppio cast di alto livello. Nino Surguladze è Amneris, alternandosi con Violeta Urmana.",
+    "ka": "რეცენზია ძლიერ ორმაგ შემადგენლობაზე. ნინო სურგულაძე ამნერისის პარტიას ასრულებს ვიოლეტა ურმანასთან ერთად.",
+    "ru": "Рецензия на сильный двойной состав. Нино Сургуладзе поёт Амнерис, чередуясь с Виолетой Урманой."
+   }
+  },
+  {
+   "id": "r-bgn",
+   "d": "2017",
+   "h": null,
+   "place": "Bergen National Opera",
+   "w": "I Capuleti e i Montecchi",
+   "src": "Opernwelt (Gerhard Persché), via Bergen National Opera",
+   "u": "https://bno.no/eng/news/2017/svaert-flott-kritikk-i-opernwelt",
+   "nino": true,
+   "t": {
+    "en": "Opernwelt calls her Romeo extraordinary, fully committed and sung with a warm, dramatic, velvety voice, and praises the bel canto of the whole production.",
+    "it": "Opernwelt definisce straordinario il suo Romeo: totale dedizione scenica, voce calda, drammatica e vellutata; lodato il belcanto dell'intera produzione.",
+    "ka": "Opernwelt მის რომეოს არაჩვეულებრივს უწოდებს: სრული თავდადება სცენაზე, თბილი, დრამატული, ხავერდოვანი ხმა; მთელი დადგმის ბელკანტოც შექებულია.",
+    "ru": "Opernwelt называет её Ромео исключительным: полная самоотдача, тёплый, драматичный, бархатный голос; хвалит и бельканто всей постановки."
+   }
+  },
+  {
+   "id": "r-nyt",
+   "d": "2010-10",
+   "h": null,
+   "place": "Rigoletto a Mantova (filmed)",
+   "w": "Rigoletto",
+   "src": "The New York Times",
+   "u": "https://www.nytimes.com/2010/10/04/arts/music/04rigoletto.html",
+   "nino": true,
+   "t": {
+    "en": "The New York Times reviewed the live television production filmed in Mantua with Plácido Domingo. Nino Surguladze sang Maddalena.",
+    "it": "Il New York Times ha recensito la produzione televisiva in diretta girata a Mantova con Plácido Domingo. Nino Surguladze era Maddalena.",
+    "ka": "The New York Times-მა მანტუაში გადაღებული ცოცხალი სატელევიზიო წარმოდგენა განიხილა პლასიდო დომინგოს მონაწილეობით. ნინო სურგულაძე მადალენას ასრულებდა.",
+    "ru": "The New York Times рецензировала телевизионную постановку, снятую в Мантуе с Пласидо Доминго. Нино Сургуладзе пела Маддалену."
+   }
+  }
+ ],
+ "nino": {
+  "awards": [
+   {
+    "en": "Presidential Order of Excellence (Georgia)",
+    "it": "Presidential Order of Excellence (Georgia)",
+    "ka": "საქართველოს პრეზიდენტის ბრწყინვალების ორდენი",
+    "ru": "Presidential Order of Excellence (Грузия)"
+   },
+   {
+    "en": "Cavaliere della Stella d'Italia",
+    "it": "Cavaliere della Stella d'Italia",
+    "ka": "იტალიის ვარსკვლავის კავალერი",
+    "ru": "Кавалер ордена Звезды Италии"
+   },
+   {
+    "en": "GBOSCAR 2014–15, best mezzo-soprano (Fenena, Arena di Verona)",
+    "it": "GBOSCAR 2014–15, miglior mezzosoprano (Fenena, Arena di Verona)",
+    "ka": "GBOSCAR 2014–15, საუკეთესო მეცოსოპრანო (ფენენა, ვერონას არენა)",
+    "ru": "GBOSCAR 2014–15, лучшая меццо-сопрано (Фенена, Арена ди Верона)"
+   }
+  ],
+  "timeline": [
+   {
+    "y": "1977",
+    "t": {
+     "en": "Born in Tbilisi on 12 October. Studied journalism, then voice at the Tbilisi Conservatory with Guliko Kariauli.",
+     "it": "Nasce a Tbilisi il 12 ottobre. Studia giornalismo, poi canto al Conservatorio di Tbilisi con Guliko Kariauli.",
+     "ka": "დაიბადა თბილისში, 12 ოქტომბერს. სწავლობდა ჟურნალისტიკას, შემდეგ თბილისის კონსერვატორიაში გულიკო ქარიაულთან ვოკალს.",
+     "ru": "Родилась в Тбилиси 12 октября. Училась журналистике, затем вокалу в Тбилисской консерватории у Гулико Кариаули."
+    },
+    "l": [
+     [
+      "Wikipedia",
+      "https://en.wikipedia.org/wiki/Nino_Surguladze"
+     ]
+    ]
+   },
+   {
+    "y": "≈1999–2003",
+    "t": {
+     "en": "Prizes at the Toulouse and Francisco Viñas competitions; takes part in BBC Cardiff Singer of the World (2003). Debuts at the Liceu in Barcelona aged 22 as Sonyetka (Lady Macbeth of Mtsensk).",
+     "it": "Premi ai concorsi di Tolosa e Francisco Viñas; partecipa al BBC Cardiff Singer of the World (2003). Debutta al Liceu di Barcellona a 22 anni come Sonjetka (Lady Macbeth del distretto di Mcensk).",
+     "ka": "პრიზები ტულუზის და ფრანსისკო ვინიასის კონკურსებზე; მონაწილეობს BBC Cardiff Singer of the World-ში (2003). 22 წლის ასაკში დებიუტი ბარსელონას ლისეუში სონეტკას როლით („მცენსკის ლედი მაკბეტი“).",
+     "ru": "Премии на конкурсах в Тулузе и имени Франсиско Виньяса; участие в BBC Cardiff Singer of the World (2003). Дебют в «Лисеу» (Барселона) в 22 года в роли Сонетки («Леди Макбет Мценского уезда»)."
+    },
+    "l": [
+     [
+      "BBC Cardiff Singer 2003",
+      "https://www.bbc.co.uk/wales/cardiffsinger/sites/2003/pages/georgia.shtml"
+     ],
+     [
+      "IMDb bio",
+      "https://www.imdb.com/name/nm0839620/"
+     ]
+    ]
+   },
+   {
+    "y": "2002",
+    "t": {
+     "en": "Milan debut as Cuniza (Oberto) and Zulma (L'italiana in Algeri). Completes her training at the La Scala Academy under Leyla Gencer, Luciana Serra and Luigi Alva.",
+     "it": "Debutto a Milano come Cuniza (Oberto) e Zulma (L'italiana in Algeri). Completa gli studi all'Accademia della Scala con Leyla Gencer, Luciana Serra e Luigi Alva.",
+     "ka": "მილანში დებიუტი კუნიცას (Oberto) და ზულმას (L'italiana in Algeri) როლებით. სკალას აკადემიაში დაასრულა სწავლა ლეილა ჯენჯერთან, ლუჩანა სერასა და ლუიჯი ალვასთან.",
+     "ru": "Дебют в Милане: Куниза («Оберто») и Зульма («Итальянка в Алжире»). Завершает обучение в Академии Ла Скала у Лейлы Генчер, Лучаны Серры и Луиджи Альвы."
+    },
+    "l": [
+     [
+      "Georgia Today",
+      "https://gtarchive.georgiatoday.ge/news/1179/Internationally-Renowned-Georgian-Opera-Star-to-Perform-Charity-Concert-in-Tbilisi"
+     ],
+     [
+      "Opera Australia bio",
+      "https://opera.org.au/artist/nino-surguladze/"
+     ]
+    ]
+   },
+   {
+    "y": "≈2003",
+    "t": {
+     "en": "La Scala debut aged 23 as Marie in Moïse et Pharaon under Riccardo Muti, at a season opening. Later at La Scala: Meg (Falstaff), Olga, Idamante, Fenena, Siebel, Valencienne.",
+     "it": "Debutto alla Scala a 23 anni come Marie in Moïse et Pharaon con Riccardo Muti, in un'inaugurazione di stagione. Poi alla Scala: Meg, Olga, Idamante, Fenena, Siebel, Valencienne.",
+     "ka": "სკალაში დებიუტი 23 წლის ასაკში: მარი (Moïse et Pharaon), რიკარდო მუტის დირიჟორობით, სეზონის გახსნაზე. შემდგომ სკალაში: მეგი (Falstaff), ოლგა, იდამანტე, ფენენა, ზიბელი, ვალანსიენი.",
+     "ru": "Дебют в Ла Скала в 23 года: Мари («Моисей и Фараон») под управлением Риккардо Мути на открытии сезона. Позже в Ла Скала: Мэг, Ольга, Идамант, Фенена, Зибель, Валансьенн."
+    },
+    "l": [
+     [
+      "Follow Your Dream podcast",
+      "https://www.followyourdreampodcast.com/episodes/nino-surguladze-acclaimed-georgian-operatic-mezzo-soprano-debut-at-la-scala-performed-at-many-prestigious-opera-houses-in-us-europe-new-zealand-and-asia"
+     ],
+     [
+      "Opera Australia bio",
+      "https://opera.org.au/artist/nino-surguladze/"
+     ]
+    ]
+   },
+   {
+    "y": "2009",
+    "t": {
+     "en": "Salzburg Festival debut as Sinaide in Moïse et Pharaon.",
+     "it": "Debutto al Festival di Salisburgo come Sinaide in Moïse et Pharaon.",
+     "ka": "დებიუტი ზალცბურგის ფესტივალზე: სინაიდა (Moïse et Pharaon).",
+     "ru": "Дебют на Зальцбургском фестивале: Синаида («Моисей и Фараон»)."
+    },
+    "l": [
+     [
+      "IMDb bio",
+      "https://www.imdb.com/name/nm0839620/"
+     ]
+    ]
+   },
+   {
+    "y": "2010",
+    "t": {
+     "en": "Maddalena in the live television film Rigoletto a Mantova with Plácido Domingo, Ruggero Raimondi and Vittorio Grigolo.",
+     "it": "Maddalena nel film televisivo in diretta Rigoletto a Mantova con Plácido Domingo, Ruggero Raimondi e Vittorio Grigolo.",
+     "ka": "მადალენა ცოცხალ სატელევიზიო ფილმში Rigoletto a Mantova პლასიდო დომინგოს, რუჯერო რაიმონდისა და ვიტორიო გრიგოლოს მონაწილეობით.",
+     "ru": "Маддалена в телефильме «Риголетто в Мантуе» с Пласидо Доминго, Руджеро Раймонди и Витторио Григоло."
+    },
+    "l": [
+     [
+      "The New York Times",
+      "https://www.nytimes.com/2010/10/04/arts/music/04rigoletto.html"
+     ],
+     [
+      "Georgia Today",
+      "https://gtarchive.georgiatoday.ge/news/1179/Internationally-Renowned-Georgian-Opera-Star-to-Perform-Charity-Concert-in-Tbilisi"
+     ]
+    ]
+   },
+   {
+    "y": "2015",
+    "t": {
+     "en": "13 September: charity concert at Tbilisi Concert Hall with international colleagues, for her foundation Desire Tree, which helps children needing medical care.",
+     "it": "13 settembre: concerto benefico alla Tbilisi Concert Hall con colleghi internazionali per la sua fondazione Desire Tree, che aiuta bambini bisognosi di cure.",
+     "ka": "13 სექტემბერი: საქველმოქმედო კონცერტი თბილისის საკონცერტო დარბაზში საერთაშორისო კოლეგებთან ერთად მისი ფონდის „სურვილების ხე“ სასარგებლოდ, რომელიც სამედიცინო დახმარებას უწევს ბავშვებს.",
+     "ru": "13 сентября: благотворительный концерт в Тбилисском концертном зале с зарубежными коллегами в пользу её фонда Desire Tree, помогающего детям, которым нужна медицинская помощь."
+    },
+    "l": [
+     [
+      "Georgia Today",
+      "https://gtarchive.georgiatoday.ge/news/1179/Internationally-Renowned-Georgian-Opera-Star-to-Perform-Charity-Concert-in-Tbilisi"
+     ]
+    ]
+   },
+   {
+    "y": "2016",
+    "t": {
+     "en": "GBOSCAR for best mezzo-soprano of the 2014–15 season for Fenena in Nabucco at the Arena di Verona.",
+     "it": "GBOSCAR come miglior mezzosoprano della stagione 2014–15 per Fenena in Nabucco all'Arena di Verona.",
+     "ka": "GBOSCAR 2014–15 სეზონის საუკეთესო მეცოსოპრანოდ: ფენენა, Nabucco, ვერონას არენა.",
+     "ru": "GBOSCAR как лучшая меццо-сопрано сезона 2014–15 за Фенену в «Набукко» на Арена ди Верона."
+    },
+    "l": [
+     [
+      "Only Stage bio",
+      "https://onlystage.co.uk/?p=14047"
+     ]
+    ]
+   },
+   {
+    "y": "2017",
+    "t": {
+     "en": "Carmen with New Zealand Opera (June), Amneris at Opera Hong Kong (October), a part in the Netflix series The Alienist.",
+     "it": "Carmen alla New Zealand Opera (giugno), Amneris all'Opera Hong Kong (ottobre), una parte nella serie Netflix The Alienist.",
+     "ka": "კარმენი New Zealand Opera-ში (ივნისი), ამნერისი Opera Hong Kong-ში (ოქტომბერი), როლი Netflix-ის სერიალში The Alienist.",
+     "ru": "Кармен в New Zealand Opera (июнь), Амнерис в Opera Hong Kong (октябрь), роль в сериале Netflix «Алиенист»."
+    },
+    "l": [
+     [
+      "NZ Carmen review",
+      "https://bachtrack.com/opera-event/carmen-new-zealand-opera-kiri-te-kanawa-theatre-22-june-2017/270367"
+     ],
+     [
+      "Hong Kong Aida review",
+      "https://asianreviewofbooks.com/aida-opera-hong-kong-10-15-october-2017/"
+     ],
+     [
+      "RNZ interview",
+      "https://www.rnz.co.nz/tags/Tbilisi"
+     ]
+    ]
+   },
+   {
+    "y": "2018",
+    "t": {
+     "en": "Title role in a video-recorded Carmen at the Opéra Royal de Wallonie, Liège.",
+     "it": "Ruolo del titolo in una Carmen registrata in video all'Opéra Royal de Wallonie di Liegi.",
+     "ka": "სათაურ როლი ვიდეოჩანაწერში Carmen, ლიეჟის ვალონიის სამეფო ოპერა.",
+     "ru": "Главная партия в видеозаписи «Кармен» в Королевской опере Валлонии (Льеж)."
+    },
+    "l": [
+     [
+      "Wikipedia",
+      "https://en.wikipedia.org/wiki/Nino_Surguladze"
+     ]
+    ]
+   },
+   {
+    "y": "2026",
+    "t": {
+     "en": "20–28 January: Amneris in a new Aida production at Teatro Massimo Bellini, Catania, alternating with Irene Savignano.",
+     "it": "20–28 gennaio: Amneris in una nuova Aida al Teatro Massimo Bellini di Catania, in alternanza con Irene Savignano.",
+     "ka": "20–28 იანვარი: ამნერისი ახალ Aida-ში, კატანიის ბელინის თეატრი, ირენე სავინიანოსთან ერთად.",
+     "ru": "20–28 января: Амнерис в новой «Аиде» в Театро Массимо Беллини (Катания), поочерёдно с Ирене Савиньяно."
+    },
+    "l": [
+     [
+      "La Sicilia",
+      "https://www.lasicilia.it/evento/eventi/3013631/aida-al-teatro-massimo-bellini-amore-potere-e-tragedia-in-scena-dal-20-al-28-gennaio.html"
+     ]
+    ]
+   }
+  ],
+  "roles": {
+   "en": "Roles named in official biographies: Carmen, Amneris, Maddalena, Dorabella, Romeo (Capuleti), Adalgisa, Santuzza, Suzuki, Azucena, Preziosilla, Marfa (Káťa Kabanová), Ježibaba (Rusalka), Olga, Fenena, Idamante. Houses include the Met, Covent Garden, Opéra de Paris, Teatro Real, Lyric Opera of Chicago, Glyndebourne, Mariinsky, San Carlo, Arena di Verona.",
+   "it": "Ruoli indicati nelle biografie ufficiali: Carmen, Amneris, Maddalena, Dorabella, Romeo (Capuleti), Adalgisa, Santuzza, Suzuki, Azucena, Preziosilla, Marfa (Káťa Kabanová), Ježibaba (Rusalka), Olga, Fenena, Idamante. Teatri: Met, Covent Garden, Opéra de Paris, Teatro Real, Lyric Opera di Chicago, Glyndebourne, Mariinskij, San Carlo, Arena di Verona.",
+   "ka": "ოფიციალურ ბიოგრაფიებში დასახელებული პარტიები: კარმენი, ამნერისი, მადალენა, დორაბელა, რომეო (Capuleti), ადალჯიზა, სანტუცა, სუძუკი, აძუჩენა, პრეციოზილა, მარფა (Káťa Kabanová), ეზიბაბა (Rusalka), ოლგა, ფენენა, იდამანტე. თეატრები: მეტროპოლიტენი, კოვენტ-გარდენი, პარიზის ოპერა, ტეატრო რეალი, ჩიკაგოს ლირიკული ოპერა, გლაინდბორნი, მარიინსკი, სან კარლო, ვერონას არენა.",
+   "ru": "Партии из официальных биографий: Кармен, Амнерис, Маддалена, Дорабелла, Ромео («Капулетти»), Адальджиза, Сантуцца, Судзуки, Азучена, Прециозилла, Марфа («Катя Кабанова»), Ёжибаба («Русалка»), Ольга, Фенена, Идамант. Театры: «Метрополитен», Ковент-Гарден, Парижская опера, Театро Реаль, Чикагская лирическая опера, Глайндборн, Мариинский, Сан-Карло, Арена ди Верона."
+  },
+  "upcoming": [
+   {
+    "t": {
+     "en": "Santuzza (Cavalleria rusticana), Teatro Regio Torino. Listed as upcoming in her management biography; the Regio's published October–November cast lists other Santuzzas, so check dates before travelling.",
+     "it": "Santuzza (Cavalleria rusticana), Teatro Regio di Torino. Indicata come prossimo impegno nella biografia del management; il cast pubblicato dal Regio per ottobre–novembre indica altre Santuzza, verificare le date prima di partire.",
+     "ka": "სანტუცა (Cavalleria rusticana), ტურინის რეჯო. მენეჯმენტის ბიოგრაფიაში მითითებულია როგორც მომავალი ვალდებულება; რეჯოს გამოქვეყნებულ ოქტომბერ–ნოემბრის შემადგენლობაში სხვა სანტუცები სახელდება, ამიტომ თარიღები წინასწარ გადაამოწმეთ.",
+     "ru": "Сантуцца («Сельская честь»), Театро Реджо, Турин. Указана как будущий ангажемент в биографии менеджмента; в опубликованном составе Реджо на октябрь–ноябрь названы другие исполнительницы, перед поездкой проверьте даты."
+    },
+    "l": [
+     [
+      "Management biography 2026–27",
+      "https://keynoteartistmanagement.com/media/3295/surgladze-nino-biography-en-2026-27.pdf"
+     ],
+     [
+      "Teatro Regio cast",
+      "https://www.broadwayworld.com/article/Teatro-Regio-Torino-Will-Open-Season-in-October-20260925"
+     ]
+    ]
+   },
+   {
+    "t": {
+     "en": "Venus (Tannhäuser), 2027: shown on her Opera Australia artist page. Dates not confirmed.",
+     "it": "Venere (Tannhäuser), 2027: indicata nella sua pagina artista di Opera Australia. Date non confermate.",
+     "ka": "ვენერა (Tannhäuser), 2027: მითითებულია Opera Australia-ს მხატვრის გვერდზე. თარიღები დადასტურებული არ არის.",
+     "ru": "Венера («Тангейзер»), 2027: указана на её странице в Opera Australia. Даты не подтверждены."
+    },
+    "l": [
+     [
+      "Opera Australia",
+      "https://opera.org.au/artist/nino-surguladze/"
+     ]
+    ]
+   }
+  ],
+  "links": [
+   [
+    "Official website",
+    "https://www.ninosurguladze.com"
+   ],
+   [
+    "Operabase schedule",
+    "https://operabase.com/a/Nino_Surguladze/13231"
+   ],
+   [
+    "Management (Keynote)",
+    "https://keynoteartistmanagement.com/artists/nino-surguladze/"
+   ],
+   [
+    "Wikipedia",
+    "https://en.wikipedia.org/wiki/Nino_Surguladze"
+   ],
+   [
+    "IMDb",
+    "https://www.imdb.com/name/nm0839620/"
+   ],
+   [
+    "Facebook",
+    "https://www.facebook.com/NinoSurguladzeOfficial"
+   ]
+  ]
+ }
+}
