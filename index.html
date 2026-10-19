@@ -192,7 +192,7 @@ h1.pg{font-size:1.9rem;line-height:1.1;margin:0 0 6px}
 @media (min-width:761px) and (max-width:1000px){nav.tabs{flex-wrap:wrap}}
 @media (max-width:760px){
  body{padding-inline:0;background-image:linear-gradient(180deg,#4a0c20,#2c0712 60%);background-size:100% 100%;background-attachment:scroll}
- header.mast{position:static;margin-inline:0;padding:8px 12px}
+ header.mast{position:relative;z-index:100;margin-inline:0;padding:8px 12px}
  .mast-top{flex-wrap:nowrap;gap:10px;align-items:center}
  .brand{font-size:1.25rem}.brand small{display:none}
  .langs button{min-height:44px;min-width:44px;padding:0 11px}
@@ -227,6 +227,14 @@ h1.pg{font-size:1.9rem;line-height:1.1;margin:0 0 6px}
  .bio p,.review p{font-size:1rem}
 }
 @media (prefers-reduced-motion:reduce){.menubtn .car{transition:none}}
+
+/* Opera Atlas desktop width improvement */
+@media (min-width:1100px) {
+  .wrap,
+  .hero-in {
+    max-width:min(1440px,calc(100vw - 80px));
+  }
+}
 </style>
 
 <header class="mast">
