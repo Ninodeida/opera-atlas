@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19",
+ "updated": "2026-10-18",
  "cities": {
   "ny": {
    "en": "New York",
@@ -321,18 +321,63 @@
    }
   },
   {
-   "id": "tbs-nectar-2610",
+   "id": "tbs-abesalom-2609",
+   "s": "2026-09-19",
+   "e": "2026-09-20",
+   "h": "tbs",
+   "ty": "run",
+   "t": "Abesalom and Eteri",
+   "c": "Paliashvili",
+   "u": "https://www.opera.ge/geo/playbillinner/305/cast",
+   "n": {
+    "en": "Opera, 19 and 20 September 2026, 19:00.",
+    "it": "Opera, 19 e 20 settembre 2026, ore 19:00.",
+    "ka": "ოპერა, 2026 წლის 19 და 20 სექტემბერი, 19:00."
+   }
+  },
+  {
+   "id": "tbs-raymonda-2609",
+   "s": "2026-09-25",
+   "e": "2026-09-27",
+   "h": "tbs",
+   "ty": "run",
+   "t": "Raymonda / Leah",
+   "c": "",
+   "u": "https://www.opera.ge/geo/playbillinner/307/cast",
+   "n": {
+    "en": "Ballet double bill, 25–27 September 2026 (19:00; 27 September at 15:00).",
+    "it": "Balletto, 25–27 settembre 2026 (ore 19:00; il 27 settembre ore 15:00).",
+    "ka": "ბალეტი, 2026 წლის 25–27 სექტემბერი (19:00; 27 სექტემბერს 15:00 საათზე)."
+   }
+  },
+  {
+   "id": "tbs-donquixote-2610",
+   "s": "2026-10-02",
+   "e": "2026-10-04",
+   "h": "tbs",
+   "ty": "run",
+   "t": "Don Quixote",
+   "c": "",
+   "u": "https://www.opera.ge/geo/playbillinner/311/cast",
+   "n": {
+    "en": "Ballet, 2–4 October 2026 (19:00; 4 October at 15:00).",
+    "it": "Balletto, 2–4 ottobre 2026 (ore 19:00; il 4 ottobre ore 15:00).",
+    "ka": "ბალეტი, 2026 წლის 2–4 ოქტომბერი (19:00; 4 ოქტომბერს 15:00 საათზე)."
+   }
+  },
+  {
+   "id": "tbs-elisir-2610",
    "s": "2026-10-22",
    "e": "2026-10-25",
    "h": "tbs",
    "ty": "run",
-   "t": "სიყვარულის ნექტარი",
-   "c": "",
-   "u": "https://www.opera.ge/",
+   "t": "L'elisir d'amore",
+   "c": "Donizetti",
+   "u": "https://www.opera.ge/geo/playbillinner/317/cast",
    "n": {
-    "en": "Performances on 22, 23, 24 and 25 October 2026, as listed on the theatre's website. The site does not state the composer.",
-    "it": "Recite il 22, 23, 24 e 25 ottobre 2026, come indicato sul sito del teatro. Il sito non indica il compositore.",
-    "ka": "წარმოდგენები 22, 23, 24 და 25 ოქტომბერს, თეატრის საიტის მიხედვით. ავტორი საიტზე მითითებული არ არის."
+    "en": "Opera, 22–25 October 2026, 19:00. Conducted by Zaza Azmaiparashvili, directed by Víctor García Sierra, sets and costumes inspired by Fernando Botero's «Circus» paintings.",
+    "it": "Opera, 22–25 ottobre 2026, ore 19:00. Direttore Zaza Azmaiparashvili, regia di Víctor García Sierra, scene e costumi ispirati ai dipinti «Circo» di Fernando Botero.",
+    "ka": "ოპერა, 2026 წლის 22–25 ოქტომბერი, 19:00. დირიჟორი ზაზა აზმაიფარაშვილი, რეჟისორი ვიქტორ გარსია სიერა, დეკორაცია და კოსტიუმები ფერნანდო ბოტეროს „ცირკის\" ნახატებზეა დაფუძნებული."
    }
   },
   {
@@ -341,13 +386,13 @@
    "e": "2026-11-03",
    "h": "tbs",
    "ty": "run",
-   "t": "მძინარე მზეთუნახავი",
-   "c": "",
-   "u": "https://www.opera.ge/",
+   "t": "The Sleeping Beauty",
+   "c": "Tchaikovsky",
+   "u": "https://www.opera.ge/geo/playbillinner/313/cast",
    "n": {
-    "en": "Performances on 30 and 31 October and 1 and 3 November 2026, as listed on the theatre's website. The site does not state the composer or genre.",
-    "it": "Recite il 30 e 31 ottobre e l'1 e 3 novembre 2026, come indicato sul sito del teatro. Il sito non indica compositore né genere.",
-    "ka": "წარმოდგენები 30 და 31 ოქტომბერს, 1 და 3 ნოემბერს, თეატრის საიტის მიხედვით. ავტორი და ჟანრი საიტზე მითითებული არ არის."
+    "en": "Ballet in three acts, 30 October–3 November 2026 (19:00; 1 November at 15:00). Staging by Alexei Fadeechev and Nino Ananiashvili; conductor Levan Jagaev. Tickets via tkt.ge.",
+    "it": "Balletto in tre atti, 30 ottobre–3 novembre 2026 (ore 19:00; l'1 novembre ore 15:00). Messa in scena di Alexei Fadeechev e Nino Ananiashvili; direttore Levan Jagaev. Biglietti su tkt.ge.",
+    "ka": "ბალეტი სამ მოქმედებად, 2026 წლის 30 ოქტომბერი – 3 ნოემბერი (19:00; 1 ნოემბერს 15:00 საათზე). დადგმა: ალექსეი ფადეეჩევი და ნინო ანანიაშვილი; დირიჟორი ლევან ჯაგაევი. ბილეთები — tkt.ge-ზე."
    }
   }
  ],
@@ -1004,6 +1049,1330 @@
      "ka": "მისთვის ყველაზე ახლობელი საქმე ფონდი „ნატვრის ხეა\" (Desire Tree), რომელიც 2014 წელს დააარსა. ფონდი ეხმარება 20 წლამდე ქართველ ბავშვებს, რომლებსაც საზღვარგარეთ გადაუდებელი სამედიცინო მკურნალობა სჭირდებათ, და საზოგადოებას ბავშვთა ტკივილზე ზრუნვისკენ მოუწოდებს; ათობით ბავშვის გადარჩენაში შეიტანა წვლილი. 2015 წელს საქართველოს ფინანსთა მინისტრის გადაწყვეტილებით ფონდს საქველმოქმედო ორგანიზაციის ოფიციალური სტატუსი მიენიჭა. 2014 წლიდან ფონდმა მსოფლიო დონის მუსიკოსების მონაწილეობით ხუთი დიდი საქველმოქმედო კონცერტი გამართა.\n\nფონდის ყველაზე მნიშვნელოვანი პროექტია „სიყვარულისთვის\" („For Love\"), რომელიც ერთ წარმოდგენაში აერთიანებს ბალეტს (ნინო როტას სუიტა ფელინის ფილმიდან „გზა\") და ოპერას (პულენკის მონოოპერა „ადამიანის ხმა\"). პროექტი განხორციელდა რეჟისორ მარკო განდინის (ფრანკო ძეფირელის დიდი ხნის თანამოაზრე), ქორეოგრაფისა და La Scala-ს პირველი მოცეკვავის ჯანლუკა სკიავონის, დირიჟორ კარლო პონტი უმცროსისა და თბილისის ოპერისა და ბალეტის თეატრის მონაწილეობით. მთავარ პარტიებს ასრულებდნენ პრიმა-ბალერინა ნინო ანანიაშვილი და ნინო სურგულაძე. ღონისძიების პატრონი და საპატიო სტუმარი სოფი ლორენი იყო; პრემიერა 2016 წლის 15 ივნისს გაიმართა თბილისის ოპერისა და ბალეტის თეატრში და ცოცხლად გადაიცა ქართულ ტელევიზიაში. წარმოდგენამ მნიშვნელოვანი თანხა მოაგროვა და იტალიასა და საქართველოს შორის კულტურული ურთიერთობებიც გააძლიერა."
     }
    }
-  ]
+  ],
+  "rev": {
+   "title": {
+    "en": "Photos and reviews: Amneris in Aida",
+    "it": "Foto e recensioni: Amneris in Aida",
+    "ka": "ფოტოები და რეცენზიები: ამნერისი „აიდაში\""
+   },
+   "note": {
+    "en": "Teatro Massimo Bellini, Catania, January 2026 (new production). Short excerpts with the source named; translations marked as ours where the original is in another language.",
+    "it": "Teatro Massimo Bellini, Catania, gennaio 2026 (nuova produzione). Brevi estratti con indicazione della fonte; le traduzioni sono nostre quando l'originale è in un'altra lingua.",
+    "ka": "კატანიის Teatro Massimo Bellini, 2026 წლის იანვარი (ახალი დადგმა). მოკლე ამონარიდები წყაროს მითითებით; თარგმანი ჩვენია, როცა დედანი სხვა ენაზეა."
+   },
+   "cards": [
+    {
+     "img": "images/amneris-catania-2026-01-throne.jpg",
+     "cap": {
+      "en": "Amneris on the throne",
+      "it": "Amneris sul trono",
+      "ka": "ამნერისი ტახტთან"
+     },
+     "q": [
+      {
+       "o": "una Amneris molto sentita e appassionata nel suo dolore",
+       "ol": "it",
+       "t": {
+        "en": "an Amneris deeply felt and passionate in her pain",
+        "it": "una Amneris molto sentita e appassionata nel suo dolore",
+        "ka": "ამნერისი — ღრმად განცდილი და ვნებიანი თავის ტკივილში"
+       },
+       "a": "Francesco Giordano",
+       "s": "Globus Magazine (globusmagazine.it)"
+      }
+     ]
+    },
+    {
+     "img": "images/amneris-catania-2026-02-blue-gown.jpg",
+     "cap": {
+      "en": "Amneris in blue",
+      "it": "Amneris in azzurro",
+      "ka": "ამნერისი ლურჯ კაბაში"
+     },
+     "q": [
+      {
+       "o": "Her Amneris looks complex and multifaceted, dominating the scene especially in the grand frame of judgement, one of the dramatic highlights of the evening.",
+       "ol": "en",
+       "t": {
+        "en": "Her Amneris looks complex and multifaceted, dominating the scene especially in the grand frame of judgement, one of the dramatic highlights of the evening.",
+        "it": "La sua Amneris appare complessa e sfaccettata e domina la scena soprattutto nel grande quadro del giudizio, uno dei momenti drammatici più alti della serata.",
+        "ka": "მისი ამნერისი რთული და მრავალწახნაგოვანია და სცენას განსაკუთრებით სამსჯავროს დიდ სცენაში ბატონობს — საღამოს ერთ-ერთ დრამატულ მწვერვალზე."
+       },
+       "a": "Norma Giuca",
+       "s": "Opera Libera"
+      }
+     ]
+    },
+    {
+     "img": "images/amneris-catania-2026-03-closeup.jpg",
+     "cap": {
+      "en": "Amneris, close-up",
+      "it": "Amneris, primo piano",
+      "ka": "ამნერისი, კრუპნი პლანი"
+     },
+     "q": [
+      {
+       "o": "Exquisitely measured in the power of declamation, phrasing, and intonation is Nino Surguladze, an Amneris of unquestionable and crystalline musicality.",
+       "ol": "en",
+       "t": {
+        "en": "Exquisitely measured in the power of declamation, phrasing, and intonation is Nino Surguladze, an Amneris of unquestionable and crystalline musicality.",
+        "it": "Squisitamente misurata nella forza della declamazione, nel fraseggio e nell'intonazione è Nino Surguladze, un'Amneris di musicalità indiscutibile e cristallina.",
+        "ka": "დეკლამაციის სიძლიერეში, ფრაზირებასა და ინტონაციაში დახვეწილად გაწონასწორებულია ნინო სურგულაძე — ამნერისი უდავო, ბროლისებრ სუფთა მუსიკალურობით."
+       },
+       "a": "Carmelita Celi",
+       "s": "La Sicilia"
+      },
+      {
+       "o": "anche l'Amneris del mezzosoprano Nino Surguladze era sensibile ad una interpretazione che assecondasse i variabili stati d'animo dell'innamorata delusa ma fiera, con voce spavalda, ricca di armonici ben timbrati.",
+       "ol": "it",
+       "t": {
+        "en": "the Amneris of mezzo-soprano Nino Surguladze too was attuned to an interpretation that followed the changing moods of the disappointed but proud woman in love, with a bold voice rich in well-timbred overtones.",
+        "it": "anche l'Amneris del mezzosoprano Nino Surguladze era sensibile ad una interpretazione che assecondasse i variabili stati d'animo dell'innamorata delusa ma fiera, con voce spavalda, ricca di armonici ben timbrati.",
+        "ka": "მეცო-სოპრანო ნინო სურგულაძის ამნერისიც მგრძნობიარე იყო ისეთი ინტერპრეტაციისადმი, რომელიც იმედგაცრუებული, მაგრამ ამაყი შეყვარებულის ცვალებად განწყობებს მიჰყვებოდა — თამამი ხმით, კარგი ტემბრის ობერტონებით მდიდარი."
+       },
+       "a": "Aldo Mattina",
+       "s": "I Vespri (ivespri.it)"
+      }
+     ]
+    },
+    {
+     "img": "images/amneris-catania-2026-04-curtain-call.jpg",
+     "cap": {
+      "en": "Curtain call",
+      "it": "Applausi finali",
+      "ka": "მადლობის სცენა სპექტაკლის შემდეგ"
+     },
+     "q": [
+      {
+       "o": "L'Amneris di Nino Surguladze ha messo in luce la complessità musicale di un personaggio costruito su forti contrasti dinamici e timbrici, culminanti nel grande giudizio del quarto atto",
+       "ol": "it",
+       "t": {
+        "en": "Nino Surguladze's Amneris brought out the musical complexity of a character built on strong dynamic and timbral contrasts, culminating in the great judgement scene of the fourth act",
+        "it": "L'Amneris di Nino Surguladze ha messo in luce la complessità musicale di un personaggio costruito su forti contrasti dinamici e timbrici, culminanti nel grande giudizio del quarto atto",
+        "ka": "ნინო სურგულაძის ამნერისმა გამოავლინა პერსონაჟის მუსიკალური სირთულე, რომელიც ძლიერ დინამიკურ და ტემბრულ კონტრასტებზეა აგებული და მეოთხე მოქმედების დიდ სამსჯავრო სცენაში აღწევს კულმინაციას."
+       },
+       "a": "Silvana La Porta",
+       "s": "Clessidra (clessidra2021.it)"
+      }
+     ]
+    },
+    {
+     "img": "images/amneris-catania-2026-05-profile.jpg",
+     "cap": {
+      "en": "Amneris on stage",
+      "it": "Amneris in scena",
+      "ka": "ამნერისი სცენაზე"
+     },
+     "q": [
+      {
+       "o": "assai solida l'Amneris di Nino Surguladze, in particolare nelle situazioni più fraseggiate, grazie a un registro medio-acuto robusto e ben timbrato",
+       "ol": "it",
+       "t": {
+        "en": "very solid was Nino Surguladze's Amneris, especially in the more phrased passages, thanks to a robust and well-timbred middle-high register",
+        "it": "assai solida l'Amneris di Nino Surguladze, in particolare nelle situazioni più fraseggiate, grazie a un registro medio-acuto robusto e ben timbrato",
+        "ka": "ძალიან მყარი იყო ნინო სურგულაძის ამნერისი, განსაკუთრებით უფრო ფრაზირებულ ეპიზოდებში — მკვრივი და კარგი ტემბრის საშუალო-მაღალი რეგისტრის წყალობით."
+       },
+       "a": "Alessandro Mastropietro",
+       "s": "Il giornale della musica (giornaledellamusica.it)"
+      }
+     ]
+    },
+    {
+     "img": "images/amneris-catania-2026-06-makeup.jpg",
+     "cap": {
+      "en": "Backstage: Amneris make-up",
+      "it": "Dietro le quinte: il trucco di Amneris",
+      "ka": "კულისებში: ამნერისის გრიმი"
+     },
+     "q": [
+      {
+       "o": "Di forte impatto l'Amneris di Nino Surguladze, che si distingue per autorevolezza scenica, intensità espressiva e saldo controllo del fraseggio, delineando un personaggio di notevole spessore psicologico.",
+       "ol": "it",
+       "t": {
+        "en": "Of strong impact is Nino Surguladze's Amneris, distinguished by stage authority, expressive intensity and firm control of phrasing, outlining a character of considerable psychological depth.",
+        "it": "Di forte impatto l'Amneris di Nino Surguladze, che si distingue per autorevolezza scenica, intensità espressiva e saldo controllo del fraseggio, delineando un personaggio di notevole spessore psicologico.",
+        "ka": "ძლიერი ზემოქმედებისაა ნინო სურგულაძის ამნერისი: ის გამოირჩევა სცენური ავტორიტეტით, გამომსახველობითი ინტენსივობითა და ფრაზირების მყარი კონტროლით და მნიშვნელოვანი ფსიქოლოგიური სიღრმის პერსონაჟს ქმნის."
+       },
+       "a": "Roberto Cucchi",
+       "s": "Corrado Delia (corradodelia.it)"
+      }
+     ]
+    }
+   ],
+   "more": [
+    {
+     "o": "Mezzo-soprano Nino Surguladze (Amneris) released an emotional charge of great impact which, over the course of the four acts, grew steadily and increasingly until reaching the final climax.",
+     "ol": "en",
+     "t": {
+      "en": "Mezzo-soprano Nino Surguladze (Amneris) released an emotional charge of great impact which, over the course of the four acts, grew steadily and increasingly until reaching the final climax.",
+      "it": "Il mezzosoprano Nino Surguladze (Amneris) ha sprigionato una carica emotiva di grande impatto che, nel corso dei quattro atti, è cresciuta costantemente fino a raggiungere il culmine finale.",
+      "ka": "მეცო-სოპრანომ ნინო სურგულაძემ (ამნერისი) დიდი ზემოქმედების ემოციური მუხტი გამოავლინა, რომელიც ოთხი მოქმედების განმავლობაში განუწყვეტლივ იზრდებოდა ფინალურ კულმინაციამდე."
+     },
+     "a": "Giovanni Pasqualino",
+     "s": "Bellini News"
+    },
+    {
+     "o": "A worthy partner was Oksana Dyka's Aida ... as well as the excellent Nino Surguladze in the role of Amneris, with a fine vocal timbre and dramaturgy of distinction.",
+     "ol": "en",
+     "t": {
+      "en": "A worthy partner was Oksana Dyka's Aida ... as well as the excellent Nino Surguladze in the role of Amneris, with a fine vocal timbre and dramaturgy of distinction.",
+      "it": "Degna partner è stata l'Aida di Oksana Dyka ... così come l'eccellente Nino Surguladze nel ruolo di Amneris, con un bel timbro vocale e una drammaturgia di rilievo.",
+      "ka": "ღირსეული პარტნიორი იყო ოქსანა დიკას აიდა ... ისევე როგორც შესანიშნავი ნინო სურგულაძე ამნერისის როლში — ლამაზი ვოკალური ტემბრითა და გამორჩეული დრამატურგიით."
+     },
+     "a": "Opera Magazine",
+     "s": "Opera Magazine"
+    }
+   ]
+  }
+ },
+ "tbs": {
+  "name": {
+   "ka": "თბილისის ზაქარია ფალიაშვილის სახელობის ოპერისა და ბალეტის სახელმწიფო თეატრი",
+   "en": "Tbilisi Zakaria Paliashvili Opera and Ballet State Theatre",
+   "it": "Teatro statale dell'Opera e del Balletto «Zakaria Paliashvili» di Tbilisi"
+  },
+  "addr": {
+   "ka": "რუსთაველის გამზირი 25, 0108 თბილისი, საქართველო",
+   "en": "25 Rustaveli Avenue, 0108 Tbilisi, Georgia",
+   "it": "Rustaveli 25, 0108 Tbilisi, Georgia"
+  },
+  "phone": "+995 32 2 00 44 66",
+  "hours": {
+   "ka": "ყოველდღე 11:00–19:00, შესვენება 14:00–15:00",
+   "en": "Daily 11:00–19:00, break 14:00–15:00",
+   "it": "Ogni giorno 11:00–19:00, pausa 14:00–15:00"
+  },
+  "links": [
+   [
+    "opera.ge",
+    "https://www.opera.ge/geo"
+   ],
+   [
+    "opera.ge (English)",
+    "https://www.opera.ge/eng/home"
+   ],
+   [
+    "Playbill / აფიშა",
+    "https://www.opera.ge/geo/playbill"
+   ],
+   [
+    "Facebook",
+    "https://www.facebook.com/StateOperaHouseOfGeorgia"
+   ],
+   [
+    "YouTube",
+    "https://www.youtube.com/@tbilisioperaandballetstate4833/featured"
+   ],
+   [
+    "Tickets: Sleeping Beauty (tkt.ge)",
+    "https://tkt.ge/show/35221/mdzinare-mzetunakhavi"
+   ]
+  ],
+  "intro": {
+   "ka": "ინფორმაცია აღებულია თეატრის ოფიციალური საიტიდან opera.ge (მონაცემები შემოწმებულია 2026 წლის 19 ოქტომბერს). საიტზე თითოეული წარმოდგენისთვის სცენა მითითებული არ არის.",
+   "en": "Information taken from the theatre's official website, opera.ge (checked on 19 October 2026). The site does not state the stage for each performance.",
+   "it": "Informazioni tratte dal sito ufficiale del teatro, opera.ge (verificate il 19 ottobre 2026). Il sito non indica la sala per ogni recita."
+  },
+  "season": [
+   {
+    "g": "opera",
+    "t": {
+     "ka": "აბესალომ და ეთერი",
+     "en": "Abesalom and Eteri",
+     "it": "Abesalom e Eteri"
+    },
+    "c": {
+     "ka": "ზაქარია ფალიაშვილი",
+     "en": "Zakaria Paliashvili",
+     "it": "Zakaria Paliashvili"
+    },
+    "d": [
+     "2026-09-19",
+     "2026-09-20"
+    ],
+    "time": "19:00",
+    "id": 305
+   },
+   {
+    "g": "ballet",
+    "t": {
+     "ka": "რაიმონდა / ლეა",
+     "en": "Raymonda / Leah",
+     "it": "Raymonda / Leah"
+    },
+    "c": null,
+    "d": [
+     "2026-09-25",
+     "2026-09-26",
+     "2026-09-27"
+    ],
+    "time": "19:00 (27/09 — 15:00)",
+    "id": 307
+   },
+   {
+    "g": "ballet",
+    "t": {
+     "ka": "დონ კიხოტი",
+     "en": "Don Quixote",
+     "it": "Don Chisciotte"
+    },
+    "c": null,
+    "d": [
+     "2026-10-02",
+     "2026-10-03",
+     "2026-10-04"
+    ],
+    "time": "19:00 (04/10 — 15:00)",
+    "id": 311
+   },
+   {
+    "g": "opera",
+    "t": {
+     "ka": "სიყვარულის ნექტარი",
+     "en": "The Elixir of Love",
+     "it": "L'elisir d'amore"
+    },
+    "c": {
+     "ka": "გაეტანო დონიცეტი",
+     "en": "Gaetano Donizetti",
+     "it": "Gaetano Donizetti"
+    },
+    "d": [
+     "2026-10-22",
+     "2026-10-23",
+     "2026-10-24",
+     "2026-10-25"
+    ],
+    "time": "19:00",
+    "id": 317
+   },
+   {
+    "g": "ballet",
+    "t": {
+     "ka": "მძინარე მზეთუნახავი",
+     "en": "The Sleeping Beauty",
+     "it": "La bella addormentata"
+    },
+    "c": {
+     "ka": "პიოტრ ჩაიკოვსკი",
+     "en": "Pyotr Tchaikovsky",
+     "it": "Pëtr Čajkovskij"
+    },
+    "d": [
+     "2026-10-30",
+     "2026-10-31",
+     "2026-11-01",
+     "2026-11-03"
+    ],
+    "time": "19:00 (01/11 — 15:00)",
+    "id": 313
+   }
+  ],
+  "feat": [
+   {
+    "id": 317,
+    "g": "opera",
+    "t": {
+     "ka": "სიყვარულის ნექტარი",
+     "en": "The Elixir of Love",
+     "it": "L'elisir d'amore"
+    },
+    "sub": {
+     "ka": "გაეტანო დონიცეტი · ლიბრეტო ფელიჩე რომანისა",
+     "en": "Gaetano Donizetti · libretto by Felice Romani",
+     "it": "Gaetano Donizetti · libretto di Felice Romani"
+    },
+    "facts": [
+     [
+      {
+       "ka": "დირიჟორი",
+       "en": "Conductor",
+       "it": "Direttore"
+      },
+      {
+       "ka": "ზაზა აზმაიფარაშვილი",
+       "en": "Zaza Azmaiparashvili",
+       "it": "Zaza Azmaiparashvili"
+      }
+     ],
+     [
+      {
+       "ka": "რეჟისორი",
+       "en": "Director",
+       "it": "Regia"
+      },
+      {
+       "ka": "ვიქტორ გარსია სიერა",
+       "en": "Víctor García Sierra",
+       "it": "Víctor García Sierra"
+      }
+     ],
+     [
+      {
+       "ka": "დეკორაციები და კოსტიუმები",
+       "en": "Sets and costumes",
+       "it": "Scene e costumi"
+      },
+      {
+       "ka": "ფერნანდო ბოტეროს „ცირკის\" სერიის ნახატების მიხედვით; კოსტიუმების მხატვარი თამარ ჩარგეიშვილი",
+       "en": "After Fernando Botero's «Circus» paintings; costume designer Tamar Chargeishvili",
+       "it": "Ispirati ai dipinti «Circo» di Fernando Botero; costumi di Tamar Chargeishvili"
+      }
+     ],
+     [
+      {
+       "ka": "ქორმაისტერი",
+       "en": "Chorus master",
+       "it": "Maestro del coro"
+      },
+      {
+       "ka": "ავთანდილ ჩხენკელი",
+       "en": "Avtandil Chkhenkeli",
+       "it": "Avtandil Chkhenkeli"
+      }
+     ],
+     [
+      {
+       "ka": "პრემიერა",
+       "en": "Premiere",
+       "it": "Prima"
+      },
+      {
+       "ka": "ამ დადგმის პრემიერა — 2017 წლის 28 მაისი. ოპერის პირველი შესრულება — 1832, მილანი; საქართველოში — 1854–55 წლების სეზონი, თბილისი",
+       "en": "This production premiered on 28 May 2017. The opera was first given in 1832 in Milan, and in Georgia in the 1854–55 season",
+       "it": "Questa produzione ha debuttato il 28 maggio 2017. L'opera andò in scena per la prima volta a Milano nel 1832, in Georgia nella stagione 1854–55"
+      }
+     ]
+    ],
+    "cast": [
+     [
+      {
+       "ka": "ნემორინო",
+       "en": "Nemorino",
+       "it": "Nemorino"
+      },
+      {
+       "ka": "გურგენ პოღოსიანი",
+       "en": "Gurgen Poghosyan",
+       "it": "Gurgen Poghosyan"
+      }
+     ],
+     [
+      {
+       "ka": "ადინა",
+       "en": "Adina",
+       "it": "Adina"
+      },
+      {
+       "ka": "სოფიო მჭედლიშვილი",
+       "en": "Sopio Mchedlishvili",
+       "it": "Sopio Mchedlishvili"
+      }
+     ],
+     [
+      {
+       "ka": "ბელკორე",
+       "en": "Belcore",
+       "it": "Belcore"
+      },
+      {
+       "ka": "გიორგი ლომისელი",
+       "en": "Giorgi Lomiseli",
+       "it": "Giorgi Lomiseli"
+      }
+     ],
+     [
+      {
+       "ka": "დულკამარა",
+       "en": "Dulcamara",
+       "it": "Dulcamara"
+      },
+      {
+       "ka": "გივი გიგინეიშვილი",
+       "en": "Givi Gigineishvili",
+       "it": "Givi Gigineishvili"
+      }
+     ],
+     [
+      {
+       "ka": "ჯანეტა",
+       "en": "Giannetta",
+       "it": "Giannetta"
+      },
+      {
+       "ka": "ქეთევან პაპინაშვილი",
+       "en": "Ketevan Papinashvili",
+       "it": "Ketevan Papinashvili"
+      }
+     ]
+    ],
+    "syn": {
+     "ka": "ღარიბი გლეხი ნემორინო შეყვარებულია მდიდარ და განათლებულ ადინაზე. შარლატანი დულკამარა მას ბორდოს ღვინოს „სიყვარულის ნექტრად\" მიჰყიდის; ადინა კი სერჟანტ ბელკორეს დაჰპირდება. როცა ნემორინოს ბიძა კვდება და მემკვიდრეობას უტოვებს, სოფლის ქალები მას გარს შემოერტყმიან, ადინა კი რეალურად ამჩნევს, რომ უყვარს.",
+     "en": "Nemorino, a poor young farmer, loves the wealthy, educated Adina. The quack Dulcamara sells him cheap Bordeaux as a love potion, and Adina promises herself to Sergeant Belcore. When Nemorino's uncle dies and leaves him a fortune, the village women flock around him, and Adina admits that she loves him.",
+     "it": "Il povero contadino Nemorino ama la ricca e istruita Adina. Il ciarlatano Dulcamara gli vende del Bordeaux come filtro d'amore, e Adina si promette al sergente Belcore. Quando lo zio di Nemorino muore lasciandogli una fortuna, le ragazze del villaggio lo circondano e Adina ammette di amarlo."
+    },
+    "u": "https://opera.ge/geo/playbillinner/317/cast",
+    "note": {
+     "ka": "საიტზე მითითებულია მხოლოდ ერთი შემადგენლობა, თარიღების მიხედვით დაყოფის გარეშე.",
+     "en": "The site lists one cast only, not broken down by date.",
+     "it": "Il sito indica un solo cast, senza suddivisione per data."
+    }
+   },
+   {
+    "id": 313,
+    "g": "ballet",
+    "t": {
+     "ka": "მძინარე მზეთუნახავი",
+     "en": "The Sleeping Beauty",
+     "it": "La bella addormentata"
+    },
+    "sub": {
+     "ka": "პიოტრ ჩაიკოვსკი · ბალეტი სამ მოქმედებად · მარიუს პეტიპას ქორეოგრაფიით",
+     "en": "Pyotr Tchaikovsky · ballet in three acts · after Marius Petipa",
+     "it": "Pëtr Čajkovskij · balletto in tre atti · da Marius Petipa"
+    },
+    "facts": [
+     [
+      {
+       "ka": "ახალი ქორეოგრაფიული ვერსია და დადგმა",
+       "en": "New choreographic version and staging",
+       "it": "Nuova versione coreografica e messa in scena"
+      },
+      {
+       "ka": "ალექსეი ფადეეჩევი და ნინო ანანიაშვილი",
+       "en": "Alexei Fadeechev and Nino Ananiashvili",
+       "it": "Alexei Fadeechev and Nino Ananiashvili"
+      }
+     ],
+     [
+      {
+       "ka": "დირიჟორი",
+       "en": "Conductor",
+       "it": "Direttore"
+      },
+      {
+       "ka": "ლევან ჯაგაევი",
+       "en": "Levan Jagaev",
+       "it": "Levan Jagaev"
+      }
+     ],
+     [
+      {
+       "ka": "სცენოგრაფია და კოსტიუმები",
+       "en": "Sets and costumes",
+       "it": "Scene e costumi"
+      },
+      {
+       "ka": "ანატოლი ნეჟნი",
+       "en": "Anatoli Nezhny",
+       "it": "Anatoli Nezhny"
+      }
+     ],
+     [
+      {
+       "ka": "განათება",
+       "en": "Lighting",
+       "it": "Luci"
+      },
+      {
+       "ka": "სტინ ბიარკე",
+       "en": "Sten Bjarke",
+       "it": "Sten Bjarke"
+      }
+     ],
+     [
+      {
+       "ka": "პრემიერა",
+       "en": "Premiere",
+       "it": "Prima"
+      },
+      {
+       "ka": "2018 წლის 27 აპრილი",
+       "en": "27 April 2018",
+       "it": "27 aprile 2018"
+      }
+     ]
+    ],
+    "cast": [
+     [
+      {
+       "ka": "პრინცესა ავრორა",
+       "en": "Princess Aurora",
+       "it": "Princess Aurora"
+      },
+      {
+       "ka": "მარიამ ელოშვილი",
+       "en": "Mariam Eloshvili",
+       "it": "Mariam Eloshvili"
+      }
+     ],
+     [
+      {
+       "ka": "პრინცი დეზირე",
+       "en": "Prince Désiré",
+       "it": "Prince Désiré"
+      },
+      {
+       "ka": "მასააკი გოტო",
+       "en": "Masaaki Goto",
+       "it": "Masaaki Goto"
+      }
+     ],
+     [
+      {
+       "ka": "ფერია იასამანი",
+       "en": "Lilac Fairy",
+       "it": "Lilac Fairy"
+      },
+      {
+       "ka": "მარიამ ლომჯარია",
+       "en": "Mariam Lomjaria",
+       "it": "Mariam Lomjaria"
+      }
+     ],
+     [
+      {
+       "ka": "კარაბოსი",
+       "en": "Carabosse",
+       "it": "Carabosse"
+      },
+      {
+       "ka": "თათა ჯაში",
+       "en": "Tata Jashi",
+       "it": "Tata Jashi"
+      }
+     ]
+    ],
+    "syn": null,
+    "u": "https://opera.ge/geo/playbillinner/313/cast",
+    "tk": "https://tkt.ge/show/35221/mdzinare-mzetunakhavi",
+    "note": {
+     "ka": "საიტზე მითითებულია მხოლოდ ერთი შემადგენლობა, თარიღების მიხედვით დაყოფის გარეშე. ბილეთები — tkt.ge-ზე.",
+     "en": "The site lists one cast only, not broken down by date. Tickets are sold via tkt.ge.",
+     "it": "Il sito indica un solo cast, senza suddivisione per data. Biglietti su tkt.ge."
+    }
+   }
+  ],
+  "opera": [
+   [
+    "Paliashvili",
+    {
+     "ka": "ზაქარია ფალიაშვილი",
+     "en": "Zakaria Paliashvili",
+     "it": "Zakaria Paliashvili"
+    },
+    [
+     {
+      "ka": "აბესალომ და ეთერი",
+      "en": "Abesalom and Eteri",
+      "it": "Abesalom e Eteri"
+     },
+     {
+      "ka": "დაისი",
+      "en": "Daisi (Dusk)",
+      "it": "Daisi"
+     }
+    ]
+   ],
+   [
+    "Dolidze",
+    {
+     "ka": "ვიქტორ დოლიძე",
+     "en": "Viktor Dolidze",
+     "it": "Viktor Dolidze"
+    },
+    [
+     {
+      "ka": "ქეთო და კოტე",
+      "en": "Keto and Kote",
+      "it": "Keto e Kote"
+     }
+    ]
+   ],
+   [
+    "Machavariani",
+    {
+     "ka": "ალექსი მაჭავარიანი",
+     "en": "Aleksi Machavariani",
+     "it": "Aleksi Machavariani"
+    },
+    [
+     {
+      "ka": "ჰამლეტი",
+      "en": "Hamlet",
+      "it": "Amleto"
+     }
+    ]
+   ],
+   [
+    "Verdi",
+    {
+     "ka": "ჯუზეპე ვერდი",
+     "en": "Giuseppe Verdi",
+     "it": "Giuseppe Verdi"
+    },
+    [
+     {
+      "ka": "აიდა",
+      "en": "Aida",
+      "it": "Aida"
+     },
+     {
+      "ka": "ტრავიატა",
+      "en": "La traviata",
+      "it": "La traviata"
+     },
+     {
+      "ka": "რიგოლეტო",
+      "en": "Rigoletto",
+      "it": "Rigoletto"
+     },
+     {
+      "ka": "მაკბეტი",
+      "en": "Macbeth",
+      "it": "Macbeth"
+     },
+     {
+      "ka": "სიმონ ბოკანეგრა",
+      "en": "Simon Boccanegra",
+      "it": "Simon Boccanegra"
+     },
+     {
+      "ka": "დონ კარლოსი",
+      "en": "Don Carlos",
+      "it": "Don Carlo"
+     },
+     {
+      "ka": "ბალ-მასკარადი",
+      "en": "A Masked Ball",
+      "it": "Un ballo in maschera"
+     },
+     {
+      "ka": "ბედის ძალა",
+      "en": "The Force of Destiny",
+      "it": "La forza del destino"
+     },
+     {
+      "ka": "ნაბუკო",
+      "en": "Nabucco",
+      "it": "Nabucco"
+     },
+     {
+      "ka": "ოტელო",
+      "en": "Otello",
+      "it": "Otello"
+     }
+    ]
+   ],
+   [
+    "Puccini",
+    {
+     "ka": "ჯაკომო პუჩინი",
+     "en": "Giacomo Puccini",
+     "it": "Giacomo Puccini"
+    },
+    [
+     {
+      "ka": "ტურანდოტი",
+      "en": "Turandot",
+      "it": "Turandot"
+     },
+     {
+      "ka": "ტოსკა",
+      "en": "Tosca",
+      "it": "Tosca"
+     },
+     {
+      "ka": "მანონ ლესკო",
+      "en": "Manon Lescaut",
+      "it": "Manon Lescaut"
+     },
+     {
+      "ka": "ბოჰემა",
+      "en": "La bohème",
+      "it": "La bohème"
+     }
+    ]
+   ],
+   [
+    "Donizetti",
+    {
+     "ka": "გაეტანო დონიცეტი",
+     "en": "Gaetano Donizetti",
+     "it": "Gaetano Donizetti"
+    },
+    [
+     {
+      "ka": "სიყვარულის ნექტარი",
+      "en": "The Elixir of Love",
+      "it": "L'elisir d'amore"
+     }
+    ]
+   ],
+   [
+    "Leoncavallo",
+    {
+     "ka": "რუჯერო ლეონკავალო",
+     "en": "Ruggero Leoncavallo",
+     "it": "Ruggero Leoncavallo"
+    },
+    [
+     {
+      "ka": "ჯამბაზები",
+      "en": "Pagliacci",
+      "it": "Pagliacci"
+     }
+    ]
+   ],
+   [
+    "Mascagni",
+    {
+     "ka": "პიეტრო მასკანი",
+     "en": "Pietro Mascagni",
+     "it": "Pietro Mascagni"
+    },
+    [
+     {
+      "ka": "სოფლის ღირსება",
+      "en": "Cavalleria rusticana",
+      "it": "Cavalleria rusticana"
+     }
+    ]
+   ],
+   [
+    "Bizet",
+    {
+     "ka": "ჟორჟ ბიზე",
+     "en": "Georges Bizet",
+     "it": "Georges Bizet"
+    },
+    [
+     {
+      "ka": "კარმენი",
+      "en": "Carmen",
+      "it": "Carmen"
+     }
+    ]
+   ],
+   [
+    "Massenet",
+    {
+     "ka": "ჟიულ მასნე",
+     "en": "Jules Massenet",
+     "it": "Jules Massenet"
+    },
+    [
+     {
+      "ka": "ვერთერი",
+      "en": "Werther",
+      "it": "Werther"
+     }
+    ]
+   ],
+   [
+    "Saint-Saens",
+    {
+     "ka": "კამილ სენ-სანსი",
+     "en": "Camille Saint-Saëns",
+     "it": "Camille Saint-Saëns"
+    },
+    [
+     {
+      "ka": "სამსონ და დალილა",
+      "en": "Samson and Delilah",
+      "it": "Sansone e Dalila"
+     }
+    ]
+   ]
+  ],
+  "ballet": [
+   [
+    {
+     "ka": "ვახტანგ ჭაბუკიანი (ნინო ანანიაშვილის ვერსია)",
+     "en": "Vakhtang Chabukiani (Nino Ananiashvili's version)",
+     "it": "Vakhtang Chabukiani (Nino Ananiashvili's version)"
+    },
+    [
+     {
+      "ka": "ლაურენსია",
+      "en": "Laurencia",
+      "it": "Laurencia"
+     },
+     {
+      "ka": "გორდა",
+      "en": "Gorda",
+      "it": "Gorda"
+     },
+     {
+      "ka": "ოტელო",
+      "en": "Othello",
+      "it": "Othello"
+     }
+    ]
+   ],
+   [
+    {
+     "ka": "ნინო ანანიაშვილი და ალექსეი ფადეეჩევი",
+     "en": "Nino Ananiashvili and Alexei Fadeechev",
+     "it": "Nino Ananiashvili and Alexei Fadeechev"
+    },
+    [
+     {
+      "ka": "დონ კიხოტი",
+      "en": "Don Quixote",
+      "it": "Don Chisciotte"
+     },
+     {
+      "ka": "მაკნატუნა",
+      "en": "The Nutcracker",
+      "it": "Lo schiaccianoci"
+     },
+     {
+      "ka": "ამაო სიფრთხილე",
+      "en": "La Fille mal gardée (Vain Precaution)",
+      "it": "La Fille mal gardée"
+     },
+     {
+      "ka": "რაიმონდა (III მოქმედება)",
+      "en": "Raymonda (Act III)",
+      "it": "Raymonda (atto III)"
+     },
+     {
+      "ka": "მძინარე მზეთუნახავი",
+      "en": "The Sleeping Beauty",
+      "it": "La bella addormentata"
+     },
+     {
+      "ka": "ბაიადერა",
+      "en": "La Bayadère",
+      "it": "La Bayadère"
+     },
+     {
+      "ka": "გედების ტბა",
+      "en": "Swan Lake",
+      "it": "Il lago dei cigni"
+     }
+    ]
+   ],
+   [
+    {
+     "ka": "ალექსეი ფადეეჩევი",
+     "en": "Alexei Fadeechev",
+     "it": "Alexei Fadeechev"
+    },
+    [
+     {
+      "ka": "გედების ტბა",
+      "en": "Swan Lake",
+      "it": "Il lago dei cigni"
+     },
+     {
+      "ka": "ჟიზელი",
+      "en": "Giselle",
+      "it": "Giselle"
+     }
+    ]
+   ],
+   [
+    {
+     "ka": "მიხეილ ლავროვსკი",
+     "en": "Mikhail Lavrovsky",
+     "it": "Mikhail Lavrovsky"
+    },
+    [
+     {
+      "ka": "რომეო და ჯულიეტა",
+      "en": "Romeo and Juliet",
+      "it": "Romeo e Giulietta"
+     }
+    ]
+   ],
+   [
+    {
+     "ka": "ჯორჯ ბალანჩინი",
+     "en": "George Balanchine",
+     "it": "George Balanchine"
+    },
+    [
+     {
+      "ka": "სერენადა",
+      "en": "Serenade",
+      "it": "Serenade"
+     },
+     {
+      "ka": "აპოლონ მუსაგეტი",
+      "en": "Apollo Musagète",
+      "it": "Apollo Musagète"
+     },
+     {
+      "ka": "სიმფონიური ვესტერნი",
+      "en": "Western Symphony",
+      "it": "Western Symphony"
+     },
+     {
+      "ka": "მოცარტიანა",
+      "en": "Mozartiana",
+      "it": "Mozartiana"
+     },
+     {
+      "ka": "დონიცეტი ვარიაციები",
+      "en": "Donizetti Variations",
+      "it": "Donizetti Variations"
+     },
+     {
+      "ka": "ჩაკონა",
+      "en": "Chaconne",
+      "it": "Chaconne"
+     },
+     {
+      "ka": "Duo Concertant",
+      "en": "Duo Concertant",
+      "it": "Duo Concertant"
+     },
+     {
+      "ka": "ტარანტელა",
+      "en": "Tarantella",
+      "it": "Tarantella"
+     },
+     {
+      "ka": "ჩაიკოვსკი პა დე დე",
+      "en": "Tchaikovsky Pas de Deux",
+      "it": "Tchaikovsky Pas de Deux"
+     },
+     {
+      "ka": "ბუგაკუ",
+      "en": "Bugaku",
+      "it": "Bugaku"
+     },
+     {
+      "ka": "Concerto Barocco",
+      "en": "Concerto Barocco",
+      "it": "Concerto Barocco"
+     },
+     {
+      "ka": "Symphony in C",
+      "en": "Symphony in C",
+      "it": "Symphony in C"
+     }
+    ]
+   ],
+   [
+    {
+     "ka": "მიხეილ ფოკინი",
+     "en": "Michel Fokine",
+     "it": "Michel Fokine"
+    },
+    [
+     {
+      "ka": "ვარდის აჩრდილი",
+      "en": "The Spectre of the Rose",
+      "it": "The Spectre of the Rose"
+     },
+     {
+      "ka": "შოპენიანა",
+      "en": "Chopiniana",
+      "it": "Chopiniana"
+     },
+     {
+      "ka": "ფასკუნჯი",
+      "en": "The Firebird",
+      "it": "The Firebird"
+     },
+     {
+      "ka": "შეჰერეზადა",
+      "en": "Scheherazade",
+      "it": "Scheherazade"
+     }
+    ]
+   ],
+   [
+    {
+     "ka": "ოგიუსტ ბურნონვილი",
+     "en": "August Bournonville",
+     "it": "August Bournonville"
+    },
+    [
+     {
+      "ka": "კონსერვატორია",
+      "en": "The Conservatory",
+      "it": "The Conservatory"
+     },
+     {
+      "ka": "ნატალი",
+      "en": "Nathalie",
+      "it": "Nathalie"
+     }
+    ]
+   ],
+   [
+    {
+     "ka": "ფრედერიკ ეშტონი",
+     "en": "Frederick Ashton",
+     "it": "Frederick Ashton"
+    },
+    [
+     {
+      "ka": "ორი მტრედი",
+      "en": "The Two Pigeons",
+      "it": "The Two Pigeons"
+     },
+     {
+      "ka": "დღესასწაული",
+      "en": "Festival",
+      "it": "Festival"
+     },
+     {
+      "ka": "ტაისი პა დე დე",
+      "en": "Thaïs Pas de Deux",
+      "it": "Thaïs Pas de Deux"
+     },
+     {
+      "ka": "გაზაფხულის ხმები",
+      "en": "Voices of Spring",
+      "it": "Voices of Spring"
+     },
+     {
+      "ka": "სილვია პა დე დე",
+      "en": "Sylvia Pas de Deux",
+      "it": "Sylvia Pas de Deux"
+     },
+     {
+      "ka": "კატა",
+      "en": "The Cat",
+      "it": "The Cat"
+     },
+     {
+      "ka": "მარგარიტა და არმანი",
+      "en": "Marguerite and Armand",
+      "it": "Marguerite and Armand"
+     }
+    ]
+   ],
+   [
+    {
+     "ka": "იირჟი კილიანი",
+     "en": "Jiří Kylián",
+     "it": "Jiří Kylián"
+    },
+    [
+     {
+      "ka": "Stepping Stone",
+      "en": "Stepping Stone",
+      "it": "Stepping Stone"
+     },
+     {
+      "ka": "ექვსი ცეკვა",
+      "en": "Six Dances",
+      "it": "Six Dances"
+     },
+     {
+      "ka": "დაცემული ანგელოზები",
+      "en": "Falling Angels",
+      "it": "Falling Angels"
+     },
+     {
+      "ka": "Petite Mort",
+      "en": "Petite Mort",
+      "it": "Petite Mort"
+     },
+     {
+      "ka": "სარაბანდა",
+      "en": "Sarabande",
+      "it": "Sarabande"
+     }
+    ]
+   ],
+   [
+    {
+     "ka": "ალექსეი რატმანსკი",
+     "en": "Alexei Ratmansky",
+     "it": "Alexei Ratmansky"
+    },
+    [
+     {
+      "ka": "მანიერიზმის მშვენიერებანი",
+      "en": "Beauties of Mannerism",
+      "it": "Beauties of Mannerism"
+     },
+     {
+      "ka": "სიზმრები იაპონიაზე",
+      "en": "Dreams of Japan",
+      "it": "Dreams of Japan"
+     },
+     {
+      "ka": "ლეა",
+      "en": "Leah",
+      "it": "Leah"
+     },
+     {
+      "ka": "ბიზეს ვარიაციები",
+      "en": "Bizet Variations",
+      "it": "Bizet Variations"
+     }
+    ]
+   ],
+   [
+    {
+     "ka": "იური პოსოხოვი",
+     "en": "Yuri Possokhov",
+     "it": "Yuri Possokhov"
+    },
+    [
+     {
+      "ka": "საგალობელი",
+      "en": "Canticle",
+      "it": "Canticle"
+     },
+     {
+      "ka": "ანარეკლები",
+      "en": "Reflections",
+      "it": "Reflections"
+     },
+     {
+      "ka": "მედეა",
+      "en": "Medea",
+      "it": "Medea"
+     }
+    ]
+   ],
+   [
+    {
+     "ka": "პერ ისბერგი",
+     "en": "Per Isberg",
+     "it": "Per Isberg"
+    },
+    [
+     {
+      "ka": "პინოკიო",
+      "en": "Pinocchio",
+      "it": "Pinocchio"
+     }
+    ]
+   ],
+   [
+    {
+     "ka": "ნინო ანანიაშვილი და გია მარღანია",
+     "en": "Nino Ananiashvili and Gia Marghania",
+     "it": "Nino Ananiashvili and Gia Marghania"
+    },
+    [
+     {
+      "ka": "წუნა და წრუწუნა",
+      "en": "Tsuna and Tsrutsuna",
+      "it": "Tsuna and Tsrutsuna"
+     }
+    ]
+   ],
+   [
+    {
+     "ka": "თანამედროვე ერთმოქმედებიანი ბალეტები",
+     "en": "Contemporary one-act ballets",
+     "it": "Balletti contemporanei in un atto"
+    },
+    [
+     {
+      "ka": "Green (სტენტონ ველჩი)",
+      "en": "Green (Stanton Welch)",
+      "it": "Green (Stanton Welch)"
+     },
+     {
+      "ka": "უფრთოდ ფრენა წყვდიადში (ტეთ კასკი)",
+      "en": "Wingless Flight in Darkness (Tet Kask)",
+      "it": "Wingless Flight in Darkness (Tet Kask)"
+     },
+     {
+      "ka": "Tampopo (ტეთ კასკი)",
+      "en": "Tampopo (Tet Kask)",
+      "it": "Tampopo (Tet Kask)"
+     },
+     {
+      "ka": "ქუჩა (მარიამ ალექსიძე)",
+      "en": "Street (Mariam Aleksidze)",
+      "it": "Street (Mariam Aleksidze)"
+     },
+     {
+      "ka": "საიდუმლო ბაღი (საშა ევტიმოვა)",
+      "en": "Secret Garden (Sasha Evtimova)",
+      "it": "Secret Garden (Sasha Evtimova)"
+     },
+     {
+      "ka": "გელინო (საშა ევტიმოვა)",
+      "en": "Gelino (Sasha Evtimova)",
+      "it": "Gelino (Sasha Evtimova)"
+     },
+     {
+      "ka": "First Flash (იორმა ელო)",
+      "en": "First Flash (Jorma Elo)",
+      "it": "First Flash (Jorma Elo)"
+     },
+     {
+      "ka": "წამი გარდასახვამდე (ტრეი მაკინტაირი)",
+      "en": "A Moment Before Transformation (Trey McIntyre)",
+      "it": "A Moment Before Transformation (Trey McIntyre)"
+     },
+     {
+      "ka": "ეს თავდაყირა სამყარო (ტრეი მაკინტაირი)",
+      "en": "This Upside-Down World (Trey McIntyre)",
+      "it": "This Upside-Down World (Trey McIntyre)"
+     },
+     {
+      "ka": "ზაფხულის ღამის სიზმარი (ტრეი მაკინტაირი)",
+      "en": "A Midsummer Night's Dream (Trey McIntyre)",
+      "it": "A Midsummer Night's Dream (Trey McIntyre)"
+     },
+     {
+      "ka": "Petite Cérémonie (მედი ვალერსკი)",
+      "en": "Petite Cérémonie (Medi Valersky)",
+      "it": "Petite Cérémonie (Medi Valersky)"
+     },
+     {
+      "ka": "Orawa (მედი ვალერსკი)",
+      "en": "Orawa (Medi Valersky)",
+      "it": "Orawa (Medi Valersky)"
+     },
+     {
+      "ka": "თვალის დახამხამება (მარია ბარიოსი)",
+      "en": "A Blink of an Eye (Maria Barrios)",
+      "it": "A Blink of an Eye (Maria Barrios)"
+     },
+     {
+      "ka": "ფერფლი (სებასტიან კლობორგი)",
+      "en": "Ash (Sebastian Kloborg)",
+      "it": "Ash (Sebastian Kloborg)"
+     }
+    ]
+   ]
+  ],
+  "news": [
+   {
+    "d": "2026-10-08",
+    "t": {
+     "ka": "OPERA CROWN — თბილისის V საერთაშორისო კონკურსის წინასწარი მოსმენის შედეგები გამოცხადდა. პირველ ტურში 56 მომღერალი 24 ქვეყნიდან მონაწილეობს (საქართველო — 13, სამხრეთ კორეა — 9, ჩინეთი — 5, იტალია და აშშ — თითო 3). კონკურსი 8 ნოემბერს იწყება თეატრში.",
+     "en": "OPERA CROWN, the 5th Tbilisi International Vocalists Competition: preliminary results announced. 56 singers from 24 countries take part in the first round (Georgia 13, South Korea 9, China 5, Italy and USA 3 each). The competition begins on 8 November at the theatre.",
+     "it": "OPERA CROWN, 5º Concorso internazionale di canto di Tbilisi: annunciati i risultati delle preselezioni. Al primo turno partecipano 56 cantanti da 24 paesi (Georgia 13, Corea del Sud 9, Cina 5, Italia e USA 3 ciascuno). Il concorso inizia l'8 novembre al teatro."
+    },
+    "u": "https://www.opera.ge/geo/newsinner/46"
+   },
+   {
+    "d": "2026-07-21",
+    "t": {
+     "ka": "OPERA CROWN-ის წინასწარი მოსმენები იწყება; კანდიდატებს შეუძლიათ მონაწილეობა ვიდეოჩანაწერით ან ცოცხალი მოსმენით.",
+     "en": "Preliminary auditions for OPERA CROWN begin; candidates may apply by video recording or live audition.",
+     "it": "Iniziano le preselezioni di OPERA CROWN; i candidati possono partecipare con una registrazione video o con un'audizione dal vivo."
+    },
+    "u": "https://www.opera.ge/geo/newsinner/45"
+   },
+   {
+    "d": "2025-11-08",
+    "t": {
+     "ka": "IV OPERA CROWN დასრულდა. გამარჯვებულია თათა რაზმაძე (საქართველო).",
+     "en": "The 4th OPERA CROWN ended. The winner is Tata Razmadze (Georgia).",
+     "it": "Si è concluso il 4º OPERA CROWN. Vincitrice: Tata Razmadze (Georgia)."
+    },
+    "u": "https://www.opera.ge/geo/newsinner/44"
+   }
+  ],
+  "src": "https://www.opera.ge/geo"
  }
 }

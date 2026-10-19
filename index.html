@@ -132,6 +132,7 @@ footer{margin-top:40px;padding-top:16px;border-top:1px solid var(--line);font-si
 .vcard small{color:var(--muted)}
 .gal{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:12px}.gal figure{margin:0;border:1px solid var(--line);background:var(--surface)}.gal img{display:block;width:100%;aspect-ratio:4/5;object-fit:cover}.gal figcaption{font-size:.8rem;color:var(--muted);padding:6px 8px}
 .bio{max-width:72ch}.bio h3{font-family:var(--font-display);font-size:1.35rem;margin:20px 0 4px;color:var(--accent)}.bio p{margin:0 0 10px}
+.rcards{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:16px;margin-top:12px}.rcard{border:1px solid var(--line);background:var(--surface);display:flex;flex-direction:column;min-width:0}.rph{display:block;background:linear-gradient(160deg,var(--velvet-2),var(--velvet-3))}.rph img{display:block;width:100%;aspect-ratio:4/5;object-fit:cover}.rph.noimg{display:none}.rb{padding:12px 14px}.rb>b{font-family:var(--font-display);font-size:1.15rem}.rq{margin:10px 0 0;padding:0 0 0 12px;border-left:3px solid var(--brass)}.rq p{margin:0 0 4px;font-style:italic}.rq .qo{display:block;color:var(--muted);font-size:.78rem;margin-bottom:4px}.rq footer{font-size:.84rem;color:var(--muted)}.rq .tr{font-size:.75rem}.rmore{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:12px 24px;margin-top:16px}
 </style>
 
 <header class="mast">
@@ -158,7 +159,7 @@ footer{margin-top:40px;padding-top:16px;border-top:1px solid var(--line);font-si
 var DATA=null,FEED={updated:"",items:[]};
 
 var UI={
- en:{tag:"Opera calendar, premieres, reviews",ov:"Overview",cal:"Calendar",pre:"Premieres",rev:"Reviews",nino:"Nino Surguladze",
+ en:{tag:"Opera calendar, premieres, reviews",ov:"Overview",cal:"Calendar",pre:"Premieres",rev:"Reviews",tbs:"Tbilisi Opera",nino:"Nino Surguladze",
   h1:"Season 2026–27, on one page.",lede:"What is on, where, and when: premieres, announcements and reviews from the major houses, with a dedicated section for Georgian mezzo-soprano Nino Surguladze.",
   hs:"Opera houses",hn:"upcoming",hcred:"Photos load from Wikipedia and Wikimedia Commons (free licences). If a photo does not load, a monogram is shown.",vt:"Watch and listen",vwatch:"Search on YouTube",vnote:"These cards open YouTube searches for each topic, so you always see current videos. Videos belong to their owners.",pcred:"Photo: Wikipedia / Wikimedia Commons",fh:"Latest headlines",fn:"Latest mentions of Nino Surguladze",fnote:"Collected automatically every day from public news feeds. Headlines are shown in their original language.",upd:"Data updated",up:"Upcoming",past:"Past",allh:"All houses",house:"House",show:"Show",
   s1:"upcoming productions",s2:"premieres",s3:"opera houses",s4:"reviews",
@@ -170,7 +171,7 @@ var UI={
   nroles:"Roles and houses",naw:"Honours",
   note1:"Nino's page records only what is published in the linked sources. Where a source gives no date, the date is left out.",
   foot:"Compiled from the linked public sources on 18 October 2026. Descriptions are paraphrased; follow the links for the original texts. Always confirm dates and casts with the theatre before buying tickets."},
- it:{tag:"Calendario, prime e recensioni d'opera",ov:"Panoramica",cal:"Calendario",pre:"Prime",rev:"Recensioni",nino:"Nino Surguladze",
+ it:{tag:"Calendario, prime e recensioni d'opera",ov:"Panoramica",cal:"Calendario",pre:"Prime",rev:"Recensioni",tbs:"Opera di Tbilisi",nino:"Nino Surguladze",
   h1:"La stagione 2026–27 in una pagina.",lede:"Cosa va in scena, dove e quando: prime, annunci e recensioni dai principali teatri, con una sezione dedicata al mezzosoprano georgiano Nino Surguladze.",
   hs:"Teatri d'opera",hn:"in programma",hcred:"Le foto vengono caricate da Wikipedia e Wikimedia Commons (licenze libere). Se una foto non si carica, appare un monogramma.",vt:"Guarda e ascolta",vwatch:"Cerca su YouTube",vnote:"Le schede aprono ricerche su YouTube per ogni tema, così trovi sempre video aggiornati. I video appartengono ai rispettivi autori.",pcred:"Foto: Wikipedia / Wikimedia Commons",fh:"Ultime notizie",fn:"Ultime menzioni di Nino Surguladze",fnote:"Raccolte automaticamente ogni giorno da feed pubblici. I titoli restano nella lingua originale.",upd:"Dati aggiornati",up:"In programma",past:"Passati",allh:"Tutti i teatri",house:"Teatro",show:"Mostra",
   s1:"produzioni in programma",s2:"prime",s3:"teatri",s4:"recensioni",
@@ -182,7 +183,7 @@ var UI={
   nroles:"Ruoli e teatri",naw:"Riconoscimenti",
   note1:"La pagina di Nino riporta solo ciò che è pubblicato nelle fonti collegate. Se una fonte non indica la data, la data è omessa.",
   foot:"Compilato dalle fonti pubbliche collegate il 18 ottobre 2026. Le descrizioni sono parafrasate; per i testi originali seguite i link. Verificate sempre date e cast con il teatro prima di acquistare i biglietti."},
- ka:{tag:"საოპერო კალენდარი, პრემიერები, რეცენზიები",ov:"მიმოხილვა",cal:"კალენდარი",pre:"პრემიერები",rev:"რეცენზიები",nino:"ნინო სურგულაძე",
+ ka:{tag:"საოპერო კალენდარი, პრემიერები, რეცენზიები",ov:"მიმოხილვა",cal:"კალენდარი",pre:"პრემიერები",rev:"რეცენზიები",tbs:"თბილისის ოპერა",nino:"ნინო სურგულაძე",
   h1:"2026–27 სეზონი ერთ გვერდზე.",lede:"რა მიდის, სად და როდის: პრემიერები, ანონსები და რეცენზიები წამყვანი თეატრებიდან, ცალკე განყოფილებით ქართველი მეცოსოპრანო ნინო სურგულაძისთვის.",
   hs:"ოპერის თეატრები",hn:"მოსალოდნელი",hcred:"ფოტოები იტვირთება Wikipedia-სა და Wikimedia Commons-იდან (თავისუფალი ლიცენზიები). თუ ფოტო არ ჩაიტვირთა, ნაცვლად ჩანს მონოგრამა.",vt:"ვუყუროთ და მოვისმინოთ",vwatch:"ძებნა YouTube-ზე",vnote:"ბარათები ხსნის YouTube-ის ძიებას თემის მიხედვით, ამიტომ ყოველთვის ახალ ვიდეოებს ნახავთ. ვიდეოები მათ ავტორებს ეკუთვნის.",pcred:"ფოტო: Wikipedia / Wikimedia Commons",fh:"უახლესი სათაურები",fn:"ნინო სურგულაძის უახლესი ხსენებები",fnote:"ყოველდღე ავტომატურად გროვდება ღია საინფორმაციო არხებიდან. სათაურები ორიგინალ ენაზე რჩება.",upd:"მონაცემები განახლდა",up:"მოსალოდნელი",past:"განვლილი",allh:"ყველა თეატრი",house:"თეატრი",show:"ჩვენება",
   s1:"მოსალოდნელი დადგმა",s2:"პრემიერა",s3:"თეატრი",s4:"რეცენზია",
@@ -200,7 +201,7 @@ var LOCALE={en:"en-GB",it:"it-IT",ka:"ka-GE"};
 var lang="ka",view="ov",hf="all",time="up";
 try{var sv=localStorage.getItem("oa-lang");if(sv&&UI[sv])lang=sv}catch(e){}
 try{var nav=(navigator.language||"").slice(0,2);if(!localStorage.getItem("oa-lang")&&UI[nav])lang=nav}catch(e){}
-var VIEWS=["ov","cal","pre","rev","nino"];
+var VIEWS=["ov","cal","pre","rev","tbs","nino"];
 if(VIEWS.indexOf(location.hash.slice(1))>-1)view=location.hash.slice(1);
 
 function T(o){return o?(o[lang]||o.en||""):""}
@@ -289,6 +290,31 @@ function vReviews(){
   var list=DATA.reviews.slice().sort(function(a,b){return a.d<b.d?1:-1});
   return '<h2>'+esc(u.rt)+'</h2>'+list.map(reviewBlock).join("");
 }
+var TL_={en:{pb:"Current playbill",ft:"Productions in detail",cast:"Cast",syn:"Synopsis",op:"Opera repertoire",ba:"Ballet repertoire",nw:"News",ad:"Address",ph:"Phone",hr:"Hours",opera:"Opera",ballet:"Ballet",more:"Full details",src:"Source: opera.ge",ttl:"Tbilisi Opera and Ballet State Theatre",tk:"Tickets"},
+ it:{pb:"Cartellone attuale",ft:"Le produzioni in dettaglio",cast:"Interpreti",syn:"Trama",op:"Repertorio d'opera",ba:"Repertorio di balletto",nw:"Notizie",ad:"Indirizzo",ph:"Telefono",hr:"Orari",opera:"Opera",ballet:"Balletto",more:"Dettagli",src:"Fonte: opera.ge",ttl:"Teatro statale dell'Opera e del Balletto di Tbilisi",tk:"Biglietti"},
+ ka:{pb:"მიმდინარე აფიშა",ft:"დადგმები დაწვრილებით",cast:"შემსრულებლები",syn:"სიუჟეტი",op:"საოპერო რეპერტუარი",ba:"საბალეტო რეპერტუარი",nw:"სიახლეები",ad:"მისამართი",ph:"ტელეფონი",hr:"სამუშაო საათები",opera:"ოპერა",ballet:"ბალეტი",more:"დეტალები",src:"წყარო: opera.ge",ttl:"თბილისის ზაქარია ფალიაშვილის სახელობის ოპერისა და ბალეტის სახელმწიფო თეატრი",tk:"ბილეთები"}};
+function vTbilisi(){
+  var D=DATA.tbs,l=TL_[lang]||TL_.en;if(!D)return "";
+  var tdy=today();
+  function dr(d){var a=d[0],b=d[d.length-1];var o={day:"numeric",month:"short"};return d.length==1?fmt(a,o):(a.slice(0,7)==b.slice(0,7)?(+a.slice(8))+"–"+fmt(b,o):fmt(a,o)+" – "+fmt(b,o))}
+  var h='<div class="hero"><div class="hero-in"><span class="stamp">opera.ge</span><h1>'+esc(T(D.name))+'</h1><p>'+esc(T(D.intro))+'</p>'+
+   '<p><b>'+esc(l.ad)+':</b> '+esc(T(D.addr))+'<br><b>'+esc(l.ph)+':</b> '+esc(D.phone)+'<br><b>'+esc(l.hr)+':</b> '+esc(T(D.hours))+'</p>'+links(D.links)+'</div></div>';
+  h+='<h2 class="block-title" style="margin-top:24px">'+esc(l.pb)+'</h2>'+D.season.map(function(s){
+    var past=s.d[s.d.length-1]<tdy;
+    return '<div class="review" style="'+(past?'opacity:.55':'')+'"><div class="meta">'+esc(dr(s.d))+' · '+esc(s.time)+' · '+esc(l[s.g])+'</div><p><b>'+esc(T(s.t))+'</b>'+(s.c?' — '+esc(T(s.c)):'')+' <a href="https://www.opera.ge/geo/playbillinner/'+s.id+'" target="_blank" rel="noopener">'+esc(l.more)+' ↗</a></p></div>'}).join("");
+  h+='<h2 class="block-title" style="margin-top:28px">'+esc(l.ft)+'</h2>'+D.feat.map(function(f){
+    var x='<div class="review"><h3 style="font-family:var(--font-display);margin:0">'+esc(T(f.t))+'</h3><div class="meta">'+esc(l[f.g])+' · '+esc(T(f.sub))+'</div>';
+    x+='<p>'+f.facts.map(function(r){return '<b>'+esc(T(r[0]))+':</b> '+esc(T(r[1]))}).join("<br>")+'</p>';
+    x+='<p><b>'+esc(l.cast)+':</b><br>'+f.cast.map(function(r){return esc(T(r[0]))+' — '+esc(T(r[1]))}).join("<br>")+'</p>';
+    if(f.syn)x+='<p><b>'+esc(l.syn)+':</b> '+esc(T(f.syn))+'</p>';
+    x+='<p class="meta">'+esc(T(f.note))+'</p><div class="links"><a href="'+esc(f.u)+'" target="_blank" rel="noopener">opera.ge ↗</a>'+(f.tk?'<a href="'+esc(f.tk)+'" target="_blank" rel="noopener">'+esc(l.tk)+' ↗</a>':'')+'</div></div>';
+    return x}).join("");
+  h+='<h2 class="block-title" style="margin-top:28px">'+esc(l.nw)+'</h2>'+D.news.map(function(n){return '<div class="review"><div class="meta">'+esc(fmt(n.d,{day:"numeric",month:"short",year:"numeric"}))+'</div><p>'+esc(T(n.t))+' <a href="'+esc(n.u)+'" target="_blank" rel="noopener">'+esc(l.src)+' ↗</a></p></div>'}).join("");
+  h+='<h2 class="block-title" style="margin-top:28px">'+esc(l.op)+'</h2><div class="rmore">'+D.opera.map(function(c){return '<div><b>'+esc(T(c[1]))+'</b><br>'+c[2].map(function(t){return esc(T(t))}).join(" · ")+'</div>'}).join("")+'</div>';
+  h+='<h2 class="block-title" style="margin-top:28px">'+esc(l.ba)+'</h2><div class="rmore">'+D.ballet.map(function(c){return '<div><b>'+esc(T(c[0]))+'</b><br>'+c[1].map(function(t){return esc(T(t))}).join(" · ")+'</div>'}).join("")+'</div>';
+  h+='<p class="meta" style="margin-top:20px"><a href="'+esc(D.src)+'" target="_blank" rel="noopener">'+esc(l.src)+' ↗</a></p>';
+  return h;
+}
 function vNino(){
   var u=UI[lang],N=DATA.nino;
   var h='<div class="hero nino-hero"><div class="portrait" data-wiki="'+esc(N.w||"")+'" data-img="'+esc(N.img||"")+'"><span>NS</span></div><div class="hero-in"><span class="stamp">'+esc(u.nt)+'</span><h1>'+esc(u.nino)+'</h1>'+
@@ -300,7 +326,7 @@ function vNino(){
    N.upcoming.map(function(x){return '<li><span class="y">→</span><div><p>'+esc(T(x.t))+'</p>'+links(x.l)+'</div></li>'}).join("")+'</ul>'+
    '<h2 class="block-title" style="margin-top:28px">'+esc(u.nroles)+'</h2><p style="max-width:70ch">'+esc(T(N.roles))+'</p>'+
    '<h2 class="block-title" style="margin-top:28px">'+esc(u.nr)+'</h2>'+DATA.reviews.filter(function(r){return r.nino}).map(reviewBlock).join("")+
-   galleryBlock()+videoBlock()+feedBlock(true)+'<h2 class="block-title" style="margin-top:28px">'+esc(u.nlink)+'</h2>'+links(N.links);
+   revBlock()+galleryBlock()+videoBlock()+feedBlock(true)+'<h2 class="block-title" style="margin-top:28px">'+esc(u.nlink)+'</h2>'+links(N.links);
   return h;
 }
 
@@ -312,6 +338,16 @@ function housesBlock(){
     var H=DATA.houses[k],n=up.filter(function(e){return e.h===k}).length;
     return '<a class="hcard" href="#cal" data-house="'+k+'"><div class="hc-img" data-wiki="'+esc(H.w||"")+'" data-img="'+esc(H.img||"")+'"><span>'+esc(initials(H.n))+'</span></div><div class="hc-t"><b>'+esc(H.n)+'</b><span>'+esc(city(k))+' · '+n+' '+esc(u.hn)+'</span></div></a>';
   }).join("")+'</div><p class="meta">'+esc(u.hcred)+'</p>';
+}
+function qHtml(q){
+  var main=q.t[lang]||q.o,orig=(lang!==q.ol)?'<small class="qo">'+({it:"Italiano",en:"English"}[q.ol]||q.ol)+': „'+esc(q.o)+'“</small>':'';
+  return '<blockquote class="rq"><p>„'+esc(main)+'“</p>'+orig+'<footer>— '+esc(q.a)+', '+esc(q.s)+(q.u?' <a href="'+esc(q.u)+'" target="_blank" rel="noopener">↗</a>':'')+(lang!==q.ol?' <em class="tr">('+({ka:"თარგმანი ჩვენია",en:"our translation",it:"traduzione nostra"})[lang]+')</em>':'')+'</footer></blockquote>';
+}
+function revBlock(){
+  var R=DATA.nino.rev;if(!R)return "";
+  return '<h2 class="block-title" style="margin-top:28px">'+esc(T(R.title))+'</h2><p class="meta">'+esc(T(R.note))+'</p><div class="rcards">'+R.cards.map(function(c){
+    return '<article class="rcard"><a class="rph" href="'+esc(c.img)+'" target="_blank" rel="noopener"><img loading="lazy" src="'+esc(c.img)+'" alt="'+esc(T(c.cap))+'" onerror="this.parentNode.classList.add(\'noimg\')"></a><div class="rb"><b>'+esc(T(c.cap))+'</b>'+c.q.map(qHtml).join("")+'</div></article>';
+  }).join("")+'</div>'+(R.more&&R.more.length?'<div class="rmore">'+R.more.map(qHtml).join("")+'</div>':'');
 }
 function bioBlock(){
   var B=DATA.nino.bio||[];if(!B.length)return "";
@@ -350,7 +386,7 @@ function hydrate(){
   });
 }
 
-var RENDER={ov:vOverview,cal:vCalendar,pre:vPremieres,rev:vReviews,nino:vNino};
+var RENDER={ov:vOverview,cal:vCalendar,pre:vPremieres,rev:vReviews,tbs:vTbilisi,nino:vNino};
 function render(){
   var u=UI[lang];
   document.documentElement.lang=lang;
