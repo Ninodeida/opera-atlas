@@ -607,7 +607,7 @@
     "t": {
      "en": "13 September: charity concert at Tbilisi Concert Hall with international colleagues, for her foundation Desire Tree, which helps children needing medical care.",
      "it": "13 settembre: concerto benefico alla Tbilisi Concert Hall con colleghi internazionali per la sua fondazione Desire Tree, che aiuta bambini bisognosi di cure.",
-     "ka": "13 სექტემბერი: საქველმოქმედო კონცერტი თბილისის საკონცერტო დარბაზში საერთაშორისო კოლეგებთან ერთად მისი ფონდის „სურვილების ხე“ სასარგებლოდ, რომელიც სამედიცინო დახმარებას უწევს ბავშვებს."
+     "ka": "13 სექტემბერი: საქველმოქმედო კონცერტი თბილისის საკონცერტო დარბაზში საერთაშორისო კოლეგებთან ერთად მისი ფონდის „ნატვრის ხე“ სასარგებლოდ, რომელიც სამედიცინო დახმარებას უწევს ბავშვებს."
     },
     "l": [
      [
@@ -667,20 +667,6 @@
     ]
    },
    {
-    "y": "2026",
-    "t": {
-     "en": "20–28 January: Amneris in a new Aida production at Teatro Massimo Bellini, Catania, alternating with Irene Savignano.",
-     "it": "20–28 gennaio: Amneris in una nuova Aida al Teatro Massimo Bellini di Catania, in alternanza con Irene Savignano.",
-     "ka": "20–28 იანვარი: ამნერისი ახალ Aida-ში, კატანიის ბელინის თეატრი, ირენე სავინიანოსთან ერთად."
-    },
-    "l": [
-     [
-      "La Sicilia",
-      "https://www.lasicilia.it/evento/eventi/3013631/aida-al-teatro-massimo-bellini-amore-potere-e-tragedia-in-scena-dal-20-al-28-gennaio.html"
-     ]
-    ]
-   },
-   {
     "y": "2018",
     "t": {
      "en": "Azucena in Il trovatore at the Teatro Regio di Parma; Alceste (Gluck) at Maggio Musicale Fiorentino, her debut there (March); Carmen at the Opéra Royal de Wallonie (conductor Speranza Scappucci).",
@@ -701,7 +687,7 @@
     "t": {
      "en": "International gala concerts and special cultural projects during the pandemic; active charitable work through the Desire Tree Foundation.",
      "it": "Concerti di gala internazionali e progetti culturali speciali durante la pandemia; intensa attività benefica con la Fondazione Desire Tree.",
-     "ka": "საერთაშორისო გალა-კონცერტები და განსაკუთრებული კულტურული პროექტები პანდემიის პერიოდში; აქტიური საქველმოქმედო საქმიანობა ფონდ „სურვილის ხის\" ფარგლებში."
+     "ka": "საერთაშორისო გალა-კონცერტები და განსაკუთრებული კულტურული პროექტები პანდემიის პერიოდში; აქტიური საქველმოქმედო საქმიანობა ფონდ „ნატვრის ხის\" ფარგლებში."
     }
    },
    {
@@ -747,9 +733,23 @@
    {
     "y": "2026",
     "t": {
-     "en": "Amneris in the season-opening Aida at the Teatro Massimo Bellini, Catania (conductor Fabrizio Maria Carminati); Verdi's Messa da Requiem at the Teatro Politeama Garibaldi, Palermo (Stefano Ranzani) and Symphony No. 9 in Palermo. Announced debuts: Venus in Tannhäuser (Sydney) and Lohengrin (Liège).",
-     "it": "Amneris nell'Aida di apertura di stagione al Teatro Massimo Bellini di Catania (direttore Fabrizio Maria Carminati); Messa da Requiem di Verdi al Teatro Politeama Garibaldi di Palermo (Stefano Ranzani) e Sinfonia n. 9 a Palermo. Debutti annunciati: Venere in Tannhäuser (Sydney) e Lohengrin (Liegi).",
-     "ka": "ამნერისი სეზონის გამხსნელ „აიდაში\" კატანიის Teatro Massimo Bellini-ში (დირიჟორი ფაბრიციო მარია კარმინატი); ვერდის „Messa da Requiem\" პალერმოს Teatro Politeama Garibaldi-ში (სტეფანო რანძანი) და მე-9 სიმფონია პალერმოში. გამოცხადებული დებიუტები: ვენერა „ტანჰოიზერში\" (სიდნეი) და „ლოენგრინი\" (ლიეჟი)."
+     "en": "20–28 January: Amneris in a new Aida production at Teatro Massimo Bellini, Catania, alternating with Irene Savignano (season opening, conductor Fabrizio Maria Carminati).",
+     "it": "20–28 gennaio: Amneris in una nuova Aida al Teatro Massimo Bellini di Catania, in alternanza con Irene Savignano (apertura di stagione, direttore Fabrizio Maria Carminati).",
+     "ka": "20–28 იანვარი: ამნერისი ახალ Aida-ში, კატანიის ბელინის თეატრი, ირენე სავინიანოსთან ერთად (სეზონის გახსნა, დირიჟორი ფაბრიციო მარია კარმინატი)."
+    },
+    "l": [
+     [
+      "La Sicilia",
+      "https://www.lasicilia.it/evento/eventi/3013631/aida-al-teatro-massimo-bellini-amore-potere-e-tragedia-in-scena-dal-20-al-28-gennaio.html"
+     ]
+    ]
+   },
+   {
+    "y": "2026",
+    "t": {
+     "en": "Verdi's Messa da Requiem at the Teatro Politeama Garibaldi, Palermo (conductor Stefano Ranzani) and Symphony No. 9 in Palermo. Announced debuts: Venus in Tannhäuser (Sydney) and Lohengrin (Liège).",
+     "it": "Messa da Requiem di Verdi al Teatro Politeama Garibaldi di Palermo (direttore Stefano Ranzani) e Sinfonia n. 9 a Palermo. Debutti annunciati: Venere in Tannhäuser (Sydney) e Lohengrin (Liegi).",
+     "ka": "ვერდის „Messa da Requiem\" პალერმოს Teatro Politeama Garibaldi-ში (დირიჟორი სტეფანო რანძანი) და მე-9 სიმფონია პალერმოში. გამოცხადებული დებიუტები: ვენერა „ტანჰოიზერში\" (სიდნეი) და „ლოენგრინი\" (ლიეჟი)."
     }
    },
    {
@@ -996,12 +996,12 @@
     "h": {
      "en": "Desire Tree Foundation",
      "it": "Fondazione Desire Tree",
-     "ka": "ფონდი „სურვილის ხე\""
+     "ka": "ფონდი „ნატვრის ხე\""
     },
     "p": {
      "en": "The cause closest to her heart is the Desire Tree Foundation, which she founded in 2014. It helps Georgian children up to the age of 20 who need urgent medical treatment abroad and raises public awareness of their suffering; it has helped save dozens of children. In 2015 the Minister of Finance of Georgia gave the Foundation official charity status. Since 2014 it has organised five large charity concerts with world-class musicians.\n\nIts most significant project is \"For Love\", which combines ballet (Nino Rota's suite from Fellini's La strada) and opera (Poulenc's monodrama La voix humaine) in one performance. It was realised with director Marco Gandini, a long-time associate of Franco Zeffirelli; choreographer and La Scala principal dancer Gianluca Schiavoni; conductor Carlo Ponti Jr.; and the Tbilisi Opera and Ballet Theatre. The leading parts were danced by the prima ballerina Nino Ananiashvili and sung by Nino Surguladze. Sophia Loren was patron of the event and guest of honour at the opening night on 15 June 2016 at the Tbilisi Opera and Ballet Theatre. The performance was broadcast live on Georgian television; besides raising significant funds, it strengthened cultural relations between Italy and Georgia.",
      "it": "La causa che le sta più a cuore è la Fondazione Desire Tree, da lei fondata nel 2014. Aiuta i bambini georgiani fino a 20 anni che hanno bisogno di cure mediche urgenti all'estero e sensibilizza l'opinione pubblica sulle loro sofferenze; ha contribuito a salvare decine di bambini. Nel 2015 il Ministro delle Finanze della Georgia ha riconosciuto alla Fondazione lo status ufficiale di ente benefico. Dal 2014 ha organizzato cinque grandi concerti di beneficenza con musicisti di fama mondiale.\n\nIl progetto più importante è \"For Love\", che unisce balletto (la suite di Nino Rota dal film La strada di Fellini) e opera (il monodramma La voix humaine di Poulenc) in un unico spettacolo. È stato realizzato con il regista Marco Gandini, da molti anni collaboratore di Franco Zeffirelli; il coreografo e primo ballerino della Scala Gianluca Schiavoni; il direttore Carlo Ponti Jr.; e il Teatro dell'Opera e del Balletto di Tbilisi. Le parti principali sono state danzate dalla prima ballerina Nino Ananiashvili e cantate da Nino Surguladze. Sophia Loren è stata madrina dell'evento e ospite d'onore alla prima del 15 giugno 2016 al Teatro dell'Opera e del Balletto di Tbilisi. Lo spettacolo è andato in diretta sulla televisione georgiana; oltre a raccogliere fondi importanti, ha rafforzato le relazioni culturali tra Italia e Georgia.",
-     "ka": "მისთვის ყველაზე ახლობელი საქმე ფონდი „სურვილის ხეა\" (Desire Tree), რომელიც 2014 წელს დააარსა. ფონდი ეხმარება 20 წლამდე ქართველ ბავშვებს, რომლებსაც საზღვარგარეთ გადაუდებელი სამედიცინო მკურნალობა სჭირდებათ, და საზოგადოებას ბავშვთა ტკივილზე ზრუნვისკენ მოუწოდებს; ათობით ბავშვის გადარჩენაში შეიტანა წვლილი. 2015 წელს საქართველოს ფინანსთა მინისტრის გადაწყვეტილებით ფონდს საქველმოქმედო ორგანიზაციის ოფიციალური სტატუსი მიენიჭა. 2014 წლიდან ფონდმა მსოფლიო დონის მუსიკოსების მონაწილეობით ხუთი დიდი საქველმოქმედო კონცერტი გამართა.\n\nფონდის ყველაზე მნიშვნელოვანი პროექტია „სიყვარულისთვის\" („For Love\"), რომელიც ერთ წარმოდგენაში აერთიანებს ბალეტს (ნინო როტას სუიტა ფელინის ფილმიდან „გზა\") და ოპერას (პულენკის მონოოპერა „ადამიანის ხმა\"). პროექტი განხორციელდა რეჟისორ მარკო განდინის (ფრანკო ძეფირელის დიდი ხნის თანამოაზრე), ქორეოგრაფისა და La Scala-ს პირველი მოცეკვავის ჯანლუკა სკიავონის, დირიჟორ კარლო პონტი უმცროსისა და თბილისის ოპერისა და ბალეტის თეატრის მონაწილეობით. მთავარ პარტიებს ასრულებდნენ პრიმა-ბალერინა ნინო ანანიაშვილი და ნინო სურგულაძე. ღონისძიების პატრონი და საპატიო სტუმარი სოფი ლორენი იყო; პრემიერა 2016 წლის 15 ივნისს გაიმართა თბილისის ოპერისა და ბალეტის თეატრში და ცოცხლად გადაიცა ქართულ ტელევიზიაში. წარმოდგენამ მნიშვნელოვანი თანხა მოაგროვა და იტალიასა და საქართველოს შორის კულტურული ურთიერთობებიც გააძლიერა."
+     "ka": "მისთვის ყველაზე ახლობელი საქმე ფონდი „ნატვრის ხეა\" (Desire Tree), რომელიც 2014 წელს დააარსა. ფონდი ეხმარება 20 წლამდე ქართველ ბავშვებს, რომლებსაც საზღვარგარეთ გადაუდებელი სამედიცინო მკურნალობა სჭირდებათ, და საზოგადოებას ბავშვთა ტკივილზე ზრუნვისკენ მოუწოდებს; ათობით ბავშვის გადარჩენაში შეიტანა წვლილი. 2015 წელს საქართველოს ფინანსთა მინისტრის გადაწყვეტილებით ფონდს საქველმოქმედო ორგანიზაციის ოფიციალური სტატუსი მიენიჭა. 2014 წლიდან ფონდმა მსოფლიო დონის მუსიკოსების მონაწილეობით ხუთი დიდი საქველმოქმედო კონცერტი გამართა.\n\nფონდის ყველაზე მნიშვნელოვანი პროექტია „სიყვარულისთვის\" („For Love\"), რომელიც ერთ წარმოდგენაში აერთიანებს ბალეტს (ნინო როტას სუიტა ფელინის ფილმიდან „გზა\") და ოპერას (პულენკის მონოოპერა „ადამიანის ხმა\"). პროექტი განხორციელდა რეჟისორ მარკო განდინის (ფრანკო ძეფირელის დიდი ხნის თანამოაზრე), ქორეოგრაფისა და La Scala-ს პირველი მოცეკვავის ჯანლუკა სკიავონის, დირიჟორ კარლო პონტი უმცროსისა და თბილისის ოპერისა და ბალეტის თეატრის მონაწილეობით. მთავარ პარტიებს ასრულებდნენ პრიმა-ბალერინა ნინო ანანიაშვილი და ნინო სურგულაძე. ღონისძიების პატრონი და საპატიო სტუმარი სოფი ლორენი იყო; პრემიერა 2016 წლის 15 ივნისს გაიმართა თბილისის ოპერისა და ბალეტის თეატრში და ცოცხლად გადაიცა ქართულ ტელევიზიაში. წარმოდგენამ მნიშვნელოვანი თანხა მოაგროვა და იტალიასა და საქართველოს შორის კულტურული ურთიერთობებიც გააძლიერა."
     }
    }
   ]
