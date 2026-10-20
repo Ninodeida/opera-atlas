@@ -485,7 +485,7 @@ function videoBlock(){
 var WC={};
 function wiki(title){
   if(!WC[title]&&window.__HP&&window.__HP[0]===title)WC[title]=window.__HP[1];
-  if(!WC[title])WC[title]=fetch("https://en.wikipedia.org/api/rest_v1/page/summary/"+encodeURIComponent(title)).then(function(r){if(!r.ok)throw 0;return r.json()}).then(function(j){var t=j.thumbnail&&j.thumbnail.source;return t?t.replace(/\/\d+px-/,"/500px-"):null}).catch(function(){return null});
+  if(!WC[title])WC[title]=fetch("https://en.wikipedia.org/api/rest_v1/page/summary/"+encodeURIComponent(title)).then(function(r){if(!r.ok)throw 0;return r.json()}).then(function(j){var t=(j.thumbnail&&j.thumbnail.source)||(j.originalimage&&j.originalimage.source);return t?t.replace(/\/\d+px-/,"/500px-"):null}).catch(function(){return null});
   return WC[title];
 }
 function hydrate(){
