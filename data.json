@@ -655,9 +655,9 @@
    "c": "Wagner",
    "u": "https://www.music-opera.com/en/theatre-royal-belgique-liege/lohengrin-wagner-2436967.html",
    "n": {
-    "en": "Performances 29 Jan – 6 Feb 2027 (29, 31 Jan; 2, 4, 6 Feb). Conductor Giampaolo Bisanti, director Jean-Claude Berutti; Ortrud: Nino Surguladze (per ticket listing).",
-    "it": "Recite 29 gen – 6 feb 2027 (29, 31 gen; 2, 4, 6 feb). Direttore Giampaolo Bisanti, regia di Jean-Claude Berutti; Ortrud: Nino Surguladze (secondo il sito di biglietteria).",
-    "ka": "წარმოდგენები 29 იანვარი – 6 თებერვალი, 2027 (29, 31 იანვ.; 2, 4, 6 თებ.). დირიჟორი ჯამპაოლო ბიზანტი, რეჟისორი ჟან-კლოდ ბერიუტი; ორტრუდა — ნინო სურგულაძე (ბილეთების საიტის მიხედვით)."
+    "en": "Performances 29 Jan – 6 Feb 2027 (29, 31 Jan; 2, 4, 6 Feb). Conductor Giampaolo Bisanti, director Jean-Claude Berutti.",
+    "it": "Recite 29 gen – 6 feb 2027 (29, 31 gen; 2, 4, 6 feb). Direttore Giampaolo Bisanti, regia di Jean-Claude Berutti.",
+    "ka": "წარმოდგენები 29 იანვარი – 6 თებერვალი, 2027 (29, 31 იანვ.; 2, 4, 6 თებ.). დირიჟორი ჯამპაოლო ბიზანტი, რეჟისორი ჟან-კლოდ ბერიუტი."
    },
    "src": {
     "n": "music-opera.com ticket listing (not yet on the house page)",
@@ -1066,9 +1066,9 @@
    {
     "y": "2026",
     "t": {
-     "en": "Verdi's Messa da Requiem at the Teatro Politeama Garibaldi, Palermo (conductor Stefano Ranzani) and Symphony No. 9 in Palermo. Announced debuts: Venus in Tannhäuser (Sydney) and Lohengrin (Liège).",
-     "it": "Messa da Requiem di Verdi al Teatro Politeama Garibaldi di Palermo (direttore Stefano Ranzani) e Sinfonia n. 9 a Palermo. Debutti annunciati: Venere in Tannhäuser (Sydney) e Lohengrin (Liegi).",
-     "ka": "ვერდის „Messa da Requiem\" პალერმოს Teatro Politeama Garibaldi-ში (დირიჟორი სტეფანო რანძანი) და მე-9 სიმფონია პალერმოში. გამოცხადებული დებიუტები: ვენერა „ტანჰოიზერში\" (სიდნეი) და „ლოენგრინი\" (ლიეჟი)."
+     "en": "Verdi's Messa da Requiem at the Teatro Politeama Garibaldi, Palermo (conductor Stefano Ranzani) and Symphony No. 9 in Palermo.",
+     "it": "Messa da Requiem di Verdi al Teatro Politeama Garibaldi di Palermo (direttore Stefano Ranzani) e Sinfonia n. 9 a Palermo.",
+     "ka": "ვერდის „Messa da Requiem\" პალერმოს Teatro Politeama Garibaldi-ში (დირიჟორი სტეფანო რანძანი) და მე-9 სიმფონია პალერმოში."
     }
    },
    {
@@ -1105,14 +1105,35 @@
    },
    {
     "t": {
-     "en": "Venus (Tannhäuser), 2027: shown on her Opera Australia artist page. Dates not confirmed.",
-     "it": "Venere (Tannhäuser), 2027: indicata nella sua pagina artista di Opera Australia. Date non confermate.",
-     "ka": "ვენერა (Tannhäuser), 2027: მითითებულია Opera Australia-ს მხატვრის გვერდზე. თარიღები დადასტურებული არ არის."
+     "en": "Venus (Tannhäuser), Opera Australia, Ian Potter State Theatre, Arts Centre Melbourne: 5, 8, 11 and 14 November 2027 (conductor Andrea Battistoni, director Sir David McVicar). Cast and dates per the Opera Australia production page.",
+     "it": "Venere (Tannhäuser), Opera Australia, Ian Potter State Theatre, Arts Centre Melbourne: 5, 8, 11 e 14 novembre 2027 (direttore Andrea Battistoni, regia di Sir David McVicar). Interpreti e date secondo la pagina ufficiale della produzione di Opera Australia.",
+     "ka": "ვენერა („Tannhäuser\"), Opera Australia, Ian Potter State Theatre, Arts Centre Melbourne: 2027 წლის 5, 8, 11 და 14 ნოემბერი (დირიჟორი ანდრეა ბატისტონი, რეჟისორი სერ დევიდ მაკვიქარი). შემსრულებლები და თარიღები — Opera Australia-ს დადგმის ოფიციალური გვერდის მიხედვით."
     },
     "l": [
      [
-      "Opera Australia",
+      "Opera Australia — Tannhäuser (Melbourne)",
+      "https://www.opera.org.au/productions/tannhauser-melbourne/"
+     ],
+     [
+      "Opera Australia — artist page",
       "https://opera.org.au/artist/nino-surguladze/"
+     ]
+    ]
+   },
+   {
+    "t": {
+     "en": "Lohengrin at the Opéra Royal de Wallonie-Liège, 29 January – 6 February 2027, is on the house calendar. Nino Surguladze’s participation and role are not yet confirmed by an official source; her management biography mentions Lohengrin (Liège) as an announced debut.",
+     "it": "Lohengrin all’Opéra Royal de Wallonie-Liège, dal 29 gennaio al 6 febbraio 2027, è in cartellone. La partecipazione di Nino Surguladze e il ruolo non sono ancora confermati da una fonte ufficiale; la biografia del suo management cita Lohengrin (Liegi) come debutto annunciato.",
+     "ka": "„ლოენგრინი“ ლიეჟის Opéra Royal de Wallonie-ში, 2027 წლის 29 იანვრიდან 6 თებერვლამდე, თეატრის კალენდარშია. ნინო სურგულაძის მონაწილეობა და როლი ოფიციალური წყაროთი ჯერ დადასტურებული არ არის; მისი მენეჯმენტის ბიოგრაფიაში „ლოენგრინი“ (ლიეჟი) გამოცხადებულ დებიუტადაა მოხსენიებული."
+    },
+    "l": [
+     [
+      "Management biography 2026–27",
+      "https://keynoteartistmanagement.com/media/3295/surgladze-nino-biography-en-2026-27.pdf"
+     ],
+     [
+      "Opéra Royal de Wallonie-Liège",
+      "https://www.operaliege.be"
      ]
     ]
    }

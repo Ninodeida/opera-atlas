@@ -450,7 +450,7 @@ function vNino(){
 function initials(n){return n.split(/\s+/).filter(function(w){return /^[A-Z]/.test(w)}).slice(0,2).map(function(w){return w[0]}).join("")}
 function housesBlock(){
   var u=UI[lang],up=DATA.events.filter(isUp);
-  return '<h2 class="block-title" style="margin-top:32px">'+esc(u.hs)+'</h2><div class="houses">'+Object.keys(DATA.houses).map(function(k){
+  return '<h2 class="block-title" style="margin-top:32px">'+esc(u.hs)+'</h2><div class="houses">'+Object.keys(DATA.houses).filter(function(k){return DATA.events.some(function(e){return e.h===k})}).map(function(k){
     var H=DATA.houses[k],n=up.filter(function(e){return e.h===k}).length;
     return '<a class="hcard" href="#cal" data-house="'+k+'"><div class="hc-img" data-wiki="'+esc(H.w||"")+'" data-img="'+esc(H.img||"")+'"><span>'+esc(initials(H.n))+'</span></div><div class="hc-t"><b>'+esc(H.n)+'</b><span>'+esc(city(k))+' · '+n+' '+esc(u.hn)+'</span></div></a>';
   }).join("")+'</div><p class="meta">'+esc(u.hcred)+'</p>';
