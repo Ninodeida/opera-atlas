@@ -232,9 +232,17 @@ h1.pg{font-size:1.9rem;line-height:1.1;margin:0 0 6px}
 @media (min-width:1100px) {
   .wrap,
   .hero-in {
-    max-width:min(1440px,calc(100vw - 80px));
+    max-width:min(1280px,calc(100vw - 80px));
+    margin-left:auto;margin-right:auto;
   }
+  .rows,.rvgrid{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);column-gap:36px;align-items:start}
+  .rvgrid .review{margin-top:0}
+  .tl p{max-width:84ch}
+  .bio{max-width:none;column-count:2;column-gap:48px}
+  .bio h3{break-after:avoid;break-inside:avoid}
+  .bio p{break-inside:avoid-column;orphans:2;widows:2}
 }
+.src{font-size:.78rem;color:var(--muted);margin:4px 0 0}
 </style>
 
 <header class="mast">
@@ -341,7 +349,12 @@ function tag(ty){return '<span class="tag '+(ty==="world"?"world":"")+'">'+esc(U
 function eventRow(ev){
   return '<div class="row">'+dateBlock(ev)+'<div><p class="t"><a href="'+esc(ev.u)+'" target="_blank" rel="noopener">'+esc(ev.t)+'</a></p>'+
    '<div class="meta">'+tag(ev.ty)+(ev.c?esc(ev.c)+' · ':'')+esc(hname(ev.h))+', '+esc(city(ev.h))+'</div>'+
-   '<p class="note">'+esc(T(ev.n))+'</p></div></div>';
+   '<p class="note">'+esc(T(ev.n))+'</p>'+srcLine(ev)+'</div></div>';
+}
+var SRCL={en:{o:"official site",t:"third-party listing",s:"Source",c:"checked"},it:{o:"sito ufficiale",t:"fonte terza",s:"Fonte",c:"verificato"},ka:{o:"ოფიციალური საიტი",t:"მესამე პირის წყარო",s:"წყარო",c:"შემოწმებულია"}};
+function srcLine(ev){
+  if(!ev.src)return "";var l=SRCL[lang]||SRCL.en;
+  return '<p class="src">'+esc(l.s)+': '+esc(ev.src.n)+' · '+esc(ev.src.v==="official"?l.o:l.t)+(ev.src.d?' · '+esc(l.c)+' '+esc(ev.src.d):'')+'</p>';
 }
 function reviewBlock(r){
   var u=UI[lang];
@@ -379,19 +392,19 @@ function vCalendar(){
   if(time==="past")list.reverse();
   return '<h1 class="pg">'+esc(u.ct)+'</h1><div class="filters"><label>'+esc(u.house)+'<select id="hsel">'+opts+'</select></label>'+
    '<div><div style="font-size:.78rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin-bottom:4px">'+esc(u.show)+'</div><div class="seg"><button data-t="up" aria-pressed="'+(time==="up")+'">'+esc(u.up)+'</button><button data-t="past" aria-pressed="'+(time==="past")+'">'+esc(u.past)+'</button></div></div></div>'+
-   (list.length?list.map(eventRow).join(""):'<p class="empty">'+esc(u.none)+'</p>');
+   (list.length?'<div class="rows">'+list.map(eventRow).join("")+'</div>':'<p class="empty">'+esc(u.none)+'</p>');
 }
 function vPremieres(){
   var u=UI[lang];
   var list=sorted(DATA.events.filter(function(e){return e.ty==="world"||e.ty==="cpremiere"||e.ty==="new"}));
   var world=list.filter(function(e){return e.ty==="world"}),cp=list.filter(function(e){return e.ty==="cpremiere"}),nw=list.filter(function(e){return e.ty==="new"});
-  function grp(title,arr){return arr.length?'<h2 class="block-title" style="margin-top:22px">'+esc(title)+'</h2>'+arr.map(eventRow).join(""):""}
+  function grp(title,arr){return arr.length?'<h2 class="block-title" style="margin-top:22px">'+esc(title)+'</h2>'+'<div class="rows">'+arr.map(eventRow).join("")+'</div>':""}
   return '<h1 class="pg">'+esc(u.pt)+'</h1>'+grp(u.ty.world,world)+grp(u.ty.cpremiere,cp)+grp(u.ty.new,nw);
 }
 function vReviews(){
   var u=UI[lang];
   var list=DATA.reviews.slice().sort(function(a,b){return a.d<b.d?1:-1});
-  return '<h1 class="pg">'+esc(u.rt)+'</h1>'+list.map(reviewBlock).join("");
+  return '<h1 class="pg">'+esc(u.rt)+'</h1><div class="rvgrid">'+list.map(reviewBlock).join("")+'</div>';
 }
 var TL_={en:{pb:"Current playbill",ft:"Productions in detail",cast:"Cast",syn:"Synopsis",op:"Opera repertoire",ba:"Ballet repertoire",nw:"News",ad:"Address",ph:"Phone",hr:"Hours",opera:"Opera",ballet:"Ballet",more:"Full details",src:"Source: opera.ge",ttl:"Tbilisi Opera and Ballet State Theatre",sh:"Tbilisi Opera and Ballet",tk:"Tickets"},
  it:{pb:"Cartellone attuale",ft:"Le produzioni in dettaglio",cast:"Interpreti",syn:"Trama",op:"Repertorio d'opera",ba:"Repertorio di balletto",nw:"Notizie",ad:"Indirizzo",ph:"Telefono",hr:"Orari",opera:"Opera",ballet:"Balletto",more:"Dettagli",src:"Fonte: opera.ge",ttl:"Teatro statale dell'Opera e del Balletto di Tbilisi",sh:"Opera e Balletto di Tbilisi",tk:"Biglietti"},

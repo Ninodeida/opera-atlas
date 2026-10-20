@@ -453,11 +453,16 @@
    "ty": "run",
    "t": "Der Ring des Nibelungen",
    "c": "Wagner",
-   "u": "https://www.sortiraparis.com/en/what-to-see-in-paris/shows/articles/59879-festival-ring-2026-the-four-wagner-operas-at-the-opera-bastille",
+   "u": "https://www.operadeparis.fr/en/season-26-27/opera/das-rheingold",
    "n": {
     "en": "Ring Festival at the Bastille: two cycles, 6–15 and 13–22 Nov (Rheingold, Walküre, Siegfried, Götterdämmerung). Calixto Bieito directs, Pablo Heras-Casado conducts.",
     "it": "Ring Festival alla Bastille: due cicli, 6–15 e 13–22 nov. Regia di Calixto Bieito, direzione di Pablo Heras-Casado.",
     "ka": "რინგის ფესტივალი ბასტილიაზე: ორი ციკლი, 6–15 და 13–22 ნოემბერი. რეჟისორი კალიქსტო ბიეიტო, დირიჟორი პაბლო ერას-კასადო."
+   },
+   "src": {
+    "n": "Opéra national de Paris (Rheingold 6–15 Nov); later dates via sortiraparis.com",
+    "v": "official",
+    "d": "2026-10-20"
    }
   },
   {
@@ -473,6 +478,11 @@
     "en": "New production at the Bastille, directed by Louisa Proske (Paris Opera debut). Conductors: Finnegan Downie Dear (Jan–Feb), Stephanie Childress (May–Jun).",
     "it": "Nuova produzione alla Bastille, regia di Louisa Proske (debutto a Parigi). Direttori: Finnegan Downie Dear (gen–feb), Stephanie Childress (mag–giu).",
     "ka": "ახალი დადგმა ბასტილიაზე; რეჟისორი ლუიზა პროსკე (პარიზის ოპერაში დებიუტი). დირიჟორები: ფინეგან დაუნი დირი (იან–თებ), სტეფანი ჩაილდრესი (მაი–ივნ)."
+   },
+   "src": {
+    "n": "Opéra national de Paris",
+    "v": "official",
+    "d": "2026-10-20"
    }
   },
   {
@@ -483,11 +493,16 @@
    "ty": "run",
    "t": "Riccardo Primo",
    "c": "Handel",
-   "u": "https://www.teatroreal.es",
+   "u": "https://www.teatroreal.es/en/temporada/proxima-temporada",
    "n": {
-    "en": "Opening night 21 Oct 2026; check the theatre site for the full run.",
-    "it": "Serata inaugurale 21 ott 2026; serie completa sul sito del teatro.",
-    "ka": "პრემიერის დღე — 21 ოქტომბერი, 2026; სრული განრიგი იხილეთ თეატრის საიტზე."
+    "en": "Single performance, 21 Oct 2026.",
+    "it": "Recita unica, 21 ott 2026.",
+    "ka": "ერთი წარმოდგენა, 21 ოქტომბერი, 2026."
+   },
+   "src": {
+    "n": "Teatro Real",
+    "v": "official",
+    "d": "2026-10-20"
    }
   },
   {
@@ -498,11 +513,16 @@
    "ty": "run",
    "t": "Le nozze di Figaro",
    "c": "Mozart",
-   "u": "https://www.teatroreal.es",
+   "u": "https://www.teatroreal.es/en/temporada/proxima-temporada",
    "n": {
     "en": "Performances 10–27 Nov 2026.",
     "it": "Recite dal 10 al 27 nov 2026.",
     "ka": "წარმოდგენები 10–27 ნოემბერი, 2026."
+   },
+   "src": {
+    "n": "Teatro Real",
+    "v": "official",
+    "d": "2026-10-20"
    }
   },
   {
@@ -513,11 +533,16 @@
    "ty": "run",
    "t": "Simon Boccanegra",
    "c": "Verdi",
-   "u": "https://www.teatroreal.es",
+   "u": "https://www.teatroreal.es/en/show/simon-boccanegra",
    "n": {
-    "en": "Performances 16 Dec 2026 – 9 Jan 2027.",
-    "it": "Recite dal 16 dic 2026 al 9 gen 2027.",
-    "ka": "წარმოდგენები 16 დეკემბერი, 2026 – 9 იანვარი, 2027."
+    "en": "Twelve performances, 16 Dec 2026 – 9 Jan 2027.",
+    "it": "Dodici recite, dal 16 dic 2026 al 9 gen 2027.",
+    "ka": "თორმეტი წარმოდგენა, 16 დეკემბერი, 2026 – 9 იანვარი, 2027."
+   },
+   "src": {
+    "n": "Teatro Real",
+    "v": "official",
+    "d": "2026-10-20"
    }
   },
   {
@@ -528,26 +553,36 @@
    "ty": "run",
    "t": "Fedora",
    "c": "Giordano",
-   "u": "https://www.teatroreal.es",
+   "u": "https://www.teatroreal.es/en/show/fedora",
    "n": {
-    "en": "Performances on 7 and 10 Jan 2027.",
-    "it": "Recite il 7 e il 10 gen 2027.",
-    "ka": "წარმოდგენები 7 და 10 იანვარს, 2027."
+    "en": "Concert version, 7 and 10 Jan 2027.",
+    "it": "Versione in concerto, 7 e 10 gen 2027.",
+    "ka": "საკონცერტო ვერსია, 7 და 10 იანვარი, 2027."
+   },
+   "src": {
+    "n": "Teatro Real",
+    "v": "official",
+    "d": "2026-10-20"
    }
   },
   {
    "id": "mad-kat",
-   "s": "2027-02-01",
+   "s": "2027-02-13",
    "e": "2027-03-05",
    "h": "tre",
    "ty": "run",
    "t": "Káťa Kabanová",
    "c": "Janáček",
-   "u": "https://www.teatroreal.es",
+   "u": "https://www.teatroreal.es/en/show/katia-kabanova",
    "n": {
-    "en": "Performances 1 Feb – 5 Mar 2027.",
-    "it": "Recite dal 1 feb al 5 mar 2027.",
-    "ka": "წარმოდგენები 1 თებერვალი – 5 მარტი, 2027."
+    "en": "Eight performances, 13 Feb – 5 Mar 2027.",
+    "it": "Otto recite, dal 13 feb al 5 mar 2027.",
+    "ka": "რვა წარმოდგენა, 13 თებერვალი – 5 მარტი, 2027."
+   },
+   "src": {
+    "n": "Teatro Real",
+    "v": "official",
+    "d": "2026-10-20"
    }
   },
   {
@@ -563,6 +598,11 @@
     "en": "Performances 29 Oct – 8 Nov 2026.",
     "it": "Recite dal 29 ott all’8 nov 2026.",
     "ka": "წარმოდგენები 29 ოქტომბერი – 8 ნოემბერი, 2026."
+   },
+   "src": {
+    "n": "Opéra Royal de Wallonie-Liège",
+    "v": "official",
+    "d": "2026-10-20"
    }
   },
   {
@@ -578,6 +618,11 @@
     "en": "Performances 21–26 Nov 2026.",
     "it": "Recite dal 21 al 26 nov 2026.",
     "ka": "წარმოდგენები 21–26 ნოემბერი, 2026."
+   },
+   "src": {
+    "n": "Opéra Royal de Wallonie-Liège",
+    "v": "official",
+    "d": "2026-10-20"
    }
   },
   {
@@ -593,6 +638,11 @@
     "en": "Performances 17–31 Dec 2026.",
     "it": "Recite dal 17 al 31 dic 2026.",
     "ka": "წარმოდგენები 17–31 დეკემბერი, 2026."
+   },
+   "src": {
+    "n": "Opéra Royal de Wallonie-Liège",
+    "v": "official",
+    "d": "2026-10-20"
    }
   },
   {
@@ -603,11 +653,16 @@
    "ty": "run",
    "t": "Lohengrin",
    "c": "Wagner",
-   "u": "https://www.operaliege.be",
+   "u": "https://www.music-opera.com/en/theatre-royal-belgique-liege/lohengrin-wagner-2436967.html",
    "n": {
-    "en": "Performances 29 Jan – 6 Feb 2027.",
-    "it": "Recite dal 29 gen al 6 feb 2027.",
-    "ka": "წარმოდგენები 29 იანვარი – 6 თებერვალი, 2027."
+    "en": "Performances 29 Jan – 6 Feb 2027 (29, 31 Jan; 2, 4, 6 Feb). Conductor Giampaolo Bisanti, director Jean-Claude Berutti; Ortrud: Nino Surguladze (per ticket listing).",
+    "it": "Recite 29 gen – 6 feb 2027 (29, 31 gen; 2, 4, 6 feb). Direttore Giampaolo Bisanti, regia di Jean-Claude Berutti; Ortrud: Nino Surguladze (secondo il sito di biglietteria).",
+    "ka": "წარმოდგენები 29 იანვარი – 6 თებერვალი, 2027 (29, 31 იანვ.; 2, 4, 6 თებ.). დირიჟორი ჯამპაოლო ბიზანტი, რეჟისორი ჟან-კლოდ ბერიუტი; ორტრუდა — ნინო სურგულაძე (ბილეთების საიტის მიხედვით)."
+   },
+   "src": {
+    "n": "music-opera.com ticket listing (not yet on the house page)",
+    "v": "third-party",
+    "d": "2026-10-20"
    }
   },
   {
@@ -618,26 +673,16 @@
    "ty": "run",
    "t": "Tannhäuser",
    "c": "Wagner",
-   "u": "https://opera.org.au",
+   "u": "https://www.opera.org.au/productions/tannhauser-melbourne/",
    "n": {
-    "en": "Arts Centre Melbourne, 5–14 Nov 2027. Per Opera Australia, Nino Surguladze sings Venus.",
-    "it": "Arts Centre Melbourne, 5–14 nov 2027. Secondo Opera Australia, Nino Surguladze è Venere.",
-    "ka": "Arts Centre Melbourne, 5–14 ნოემბერი, 2027. Opera Australia-ს ინფორმაციით, ვენერას მღერის ნინო სურგულაძე."
-   }
-  },
-  {
-   "id": "vie-ent",
-   "s": "2026-10-21",
-   "e": "2026-10-21",
-   "h": "wso",
-   "ty": "run",
-   "t": "Die Entführung aus dem Serail",
-   "c": "Mozart",
-   "u": "https://www.wiener-staatsoper.at",
-   "n": {
-    "en": "Performance on 21 Oct 2026 (listed by the house).",
-    "it": "Recita del 21 ott 2026 (da cartellone).",
-    "ka": "წარმოდგენა 21 ოქტომბერს, 2026 (თეატრის რეპერტუარის მიხედვით)."
+    "en": "Ian Potter State Theatre, Arts Centre Melbourne: 5, 8, 11 and 14 Nov 2027. Conductor Andrea Battistoni, director Sir David McVicar. Venus: Nino Surguladze.",
+    "it": "Ian Potter State Theatre, Arts Centre Melbourne: 5, 8, 11 e 14 nov 2027. Direttore Andrea Battistoni, regia di Sir David McVicar. Venere: Nino Surguladze.",
+    "ka": "Ian Potter State Theatre, Arts Centre Melbourne: 5, 8, 11 და 14 ნოემბერი, 2027. დირიჟორი ანდრეა ბატისტონი, რეჟისორი სერ დევიდ მაკვიქარი. ვენერა — ნინო სურგულაძე."
+   },
+   "src": {
+    "n": "Opera Australia",
+    "v": "official",
+    "d": "2026-10-20"
    }
   }
  ],
