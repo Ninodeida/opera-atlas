@@ -532,16 +532,17 @@ document.getElementById("langs").addEventListener("click",function(e){
 });
 document.getElementById("app").addEventListener("click",function(e){
   var a=e.target.closest("[data-house]");if(!a)return;
-  e.preventDefault();hf=a.getAttribute("data-house");time="up";view="cal";
-  try{history.replaceState(null,"","#cal")}catch(x){}
-  render();window.scrollTo(0,0);
+  e.preventDefault();hf=a.getAttribute("data-house");time="up";go("cal",true);
 });
 document.getElementById("tabs").addEventListener("click",function(e){
   var a=e.target.closest("a");if(!a)return;
-  e.preventDefault();view=a.getAttribute("data-v");
-  try{history.replaceState(null,"","#"+view)}catch(x){}
-  render();window.scrollTo(0,0);
+  e.preventDefault();go(a.getAttribute("data-v"),true);
 });
+function viewFromHash(){var h=location.hash.slice(1);return VIEWS.indexOf(h)>-1?h:"ov"}
+function go(v,push){var same=(v===view&&location.hash==="#"+v);view=v;if(push&&!same){try{history.pushState({v:v},"","#"+v)}catch(x){}}render();window.scrollTo(0,0)}
+function onNav(){var v=viewFromHash();if(v!==view){view=v;render();window.scrollTo(0,0)}else if(typeof closeMenu==="function")closeMenu()}
+window.addEventListener("popstate",onNav);window.addEventListener("hashchange",onNav);
+try{if("scrollRestoration" in history)history.scrollRestoration="manual"}catch(x){}
 function boot(){
   chrome();
   var a=window.__D||fetch("data.json").then(function(r){return r.json()});

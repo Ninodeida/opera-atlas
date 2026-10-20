@@ -35,6 +35,31 @@
    "en": "Tbilisi",
    "it": "Tbilisi",
    "ka": "თბილისი"
+  },
+  "par": {
+   "en": "Paris",
+   "it": "Parigi",
+   "ka": "პარიზი"
+  },
+  "mad": {
+   "en": "Madrid",
+   "it": "Madrid",
+   "ka": "მადრიდი"
+  },
+  "lge": {
+   "en": "Liège",
+   "it": "Liegi",
+   "ka": "ლიეჟი"
+  },
+  "syd": {
+   "en": "Sydney",
+   "it": "Sydney",
+   "ka": "სიდნეი"
+  },
+  "mel": {
+   "en": "Melbourne",
+   "it": "Melbourne",
+   "ka": "მელბურნი"
   }
  },
  "houses": {
@@ -77,6 +102,31 @@
    "n": "Theater Regensburg",
    "c": "reg",
    "w": "Theater_Regensburg"
+  },
+  "onp": {
+   "n": "Opéra national de Paris",
+   "c": "par",
+   "w": "Opéra_Bastille"
+  },
+  "tre": {
+   "n": "Teatro Real",
+   "c": "mad",
+   "w": "Teatro_Real"
+  },
+  "orw": {
+   "n": "Opéra Royal de Wallonie-Liège",
+   "c": "lge",
+   "w": "Opéra_Royal_de_Wallonie"
+  },
+  "oa": {
+   "n": "Opera Australia (Sydney Opera House)",
+   "c": "syd",
+   "w": "Opera_Australia"
+  },
+  "oam": {
+   "n": "Opera Australia (Arts Centre Melbourne)",
+   "c": "mel",
+   "w": "Arts_Centre_Melbourne"
   }
  },
  "events": [
@@ -393,6 +443,201 @@
     "en": "Ballet in three acts, 30 October–3 November 2026 (19:00; 1 November at 15:00). Staging by Alexei Fadeechev and Nino Ananiashvili; conductor Levan Jagaev. Tickets via tkt.ge.",
     "it": "Balletto in tre atti, 30 ottobre–3 novembre 2026 (ore 19:00; l'1 novembre ore 15:00). Messa in scena di Alexei Fadeechev e Nino Ananiashvili; direttore Levan Jagaev. Biglietti su tkt.ge.",
     "ka": "ბალეტი სამ მოქმედებად, 2026 წლის 30 ოქტომბერი – 3 ნოემბერი (19:00; 1 ნოემბერს 15:00 საათზე). დადგმა: ალექსეი ფადეეჩევი და ნინო ანანიაშვილი; დირიჟორი ლევან ჯაგაევი. ბილეთები — tkt.ge-ზე."
+   }
+  },
+  {
+   "id": "par-ring",
+   "s": "2026-11-06",
+   "e": "2026-11-22",
+   "h": "onp",
+   "ty": "run",
+   "t": "Der Ring des Nibelungen",
+   "c": "Wagner",
+   "u": "https://www.sortiraparis.com/en/what-to-see-in-paris/shows/articles/59879-festival-ring-2026-the-four-wagner-operas-at-the-opera-bastille",
+   "n": {
+    "en": "Ring Festival at the Bastille: two cycles, 6–15 and 13–22 Nov (Rheingold, Walküre, Siegfried, Götterdämmerung). Calixto Bieito directs, Pablo Heras-Casado conducts.",
+    "it": "Ring Festival alla Bastille: due cicli, 6–15 e 13–22 nov. Regia di Calixto Bieito, direzione di Pablo Heras-Casado.",
+    "ka": "რინგის ფესტივალი ბასტილიაზე: ორი ციკლი, 6–15 და 13–22 ნოემბერი. რეჟისორი კალიქსტო ბიეიტო, დირიჟორი პაბლო ერას-კასადო."
+   }
+  },
+  {
+   "id": "par-don",
+   "s": "2027-01-28",
+   "e": "2027-06-24",
+   "h": "onp",
+   "ty": "new",
+   "t": "Don Giovanni",
+   "c": "Mozart",
+   "u": "https://www.operadeparis.fr/en/season-26-27/opera/don-giovanni",
+   "n": {
+    "en": "New production at the Bastille, directed by Louisa Proske (Paris Opera debut). Conductors: Finnegan Downie Dear (Jan–Feb), Stephanie Childress (May–Jun).",
+    "it": "Nuova produzione alla Bastille, regia di Louisa Proske (debutto a Parigi). Direttori: Finnegan Downie Dear (gen–feb), Stephanie Childress (mag–giu).",
+    "ka": "ახალი დადგმა ბასტილიაზე; რეჟისორი ლუიზა პროსკე (პარიზის ოპერაში დებიუტი). დირიჟორები: ფინეგან დაუნი დირი (იან–თებ), სტეფანი ჩაილდრესი (მაი–ივნ)."
+   }
+  },
+  {
+   "id": "mad-ric",
+   "s": "2026-10-21",
+   "e": "2026-10-21",
+   "h": "tre",
+   "ty": "run",
+   "t": "Riccardo Primo",
+   "c": "Handel",
+   "u": "https://www.teatroreal.es",
+   "n": {
+    "en": "Opening night 21 Oct 2026; check the theatre site for the full run.",
+    "it": "Serata inaugurale 21 ott 2026; serie completa sul sito del teatro.",
+    "ka": "პრემიერის დღე — 21 ოქტომბერი, 2026; სრული განრიგი იხილეთ თეატრის საიტზე."
+   }
+  },
+  {
+   "id": "mad-nozze",
+   "s": "2026-11-10",
+   "e": "2026-11-27",
+   "h": "tre",
+   "ty": "run",
+   "t": "Le nozze di Figaro",
+   "c": "Mozart",
+   "u": "https://www.teatroreal.es",
+   "n": {
+    "en": "Performances 10–27 Nov 2026.",
+    "it": "Recite dal 10 al 27 nov 2026.",
+    "ka": "წარმოდგენები 10–27 ნოემბერი, 2026."
+   }
+  },
+  {
+   "id": "mad-sim",
+   "s": "2026-12-16",
+   "e": "2027-01-09",
+   "h": "tre",
+   "ty": "run",
+   "t": "Simon Boccanegra",
+   "c": "Verdi",
+   "u": "https://www.teatroreal.es",
+   "n": {
+    "en": "Performances 16 Dec 2026 – 9 Jan 2027.",
+    "it": "Recite dal 16 dic 2026 al 9 gen 2027.",
+    "ka": "წარმოდგენები 16 დეკემბერი, 2026 – 9 იანვარი, 2027."
+   }
+  },
+  {
+   "id": "mad-fed",
+   "s": "2027-01-07",
+   "e": "2027-01-10",
+   "h": "tre",
+   "ty": "run",
+   "t": "Fedora",
+   "c": "Giordano",
+   "u": "https://www.teatroreal.es",
+   "n": {
+    "en": "Performances on 7 and 10 Jan 2027.",
+    "it": "Recite il 7 e il 10 gen 2027.",
+    "ka": "წარმოდგენები 7 და 10 იანვარს, 2027."
+   }
+  },
+  {
+   "id": "mad-kat",
+   "s": "2027-02-01",
+   "e": "2027-03-05",
+   "h": "tre",
+   "ty": "run",
+   "t": "Káťa Kabanová",
+   "c": "Janáček",
+   "u": "https://www.teatroreal.es",
+   "n": {
+    "en": "Performances 1 Feb – 5 Mar 2027.",
+    "it": "Recite dal 1 feb al 5 mar 2027.",
+    "ka": "წარმოდგენები 1 თებერვალი – 5 მარტი, 2027."
+   }
+  },
+  {
+   "id": "lge-rav",
+   "s": "2026-10-29",
+   "e": "2026-11-08",
+   "h": "orw",
+   "ty": "run",
+   "t": "Ravel double bill",
+   "c": "Ravel",
+   "u": "https://www.operaliege.be",
+   "n": {
+    "en": "Performances 29 Oct – 8 Nov 2026.",
+    "it": "Recite dal 29 ott all’8 nov 2026.",
+    "ka": "წარმოდგენები 29 ოქტომბერი – 8 ნოემბერი, 2026."
+   }
+  },
+  {
+   "id": "lge-zom",
+   "s": "2026-11-21",
+   "e": "2026-11-26",
+   "h": "orw",
+   "ty": "run",
+   "t": "Zombie Opera",
+   "c": "",
+   "u": "https://www.operaliege.be",
+   "n": {
+    "en": "Performances 21–26 Nov 2026.",
+    "it": "Recite dal 21 al 26 nov 2026.",
+    "ka": "წარმოდგენები 21–26 ნოემბერი, 2026."
+   }
+  },
+  {
+   "id": "lge-tha",
+   "s": "2026-12-17",
+   "e": "2026-12-31",
+   "h": "orw",
+   "ty": "run",
+   "t": "Thaïs",
+   "c": "Massenet",
+   "u": "https://www.operaliege.be",
+   "n": {
+    "en": "Performances 17–31 Dec 2026.",
+    "it": "Recite dal 17 al 31 dic 2026.",
+    "ka": "წარმოდგენები 17–31 დეკემბერი, 2026."
+   }
+  },
+  {
+   "id": "lge-loh",
+   "s": "2027-01-29",
+   "e": "2027-02-06",
+   "h": "orw",
+   "ty": "run",
+   "t": "Lohengrin",
+   "c": "Wagner",
+   "u": "https://www.operaliege.be",
+   "n": {
+    "en": "Performances 29 Jan – 6 Feb 2027.",
+    "it": "Recite dal 29 gen al 6 feb 2027.",
+    "ka": "წარმოდგენები 29 იანვარი – 6 თებერვალი, 2027."
+   }
+  },
+  {
+   "id": "oa-tann",
+   "s": "2027-11-05",
+   "e": "2027-11-14",
+   "h": "oam",
+   "ty": "run",
+   "t": "Tannhäuser",
+   "c": "Wagner",
+   "u": "https://opera.org.au",
+   "n": {
+    "en": "Arts Centre Melbourne, 5–14 Nov 2027. Per Opera Australia, Nino Surguladze sings Venus.",
+    "it": "Arts Centre Melbourne, 5–14 nov 2027. Secondo Opera Australia, Nino Surguladze è Venere.",
+    "ka": "Arts Centre Melbourne, 5–14 ნოემბერი, 2027. Opera Australia-ს ინფორმაციით, ვენერას მღერის ნინო სურგულაძე."
+   }
+  },
+  {
+   "id": "vie-ent",
+   "s": "2026-10-21",
+   "e": "2026-10-21",
+   "h": "wso",
+   "ty": "run",
+   "t": "Die Entführung aus dem Serail",
+   "c": "Mozart",
+   "u": "https://www.wiener-staatsoper.at",
+   "n": {
+    "en": "Performance on 21 Oct 2026 (listed by the house).",
+    "it": "Recita del 21 ott 2026 (da cartellone).",
+    "ka": "წარმოდგენა 21 ოქტომბერს, 2026 (თეატრის რეპერტუარის მიხედვით)."
    }
   }
  ],
