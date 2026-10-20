@@ -1519,7 +1519,66 @@
      "s": "Opera Magazine"
     }
    ]
-  }
+  },
+  "img": "images/nino/ns-portrait.jpg",
+  "gallery": [
+   {
+    "src": "images/nino/ns-1.jpg",
+    "c": {
+     "en": "Photo: Marco Impallomeni",
+     "it": "Foto: Marco Impallomeni",
+     "ka": "ფოტო: მარკო იმპალომენი"
+    }
+   },
+   {
+    "src": "images/nino/ns-2.jpg",
+    "c": {
+     "en": "Photo: Marco Impallomeni",
+     "it": "Foto: Marco Impallomeni",
+     "ka": "ფოტო: მარკო იმპალომენი"
+    }
+   },
+   {
+    "src": "images/nino/ns-3.jpg",
+    "c": {
+     "en": "Photo: Marco Impallomeni",
+     "it": "Foto: Marco Impallomeni",
+     "ka": "ფოტო: მარკო იმპალომენი"
+    }
+   },
+   {
+    "src": "images/nino/ns-4.jpg",
+    "c": {
+     "en": "Photo: Marco Impallomeni",
+     "it": "Foto: Marco Impallomeni",
+     "ka": "ფოტო: მარკო იმპალომენი"
+    }
+   },
+   {
+    "src": "images/nino/ns-5.jpg",
+    "c": {
+     "en": "Photo: Marco Impallomeni",
+     "it": "Foto: Marco Impallomeni",
+     "ka": "ფოტო: მარკო იმპალომენი"
+    }
+   },
+   {
+    "src": "images/nino/ns-6.jpg",
+    "c": {
+     "en": "Photo: Marco Impallomeni",
+     "it": "Foto: Marco Impallomeni",
+     "ka": "ფოტო: მარკო იმპალომენი"
+    }
+   },
+   {
+    "src": "images/nino/ns-7.jpg",
+    "c": {
+     "en": "Photo: Marco Impallomeni",
+     "it": "Foto: Marco Impallomeni",
+     "ka": "ფოტო: მარკო იმპალომენი"
+    }
+   }
+  ]
  },
  "tbs": {
   "name": {

@@ -149,7 +149,7 @@ footer{margin-top:40px;padding-top:16px;border-top:1px solid var(--line);font-si
 .vcard .play{width:38px;height:38px;border-radius:50%;background:var(--accent);color:var(--accent-fg);display:grid;place-items:center;font-size:.9rem;padding-left:3px}
 .vcard b{font-family:var(--font-display);font-size:1.15rem;line-height:1.15}
 .vcard small{color:var(--muted)}
-.gal{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:12px}.gal figure{margin:0;border:1px solid var(--line);background:var(--surface)}.gal img{display:block;width:100%;aspect-ratio:4/5;object-fit:cover}.gal figcaption{font-size:.8rem;color:var(--muted);padding:6px 8px}
+.gal{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:12px}.gal figure{margin:0;border:1px solid var(--line);background:var(--surface)}.gal img{display:block;width:100%;aspect-ratio:4/5;object-fit:cover;object-position:center 22%}.gal figcaption{font-size:.8rem;color:var(--muted);padding:6px 8px}
 .bio{max-width:72ch}.bio h3{font-family:var(--font-display);font-size:1.35rem;margin:20px 0 4px;color:var(--accent)}.bio p{margin:0 0 10px}
 .rcards{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:16px;margin-top:12px}.rcard{border:1px solid var(--line);background:var(--surface);display:flex;flex-direction:column;min-width:0}.rph{display:block;background:linear-gradient(160deg,var(--velvet-2),var(--velvet-3))}.rph img{display:block;width:100%;aspect-ratio:4/5;object-fit:cover}.rph.noimg{display:none}.rb{padding:12px 14px}.rb>b{font-family:var(--font-display);font-size:1.15rem}.rq{margin:10px 0 0;padding:0 0 0 12px;border-left:3px solid var(--brass)}.rq p{margin:0 0 4px;font-style:italic}.rq .qo{display:block;color:var(--muted);font-size:.78rem;margin-bottom:4px}.rq footer{font-size:.84rem;color:var(--muted)}.rq .tr{font-size:.75rem}.rmore{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:12px 24px;margin-top:16px}
 
@@ -243,6 +243,7 @@ h1.pg{font-size:1.9rem;line-height:1.1;margin:0 0 6px}
   .bio p{break-inside:avoid-column;orphans:2;widows:2}
 }
 .src{font-size:.78rem;color:var(--muted);margin:4px 0 0}
+@media (max-width:560px){.gal{grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}.gal figcaption{font-size:.7rem;padding:5px 6px}}
 </style>
 
 <header class="mast">
@@ -272,7 +273,7 @@ var DATA=null,FEED={updated:"",items:[]};
 var UI={
  en:{tag:"Opera calendar, premieres, reviews",ov:"Overview",cal:"Calendar",pre:"Premieres",rev:"Reviews",tbs:"Tbilisi Opera",nino:"Nino Surguladze",
   h1:"The 2026–27 season at a glance",lede:"What is on, where and when: premieres, season announcements and reviews from the big houses, plus a page for the Georgian mezzo-soprano Nino Surguladze.",
-  hs:"Opera houses",hn:"upcoming",hcred:"Photos load from Wikipedia and Wikimedia Commons (free licences). If a photo does not load, a monogram is shown.",vt:"Watch and listen",vwatch:"Search on YouTube",vnote:"Each card opens a YouTube search, so the videos are always recent. They belong to their owners.",pcred:"Photo: Wikipedia / Wikimedia Commons",fh:"Latest headlines",fn:"Latest mentions of Nino Surguladze",fnote:"Collected automatically every day from public news feeds. Headlines are shown in their original language.",upd:"Data updated",up:"Upcoming",past:"Past",allh:"All houses",house:"House",show:"Show",
+  hs:"Opera houses",hn:"upcoming",hcred:"Photos load from Wikipedia and Wikimedia Commons (free licences). If a photo does not load, a monogram is shown.",vt:"Watch and listen",vwatch:"Search on YouTube",vnote:"Each card opens a YouTube search, so the videos are always recent. They belong to their owners.",pcred:"Photo: Marco Impallomeni",fh:"Latest headlines",fn:"Latest mentions of Nino Surguladze",fnote:"Collected automatically every day from public news feeds. Headlines are shown in their original language.",upd:"Data updated",up:"Upcoming",past:"Past",allh:"All houses",house:"House",show:"Show",
   s1:"upcoming productions",s2:"premieres",s3:"opera houses",s4:"reviews",
   next:"Next on stage",news:"Season announcements",pt:"Premieres this season",ct:"Calendar",
   ty:{new:"New production",world:"World premiere",cpremiere:"Premiere",revival:"Revival",run:"In repertoire"},
@@ -284,7 +285,7 @@ var UI={
   foot:"Compiled from the linked public sources on 18 October 2026. Descriptions are paraphrased; follow the links for the original texts. Check dates and casts with the theatre before you buy tickets."},
  it:{tag:"Calendario, prime e recensioni d'opera",ov:"Panoramica",cal:"Calendario",pre:"Prime",rev:"Recensioni",tbs:"Opera di Tbilisi",nino:"Nino Surguladze",
   h1:"La stagione 2026–27 a colpo d'occhio",lede:"Cosa va in scena, dove e quando: prime, annunci di stagione e recensioni dai grandi teatri, più una pagina sul mezzosoprano georgiano Nino Surguladze.",
-  hs:"Teatri d'opera",hn:"in programma",hcred:"Le foto vengono caricate da Wikipedia e Wikimedia Commons (licenze libere). Se una foto non si carica, appare un monogramma.",vt:"Guarda e ascolta",vwatch:"Cerca su YouTube",vnote:"Le schede aprono ricerche su YouTube per ogni tema, così i video sono sempre recenti. Appartengono ai rispettivi autori.",pcred:"Foto: Wikipedia / Wikimedia Commons",fh:"Ultime notizie",fn:"Ultime menzioni di Nino Surguladze",fnote:"Raccolte automaticamente ogni giorno da feed pubblici. I titoli restano nella lingua originale.",upd:"Dati aggiornati",up:"In programma",past:"Passati",allh:"Tutti i teatri",house:"Teatro",show:"Mostra",
+  hs:"Teatri d'opera",hn:"in programma",hcred:"Le foto vengono caricate da Wikipedia e Wikimedia Commons (licenze libere). Se una foto non si carica, appare un monogramma.",vt:"Guarda e ascolta",vwatch:"Cerca su YouTube",vnote:"Le schede aprono ricerche su YouTube per ogni tema, così i video sono sempre recenti. Appartengono ai rispettivi autori.",pcred:"Foto: Marco Impallomeni",fh:"Ultime notizie",fn:"Ultime menzioni di Nino Surguladze",fnote:"Raccolte automaticamente ogni giorno da feed pubblici. I titoli restano nella lingua originale.",upd:"Dati aggiornati",up:"In programma",past:"Passati",allh:"Tutti i teatri",house:"Teatro",show:"Mostra",
   s1:"produzioni in programma",s2:"prime",s3:"teatri",s4:"recensioni",
   next:"Prossimamente in scena",news:"Annunci di stagione",pt:"Prime della stagione",ct:"Calendario",
   ty:{new:"Nuova produzione",world:"Prima assoluta",cpremiere:"Prima",revival:"Ripresa",run:"In repertorio"},
@@ -296,7 +297,7 @@ var UI={
   foot:"Compilato dalle fonti pubbliche collegate il 18 ottobre 2026. Le descrizioni sono parafrasate; per i testi originali seguite i link. Prima di comprare i biglietti controllate date e cast con il teatro."},
  ka:{tag:"საოპერო კალენდარი, პრემიერები, რეცენზიები",ov:"მიმოხილვა",cal:"კალენდარი",pre:"პრემიერები",rev:"რეცენზიები",tbs:"თბილისის ოპერა",nino:"ნინო სურგულაძე",
   h1:"2026–27 სეზონი ერთი ნახვით",lede:"რა მიდის, სად და როდის: პრემიერები, ანონსები და რეცენზიები წამყვანი თეატრებიდან, ცალკე განყოფილებით ქართველი მეცოსოპრანო ნინო სურგულაძისთვის.",
-  hs:"ოპერის თეატრები",hn:"მოსალოდნელი",hcred:"ფოტოები იტვირთება Wikipedia-სა და Wikimedia Commons-იდან (თავისუფალი ლიცენზიები). თუ ფოტო არ ჩაიტვირთა, ნაცვლად ჩანს მონოგრამა.",vt:"ვუყუროთ და მოვისმინოთ",vwatch:"ძებნა YouTube-ზე",vnote:"ბარათები ხსნის YouTube-ის ძიებას თემის მიხედვით, ამიტომ ვიდეოები ყოველთვის ახალია. ისინი მათ ავტორებს ეკუთვნის.",pcred:"ფოტო: Wikipedia / Wikimedia Commons",fh:"უახლესი სათაურები",fn:"ნინო სურგულაძის უახლესი ხსენებები",fnote:"ყოველდღე ავტომატურად გროვდება ღია საინფორმაციო არხებიდან. სათაურები ორიგინალ ენაზე რჩება.",upd:"მონაცემები განახლდა",up:"მოსალოდნელი",past:"განვლილი",allh:"ყველა თეატრი",house:"თეატრი",show:"ჩვენება",
+  hs:"ოპერის თეატრები",hn:"მოსალოდნელი",hcred:"ფოტოები იტვირთება Wikipedia-სა და Wikimedia Commons-იდან (თავისუფალი ლიცენზიები). თუ ფოტო არ ჩაიტვირთა, ნაცვლად ჩანს მონოგრამა.",vt:"ვუყუროთ და მოვისმინოთ",vwatch:"ძებნა YouTube-ზე",vnote:"ბარათები ხსნის YouTube-ის ძიებას თემის მიხედვით, ამიტომ ვიდეოები ყოველთვის ახალია. ისინი მათ ავტორებს ეკუთვნის.",pcred:"ფოტო: მარკო იმპალომენი",fh:"უახლესი სათაურები",fn:"ნინო სურგულაძის უახლესი ხსენებები",fnote:"ყოველდღე ავტომატურად გროვდება ღია საინფორმაციო არხებიდან. სათაურები ორიგინალ ენაზე რჩება.",upd:"მონაცემები განახლდა",up:"მოსალოდნელი",past:"განვლილი",allh:"ყველა თეატრი",house:"თეატრი",show:"ჩვენება",
   s1:"მოსალოდნელი დადგმა",s2:"პრემიერა",s3:"თეატრი",s4:"რეცენზია",
   next:"უახლოესი წარმოდგენები",news:"სეზონის ანონსები",pt:"სეზონის პრემიერები",ct:"კალენდარი",
   ty:{new:"ახალი დადგმა",world:"მსოფლიო პრემიერა",cpremiere:"პრემიერა",revival:"აღდგენილი დადგმა",run:"რეპერტუარში"},
@@ -434,7 +435,7 @@ function vTbilisi(){
 function vNino(){
   var u=UI[lang],N=DATA.nino;
   var h='<div class="hero nino-hero"><div class="portrait" data-wiki="'+esc(N.w||"")+'" data-img="'+esc(N.img||"")+'"><span>NS</span></div><div class="hero-in"><span class="stamp">'+esc(u.nt)+'</span><h1>'+esc(u.nino)+'</h1>'+
-   '<div class="chips">'+N.awards.map(function(a){return '<span class="chip">'+esc(T(a))+'</span>'}).join("")+'</div><p class="pcred"><a href="https://en.wikipedia.org/wiki/Nino_Surguladze" target="_blank" rel="noopener">'+esc(u.pcred)+' ↗</a></p></div></div>'+
+   '<div class="chips">'+N.awards.map(function(a){return '<span class="chip">'+esc(T(a))+'</span>'}).join("")+'</div><p class="pcred">'+esc(u.pcred)+'</p></div></div>'+
    '<div class="notice">'+esc(u.note1)+'</div>'+bioBlock()+
    '<h2 class="block-title" style="margin-top:22px">'+esc(u.nl)+'</h2><ul class="tl">'+
    N.timeline.map(function(x){return '<li><span class="y">'+esc(x.y)+'</span><div><p>'+esc(T(x.t))+'</p>'+links(x.l)+'</div></li>'}).join("")+'</ul>'+
