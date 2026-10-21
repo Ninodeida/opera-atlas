@@ -1,0 +1,125 @@
+{
+ "id": "cecilia-bartoli",
+ "name": {
+  "en": "Cecilia Bartoli",
+  "it": "Cecilia Bartoli",
+  "ka": "ჩეჩილია ბარტოლი"
+ },
+ "vtype": {
+  "en": "Mezzo-soprano",
+  "it": "Mezzosoprano",
+  "ka": "მეცოსოპრანო"
+ },
+ "life": {
+  "en": "b. 4 Jun 1966, Rome",
+  "it": "n. 4 giu 1966, Roma",
+  "ka": "დ. 1966 წლის 4 ივნისი, რომი"
+ },
+ "bio": {
+  "en": [
+   "Cecilia Bartoli was born in Rome into a family of singers and studied music at Santa Cecilia in Rome. She became internationally known in the late 1980s and early 1990s through recitals, recordings and stage roles in Rossini and Mozart.",
+   "She made her Metropolitan Opera debut in 1996 as Despina in Così fan tutte. Her repertoire centres on Rossini (Rosina, Cenerentola), Mozart (Cherubino, Dorabella, Zerlina, Despina) and Baroque and early-Classical music, including projects that revived forgotten composers such as Agostino Steffani and the castrato repertoire.",
+   "Since 2012 she has been artistic director of the Salzburg Whitsun Festival, and since 2023 artistic director of the Opéra de Monte-Carlo. She records for Decca and has received multiple Grammy Awards."
+  ],
+  "it": [
+   "Cecilia Bartoli nacque a Roma in una famiglia di cantanti e studiò musica a Roma, a Santa Cecilia. Si affermò a livello internazionale tra la fine degli anni Ottanta e l'inizio dei Novanta con recital, incisioni e ruoli scenici in Rossini e Mozart.",
+   "Debuttò al Metropolitan Opera nel 1996 come Despina in Così fan tutte. Il suo repertorio è centrato su Rossini (Rosina, Cenerentola), Mozart (Cherubino, Dorabella, Zerlina, Despina) e sulla musica barocca e del primo Classicismo, con progetti che hanno riportato alla luce compositori dimenticati come Agostino Steffani e il repertorio dei castrati.",
+   "Dal 2012 è direttrice artistica del Festival di Pentecoste di Salisburgo e dal 2023 direttrice artistica dell'Opéra de Monte-Carlo. Incide per Decca e ha ricevuto più Grammy Awards."
+  ],
+  "ka": [
+   "ჩეჩილია ბარტოლი რომში მომღერალთა ოჯახში დაიბადა და რომში, სანტა-ჩეჩილიაში ისწავლა მუსიკა. საერთაშორისო აღიარება 1980-იანი წლების ბოლოსა და 1990-იანი წლების დასაწყისში მოიპოვა რეციტალებით, ჩანაწერებითა და სცენური როლებით როსინისა და მოცარტის რეპერტუარში.",
+   "მეტროპოლიტენ-ოპერაში დებიუტი 1996 წელს შედგა დესპინას პარტიით („ასე იქცევიან ყველა“). მისი რეპერტუარის ცენტრია როსინი (როზინა, ჩენერენტოლა), მოცარტი (ჩერუბინო, დორაბელა, ცერლინა, დესპინა), ბაროკოსა და ადრეული კლასიციზმის მუსიკა, მათ შორის პროექტები, რომლებმაც დავიწყებული კომპოზიტორები, მაგალითად აგოსტინო სტეფანი და კასტრატების რეპერტუარი დააბრუნა.",
+   "2012 წლიდან ზალცბურგის სულთმოფენობის ფესტივალის მხატვრული ხელმძღვანელია, 2023 წლიდან კი მონტე-კარლოს ოპერის მხატვრული ხელმძღვანელი. ჩანაწერებს Decca-ზე აკეთებს და არაერთი გრემის ჯილდო აქვს მიღებული."
+  ]
+ },
+ "roles": [
+  {
+   "n": "Rosina (Il barbiere di Siviglia)",
+   "c": "Rossini"
+  },
+  {
+   "n": "Angelina (La Cenerentola)",
+   "c": "Rossini"
+  },
+  {
+   "n": "Cherubino (Le nozze di Figaro)",
+   "c": "Mozart"
+  },
+  {
+   "n": "Dorabella (Così fan tutte)",
+   "c": "Mozart"
+  },
+  {
+   "n": "Despina (Così fan tutte)",
+   "c": "Mozart"
+  },
+  {
+   "n": "Zerlina (Don Giovanni)",
+   "c": "Mozart"
+  },
+  {
+   "n": "Cleopatra (Giulio Cesare)",
+   "c": "Handel"
+  }
+ ],
+ "tl": [
+  {
+   "y": "1966",
+   "t": {
+    "en": "Born in Rome",
+    "it": "Nasce a Roma",
+    "ka": "დაიბადა რომში"
+   }
+  },
+  {
+   "y": "1996",
+   "t": {
+    "en": "Metropolitan Opera debut (Despina)",
+    "it": "Debutto al Metropolitan Opera (Despina)",
+    "ka": "დებიუტი მეტროპოლიტენ-ოპერაში (დესპინა)"
+   }
+  },
+  {
+   "y": "2012",
+   "t": {
+    "en": "Becomes artistic director of the Salzburg Whitsun Festival",
+    "it": "Diventa direttrice artistica del Festival di Pentecoste di Salisburgo",
+    "ka": "ხდება ზალცბურგის სულთმოფენობის ფესტივალის მხატვრული ხელმძღვანელი"
+   }
+  },
+  {
+   "y": "2023",
+   "t": {
+    "en": "Becomes artistic director of the Opéra de Monte-Carlo",
+    "it": "Diventa direttrice artistica dell'Opéra de Monte-Carlo",
+    "ka": "ხდება მონტე-კარლოს ოპერის მხატვრული ხელმძღვანელი"
+   }
+  }
+ ],
+ "notes": [
+  {
+   "en": "Sources differ on details of her early training (including the name of the Santa Cecilia institution) and first stage appearances, so those are not given as dated milestones here.",
+   "it": "Le fonti divergono sui dettagli della formazione iniziale (compreso il nome dell'istituzione di Santa Cecilia) e dei primi debutti, perciò qui non sono indicati come tappe datate.",
+   "ka": "წყაროები განსხვავდება მისი ადრეული განათლების (მათ შორის სანტა-ჩეჩილიას დაწესებულების დასახელების) და პირველი სცენური გამოსვლების დეტალებზე, ამიტომ აქ ისინი დათარიღებულ ეტაპებად არ არის მოცემული."
+  }
+ ],
+ "yt": "Cecilia Bartoli Rossini aria",
+ "src": [
+  {
+   "n": "Encyclopaedia Britannica — Cecilia Bartoli",
+   "u": "https://www.britannica.com/biography/Cecilia-Bartoli"
+  },
+  {
+   "n": "Wikipedia — Cecilia Bartoli",
+   "u": "https://en.wikipedia.org/wiki/Cecilia_Bartoli"
+  },
+  {
+   "n": "Cecilia Bartoli — official website",
+   "u": "https://www.ceciliabartoli.com/"
+  },
+  {
+   "n": "Salzburg Whitsun Festival",
+   "u": "https://www.salzburgfestival.at/"
+  }
+ ]
+}

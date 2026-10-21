@@ -1,1 +1,151 @@
-
+{
+ "id": "maria-callas",
+ "name": {
+  "en": "Maria Callas",
+  "it": "Maria Callas",
+  "ka": "მარია კალასი"
+ },
+ "vtype": {
+  "en": "Soprano (see note on voice classification)",
+  "it": "Soprano (vedi nota sulla classificazione vocale)",
+  "ka": "სოპრანო (იხ. შენიშვნა ხმის კლასიფიკაციაზე)"
+ },
+ "life": {
+  "en": "b. 2 Dec 1923, New York · d. 16 Sep 1977, Paris",
+  "it": "n. 2 dic 1923, New York · m. 16 set 1977, Parigi",
+  "ka": "დ. 1923 წლის 2 დეკემბერი, ნიუ-იორკი · გ. 1977 წლის 16 სექტემბერი, პარიზი"
+ },
+ "bio": {
+  "en": [
+   "Maria Callas (born Kalogeropoulos) was born in New York to Greek parents and trained in Athens, notably with the Spanish soprano Elvira de Hidalgo. She made her professional debut in Athens in the early 1940s.",
+   "Her Italian career began at the Verona Arena in 1947 (La Gioconda). In 1949 she stepped in at short notice as Elvira in I puritani in Venice, which opened the way to the major Italian houses. At La Scala and elsewhere she became closely associated with Norma, Violetta, Lucia, Medea and Tosca, and with the revival of bel canto repertoire that had been rarely staged.",
+   "She made her Metropolitan Opera debut in 1956 (Norma). She lost a great deal of weight in the early 1950s, and her voice and career were the subject of constant public attention. Her last staged opera performance was Tosca at Covent Garden in 1965; she died in Paris in 1977."
+  ],
+  "it": [
+   "Maria Callas (nata Kalogeropoulos) nacque a New York da genitori greci e si formò ad Atene, in particolare con il soprano spagnolo Elvira de Hidalgo. Debuttò professionalmente ad Atene nei primi anni Quaranta.",
+   "La carriera italiana iniziò all'Arena di Verona nel 1947 (La Gioconda). Nel 1949 sostituì con breve preavviso Elvira ne I puritani a Venezia, aprendosi la strada verso i principali teatri italiani. Alla Scala e altrove si legò a Norma, Violetta, Lucia, Medea e Tosca e alla riscoperta di un repertorio belcantistico raramente rappresentato.",
+   "Debuttò al Metropolitan Opera nel 1956 (Norma). All'inizio degli anni Cinquanta perse molto peso e la sua voce e la sua carriera furono oggetto di costante attenzione pubblica. L'ultima recita d'opera in scena fu Tosca al Covent Garden nel 1965; morì a Parigi nel 1977."
+  ],
+  "ka": [
+   "მარია კალასი (დაბადებისას კალოგეროპულოსი) ნიუ-იორკში ბერძენი მშობლების ოჯახში დაიბადა და ათენში ისწავლა, მათ შორის ესპანელ სოპრანო ელვირა დე იდალგოსთან. პროფესიული დებიუტი ათენში 1940-იანი წლების დასაწყისში შედგა.",
+   "იტალიური კარიერა ვერონის არენაზე 1947 წელს დაიწყო („ჯოკონდა“). 1949 წელს ვენეციაში მცირე გაფრთხილებით ჩაანაცვლა ელვირას პარტიაში ოპერაში „პურიტანები“, რამაც იტალიის წამყვან თეატრებში გზა გაუხსნა. ლა სკალასა და სხვაგან მას განსაკუთრებით უკავშირდება ნორმა, ვიოლეტა, ლუჩია, მედეა და ტოსკა, ასევე იშვიათად დადგმული ბელკანტოს რეპერტუარის აღორძინება.",
+   "მეტროპოლიტენ-ოპერაში 1956 წელს დებიუტი ნორმას პარტიით შედგა. 1950-იანი წლების დასაწყისში ბევრი წონა დაკარგა; მისი ხმა და კარიერა მუდმივი საზოგადოებრივი ყურადღების საგანი იყო. სცენაზე ბოლო საოპერო სპექტაკლი იყო „ტოსკა“ კოვენ-გარდენში 1965 წელს; გარდაიცვალა პარიზში 1977 წელს."
+  ]
+ },
+ "roles": [
+  {
+   "n": "Norma",
+   "c": "Bellini"
+  },
+  {
+   "n": "Violetta (La traviata)",
+   "c": "Verdi"
+  },
+  {
+   "n": "Lucia (Lucia di Lammermoor)",
+   "c": "Donizetti"
+  },
+  {
+   "n": "Tosca",
+   "c": "Puccini"
+  },
+  {
+   "n": "Medea",
+   "c": "Cherubini"
+  },
+  {
+   "n": "Amina (La sonnambula)",
+   "c": "Bellini"
+  },
+  {
+   "n": "Anna Bolena",
+   "c": "Donizetti"
+  },
+  {
+   "n": "Lady Macbeth",
+   "c": "Verdi"
+  }
+ ],
+ "tl": [
+  {
+   "y": "1923",
+   "t": {
+    "en": "Born in New York",
+    "it": "Nasce a New York",
+    "ka": "დაიბადა ნიუ-იორკში"
+   }
+  },
+  {
+   "y": "1947",
+   "t": {
+    "en": "Italian debut, La Gioconda, Verona Arena",
+    "it": "Debutto in Italia, La Gioconda, Arena di Verona",
+    "ka": "იტალიური დებიუტი, „ჯოკონდა“, ვერონის არენა"
+   }
+  },
+  {
+   "y": "1949",
+   "t": {
+    "en": "Replaces at short notice as Elvira in I puritani, Venice",
+    "it": "Sostituisce con breve preavviso Elvira ne I puritani, Venezia",
+    "ka": "მცირე გაფრთხილებით ჩაანაცვლებს ელვირას, „პურიტანები“, ვენეცია"
+   }
+  },
+  {
+   "y": "1956",
+   "t": {
+    "en": "Metropolitan Opera debut (Norma)",
+    "it": "Debutto al Metropolitan Opera (Norma)",
+    "ka": "დებიუტი მეტროპოლიტენ-ოპერაში (ნორმა)"
+   }
+  },
+  {
+   "y": "1965",
+   "t": {
+    "en": "Last staged opera: Tosca, Covent Garden",
+    "it": "Ultima opera in scena: Tosca, Covent Garden",
+    "ka": "ბოლო სცენური ოპერა: „ტოსკა“, კოვენ-გარდენი"
+   }
+  },
+  {
+   "y": "1977",
+   "t": {
+    "en": "Dies in Paris",
+    "it": "Muore a Parigi",
+    "ka": "გარდაიცვალა პარიზში"
+   }
+  }
+ ],
+ "notes": [
+  {
+   "en": "Voice classification: sources describe her as a soprano (often a dramatic coloratura, \"soprano drammatico d'agilità\"); some commentators note a darker, mezzo-like colour in the lower register. This page uses \"soprano\".",
+   "it": "Classificazione vocale: le fonti la descrivono come soprano (spesso drammatico d'agilità); alcuni commentatori notano un colore più scuro, quasi da mezzosoprano, nel registro grave. Questa pagina usa \"soprano\".",
+   "ka": "ხმის კლასიფიკაცია: წყაროები მას სოპრანოდ მოიხსენიებენ (ხშირად დრამატულ კოლორატურულად); ზოგი კომენტატორი დაბალ რეგისტრში მეცოსოპრანოსთვის დამახასიათებელ მუქ შეფერილობას აღნიშნავს. ამ გვერდზე გამოყენებულია „სოპრანო“."
+  },
+  {
+   "en": "Some early-career dates differ between sources (e.g. the exact date of her Athens debut); only the widely agreed milestones are listed.",
+   "it": "Alcune date dell'inizio carriera differiscono tra le fonti (ad es. la data esatta del debutto ad Atene); sono indicate solo le tappe su cui c'è ampio accordo.",
+   "ka": "კარიერის დასაწყისის ზოგი თარიღი წყაროებში განსხვავდება (მაგ. ათენის დებიუტის ზუსტი თარიღი); მითითებულია მხოლოდ ფართოდ აღიარებული ეტაპები."
+  },
+  {
+   "en": "Her birth name is spelled differently in different sources, so only the surname is given here.",
+   "it": "Il nome di nascita è scritto in modi diversi nelle fonti, perciò qui è indicato solo il cognome.",
+   "ka": "დაბადებისას სახელი წყაროებში სხვადასხვანაირადაა დაწერილი, ამიტომ აქ მხოლოდ გვარია მითითებული."
+  }
+ ],
+ "yt": "Maria Callas Casta diva",
+ "src": [
+  {
+   "n": "Encyclopaedia Britannica — Maria Callas",
+   "u": "https://www.britannica.com/biography/Maria-Callas"
+  },
+  {
+   "n": "Wikipedia — Maria Callas",
+   "u": "https://en.wikipedia.org/wiki/Maria_Callas"
+  },
+  {
+   "n": "Metropolitan Opera Archives",
+   "u": "https://archives.metopera.org/"
+  }
+ ]
+}

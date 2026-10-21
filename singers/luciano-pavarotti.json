@@ -1,0 +1,145 @@
+{
+ "id": "luciano-pavarotti",
+ "name": {
+  "en": "Luciano Pavarotti",
+  "it": "Luciano Pavarotti",
+  "ka": "ლუჩანო პავაროტი"
+ },
+ "vtype": {
+  "en": "Lyric tenor",
+  "it": "Tenore lirico",
+  "ka": "ლირიკული ტენორი"
+ },
+ "life": {
+  "en": "b. 12 Oct 1935, Modena · d. 6 Sep 2007, Modena",
+  "it": "n. 12 ott 1935, Modena · m. 6 set 2007, Modena",
+  "ka": "დ. 1935 წლის 12 ოქტომბერი, მოდენა · გ. 2007 წლის 6 სექტემბერი, მოდენა"
+ },
+ "bio": {
+  "en": [
+   "Luciano Pavarotti was born in Modena and began his career after winning an international competition in Reggio Emilia, where he made his opera debut as Rodolfo in La bohème in April 1961.",
+   "He appeared at Covent Garden in 1963 and at the Metropolitan Opera from 1968. He was celebrated for his bright high register, above all as Tonio in La fille du régiment, Nemorino, the Duke of Mantua and Rodolfo.",
+   "In 1990 he took part in the first Three Tenors concert in Rome with Plácido Domingo and José Carreras, and later organised the Pavarotti & Friends charity concerts. His last staged opera performance was Tosca at the Metropolitan Opera in March 2004; he died in Modena in 2007."
+  ],
+  "it": [
+   "Luciano Pavarotti nacque a Modena e iniziò la carriera dopo aver vinto un concorso internazionale a Reggio Emilia, dove debuttò in teatro come Rodolfo ne La bohème nell'aprile 1961.",
+   "Cantò al Covent Garden nel 1963 e al Metropolitan Opera dal 1968. Fu celebrato per il registro acuto luminoso, soprattutto come Tonio ne La fille du régiment, Nemorino, il Duca di Mantova e Rodolfo.",
+   "Nel 1990 partecipò a Roma al primo concerto dei Tre Tenori con Plácido Domingo e José Carreras e in seguito organizzò i concerti benefici Pavarotti & Friends. L'ultima recita in scena fu Tosca al Metropolitan Opera nel marzo 2004; morì a Modena nel 2007."
+  ],
+  "ka": [
+   "ლუჩანო პავაროტი მოდენაში დაიბადა და კარიერა რეჯო ემილიაში საერთაშორისო კონკურსში გამარჯვების შემდეგ დაიწყო; იქ 1961 წლის აპრილში რუდოლფოს პარტიით („ბოემა“) შედგა მისი საოპერო დებიუტი.",
+   "კოვენ-გარდენში 1963 წელს გამოვიდა, მეტროპოლიტენ-ოპერაში კი 1968 წლიდან. განთქმული იყო ნათელი მაღალი რეგისტრით, განსაკუთრებით ტონიოს („პოლკის ასული“), ნემორინოს, მანტუის ჰერცოგისა და რუდოლფოს პარტიებში.",
+   "1990 წელს რომში მონაწილეობდა „სამი ტენორის“ პირველ კონცერტში პლასიდო დომინგოსა და ხოსე კარერასთან ერთად, შემდეგ კი ორგანიზებას უწევდა საქველმოქმედო კონცერტებს Pavarotti & Friends. სცენაზე ბოლო საოპერო გამოსვლა იყო „ტოსკა“ მეტროპოლიტენ-ოპერაში 2004 წლის მარტში; გარდაიცვალა მოდენაში 2007 წელს."
+  ]
+ },
+ "roles": [
+  {
+   "n": "Rodolfo (La bohème)",
+   "c": "Puccini"
+  },
+  {
+   "n": "Cavaradossi (Tosca)",
+   "c": "Puccini"
+  },
+  {
+   "n": "Duke of Mantua (Rigoletto)",
+   "c": "Verdi"
+  },
+  {
+   "n": "Manrico (Il trovatore)",
+   "c": "Verdi"
+  },
+  {
+   "n": "Radamès (Aida)",
+   "c": "Verdi"
+  },
+  {
+   "n": "Nemorino (L'elisir d'amore)",
+   "c": "Donizetti"
+  },
+  {
+   "n": "Tonio (La fille du régiment)",
+   "c": "Donizetti"
+  }
+ ],
+ "tl": [
+  {
+   "y": "1935",
+   "t": {
+    "en": "Born in Modena",
+    "it": "Nasce a Modena",
+    "ka": "დაიბადა მოდენაში"
+   }
+  },
+  {
+   "y": "1961",
+   "t": {
+    "en": "Opera debut as Rodolfo, Reggio Emilia",
+    "it": "Debutto operistico come Rodolfo, Reggio Emilia",
+    "ka": "საოპერო დებიუტი რუდოლფოს პარტიით, რეჯო ემილია"
+   }
+  },
+  {
+   "y": "1963",
+   "t": {
+    "en": "Covent Garden debut",
+    "it": "Debutto al Covent Garden",
+    "ka": "დებიუტი კოვენ-გარდენში"
+   }
+  },
+  {
+   "y": "1968",
+   "t": {
+    "en": "Metropolitan Opera debut",
+    "it": "Debutto al Metropolitan Opera",
+    "ka": "დებიუტი მეტროპოლიტენ-ოპერაში"
+   }
+  },
+  {
+   "y": "1990",
+   "t": {
+    "en": "First Three Tenors concert, Rome",
+    "it": "Primo concerto dei Tre Tenori, Roma",
+    "ka": "„სამი ტენორის“ პირველი კონცერტი, რომი"
+   }
+  },
+  {
+   "y": "2004",
+   "t": {
+    "en": "Last staged opera: Tosca, Metropolitan Opera",
+    "it": "Ultima opera in scena: Tosca, Metropolitan Opera",
+    "ka": "ბოლო სცენური ოპერა: „ტოსკა“, მეტროპოლიტენ-ოპერა"
+   }
+  },
+  {
+   "y": "2007",
+   "t": {
+    "en": "Dies in Modena",
+    "it": "Muore a Modena",
+    "ka": "გარდაიცვალა მოდენაში"
+   }
+  }
+ ],
+ "notes": [
+  {
+   "en": "Sources differ on some details (for example the number and years of his Grammy awards, and how he learned scores). Only widely agreed facts are listed here.",
+   "it": "Le fonti divergono su alcuni dettagli (ad es. numero e anni dei Grammy e il modo in cui studiava le partiture). Qui sono riportati solo i fatti su cui c'è ampio accordo.",
+   "ka": "წყაროები ზოგ დეტალზე განსხვავდება (მაგ. გრემის ჯილდოების რაოდენობა და წლები, ან პარტიტურების შესწავლის მანერა). აქ მითითებულია მხოლოდ ფართოდ აღიარებული ფაქტები."
+  }
+ ],
+ "yt": "Luciano Pavarotti Nessun dorma",
+ "src": [
+  {
+   "n": "Encyclopaedia Britannica — Luciano Pavarotti",
+   "u": "https://www.britannica.com/biography/Luciano-Pavarotti"
+  },
+  {
+   "n": "Wikipedia — Luciano Pavarotti",
+   "u": "https://en.wikipedia.org/wiki/Luciano_Pavarotti"
+  },
+  {
+   "n": "Metropolitan Opera Archives",
+   "u": "https://archives.metopera.org/"
+  }
+ ]
+}
