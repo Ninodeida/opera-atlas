@@ -1,0 +1,163 @@
+{
+ "updated": "2026-10-21",
+ "singers": [
+  {
+   "id": "cecilia-bartoli",
+   "name": {
+    "en": "Cecilia Bartoli",
+    "it": "Cecilia Bartoli",
+    "ka": "ჩეჩილია ბარტოლი"
+   },
+   "sort": "Bartoli",
+   "aliases": [
+    "Chechilia",
+    "Cecilia",
+    "Bartoli",
+    "ბარტოლი",
+    "ჩეჩილია",
+    "ჩეჩილია ბარტოლი",
+    "ბარტოლი ჩეჩილია"
+   ],
+   "voice": "mezzo",
+   "era": "contemporary",
+   "born": 1966,
+   "died": null,
+   "country": {
+    "en": "Italy",
+    "it": "Italia",
+    "ka": "იტალია"
+   },
+   "blurb": {
+    "en": "Roman mezzo-soprano known for Rossini and Mozart, Baroque rediscoveries and artistic leadership in Salzburg and Monte-Carlo.",
+    "it": "Mezzosoprano romana nota per Rossini e Mozart, le riscoperte barocche e la direzione artistica a Salisburgo e Monte-Carlo.",
+    "ka": "რომაელი მეცოსოპრანო; ცნობილია როსინისა და მოცარტის რეპერტუარით, ბაროკოს აღმოჩენებითა და ზალცბურგისა და მონტე-კარლოს ხელმძღვანელობით."
+   },
+   "img": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Cecilia_Bartoli_2008.jpg/500px-Cecilia_Bartoli_2008.jpg",
+    "w": 500,
+    "h": 516,
+    "pos": "50% 22%",
+    "author": "Andreas Praefcke",
+    "lic": "Public domain",
+    "lic_u": "https://commons.wikimedia.org/wiki/File:Cecilia_Bartoli_2008.jpg",
+    "file": "https://commons.wikimedia.org/wiki/File:Cecilia_Bartoli_2008.jpg"
+   }
+  },
+  {
+   "id": "maria-callas",
+   "name": {
+    "en": "Maria Callas",
+    "it": "Maria Callas",
+    "ka": "მარია კალასი"
+   },
+   "sort": "Callas",
+   "aliases": [
+    "Kallas",
+    "Kalogeropoulos",
+    "La Divina",
+    "კალასი",
+    "მარია",
+    "Μαρία Κάλλας"
+   ],
+   "voice": "soprano",
+   "era": "historic",
+   "born": 1923,
+   "died": 1977,
+   "country": {
+    "en": "USA / Greece",
+    "it": "USA / Grecia",
+    "ka": "აშშ / საბერძნეთი"
+   },
+   "blurb": {
+    "en": "American-born Greek soprano, remembered for her dramatic intensity and for reviving bel canto roles in the mid-20th century.",
+    "it": "Soprano greca nata negli Stati Uniti, ricordata per l'intensità drammatica e per aver riportato in scena i ruoli del belcanto a metà Novecento.",
+    "ka": "ამერიკაში დაბადებული ბერძენი სოპრანო; დასამახსოვრებელია დრამატული ძალით და XX საუკუნის შუა ხანებში ბელკანტოს როლების აღორძინებით."
+   },
+   "img": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/94/Maria_Callas_1957_Milano.jpg",
+    "w": 595,
+    "h": 600,
+    "pos": "50% 20%",
+    "author": "Federico Patellani",
+    "lic": "Public domain",
+    "lic_u": "https://commons.wikimedia.org/wiki/File:Maria_Callas_1957_Milano.jpg",
+    "file": "https://commons.wikimedia.org/wiki/File:Maria_Callas_1957_Milano.jpg"
+   }
+  },
+  {
+   "id": "luciano-pavarotti",
+   "name": {
+    "en": "Luciano Pavarotti",
+    "it": "Luciano Pavarotti",
+    "ka": "ლუჩანო პავაროტი"
+   },
+   "sort": "Pavarotti",
+   "aliases": [
+    "Pavaroti",
+    "პავაროტი",
+    "ლუჩანო",
+    "Lučano"
+   ],
+   "voice": "tenor",
+   "era": "historic",
+   "born": 1935,
+   "died": 2007,
+   "country": {
+    "en": "Italy",
+    "it": "Italia",
+    "ka": "იტალია"
+   },
+   "blurb": {
+    "en": "Lyric tenor from Modena, known as the \"King of the High Cs\" and as one of the Three Tenors.",
+    "it": "Tenore lirico di Modena, noto come il \"re dei do di petto\" e come uno dei Tre Tenori.",
+    "ka": "მოდენელი ლირიკული ტენორი; ცნობილია, როგორც „მაღალი დოების მეფე“ და „სამი ტენორის“ ერთ-ერთი წევრი."
+   },
+   "img": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Luciano_Pavarotti_2004.jpg/500px-Luciano_Pavarotti_2004.jpg",
+    "w": 500,
+    "h": 714,
+    "pos": "50% 18%",
+    "author": "Kingkongphoto & www.celebrity-photos.com",
+    "lic": "CC BY-SA 2.0",
+    "lic_u": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "file": "https://commons.wikimedia.org/wiki/File:Luciano_Pavarotti_2004.jpg"
+   }
+  },
+  {
+   "id": "nino-surguladze",
+   "to": "nino",
+   "name": {
+    "en": "Nino Surguladze",
+    "it": "Nino Surguladze",
+    "ka": "ნინო სურგულაძე"
+   },
+   "sort": "Surguladze",
+   "aliases": [
+    "სურგულაძე",
+    "ნინო",
+    "Surgulatze",
+    "Surguladse"
+   ],
+   "voice": "mezzo",
+   "era": "contemporary",
+   "born": null,
+   "died": null,
+   "country": {
+    "en": "Georgia",
+    "it": "Georgia",
+    "ka": "საქართველო"
+   },
+   "blurb": {
+    "en": "Georgian mezzo-soprano born in Tbilisi. Her biography, roles, photos and reviews have a page of their own on this site.",
+    "it": "Mezzosoprano georgiana nata a Tbilisi. Biografia, ruoli, foto e recensioni hanno una pagina dedicata in questo sito.",
+    "ka": "თბილისში დაბადებული ქართველი მეცოსოპრანო. მისი ბიოგრაფია, როლები, ფოტოები და რეცენზიები ამ საიტზე ცალკე გვერდზეა."
+   },
+   "img": {
+    "src": "images/nino/ns-portrait.jpg",
+    "w": 560,
+    "h": 700,
+    "pos": "50% 20%"
+   }
+  }
+ ]
+}

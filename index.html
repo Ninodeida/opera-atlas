@@ -221,7 +221,7 @@ h1.pg{font-size:1.9rem;line-height:1.1;margin:0 0 6px}
  .nino-hero .portrait{width:104px}
  .nino-hero .hero-in{display:contents}
  .nino-hero .stamp{grid-column:2;grid-row:1}.nino-hero h1{grid-column:2;grid-row:2;margin:0}
- .nino-hero .chips{grid-column:1/-1}.nino-hero .pcred{grid-column:1/-1;font-size:.78rem}
+ .nino-hero .chips,.nino-hero .fullname{grid-column:1/-1}.nino-hero .pcred{grid-column:1/-1;font-size:.78rem}
  .chips .chip{font-size:.78rem;padding:3px 9px}
  .links a{padding:8px 12px;min-height:40px}
  .bio p,.review p{font-size:1rem}
@@ -260,6 +260,38 @@ h1.pg{font-size:1.9rem;line-height:1.1;margin:0 0 6px}
 .lb-p{left:max(10px,env(safe-area-inset-left));top:50%;margin-top:-24px}.lb-n{right:max(10px,env(safe-area-inset-right));top:50%;margin-top:-24px}
 @media (max-width:560px){.lb-fig{padding:0}.lb-img{border-width:0;max-height:calc(100vh - 110px);max-height:calc(100dvh - 110px)}.lb-p,.lb-n{background:rgba(24,4,11,.6);top:calc(50% - 40px)}}
 @media (prefers-reduced-motion:no-preference){.lb{animation:lbin .15s ease-out}@keyframes lbin{from{opacity:0}to{opacity:1}}}
+/* Opera Stars */
+.stintro{margin:0 0 14px}
+.stsearch input{width:100%;max-width:420px;font:inherit;padding:9px 12px;border:1px solid var(--gold-2);border-radius:8px;background:#fff;color:#2a1018}
+.stsearch input:focus-visible{outline:3px solid var(--gold-2);outline-offset:1px}
+.stf{display:flex;flex-wrap:wrap;align-items:center;gap:6px;margin:10px 0 0}
+.stfl{font-size:.8rem;color:var(--muted);margin-right:4px;min-width:5.5em}
+.stfb{font:inherit;font-size:.85rem;padding:4px 12px;border:1px solid var(--panel-line);border-radius:999px;background:var(--surface);color:var(--fg);cursor:pointer}
+.stfb[aria-pressed="true"]{background:var(--velvet-2);border-color:var(--velvet-2);color:#fff}
+.stfb:focus-visible{outline:3px solid var(--gold-2);outline-offset:2px}
+.stgrid{list-style:none;margin:18px 0 0;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:16px}
+.stc{display:flex;flex-direction:column;height:100%;text-decoration:none;color:inherit;border:1px solid var(--panel-line);border-radius:8px;overflow:hidden;background:var(--surface);transition:box-shadow .15s,border-color .15s}
+.stc:hover{border-color:var(--gold-2);box-shadow:0 6px 18px rgba(90,15,38,.18)}
+.stc:focus-visible{outline:3px solid var(--gold-2);outline-offset:2px}
+.stimg{position:relative;display:grid;place-items:center;overflow:hidden;background:linear-gradient(160deg,var(--velvet-2),var(--velvet-3));color:var(--gold);font-family:var(--font-display);font-weight:700}
+.stc .stimg{aspect-ratio:4/3;font-size:2.6rem}
+.stimg img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.stb{display:flex;flex-direction:column;gap:4px;padding:12px 14px 14px}
+.stb strong{font-family:var(--font-display);font-size:1.15rem;line-height:1.2}
+.stv{font-size:.76rem;letter-spacing:.04em;text-transform:uppercase;color:var(--velvet-2)}
+.stbl{font-size:.86rem;color:var(--muted);display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden}
+.stfoot{margin-top:18px}
+.stback{margin:0 0 12px}.stback a{color:var(--velvet-2);font-weight:600;text-decoration:none}.stback a:hover{text-decoration:underline}
+.st-hero .portrait{font-size:4rem}.st-hero .portrait .stimg{position:absolute;inset:0}
+.st-hero .portrait{position:relative;overflow:hidden}
+.stbio{max-width:70ch;margin:14px 0 0}
+.strl{list-style:none;padding:0;margin:10px 0 0;display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:6px 18px}
+.strl li{padding:6px 0;border-bottom:1px solid var(--panel-line)}.strl span{color:var(--muted);font-size:.88rem;margin-left:4px}
+.stlisten{margin:20px 0 0}.stlisten a{color:var(--velvet-2);font-weight:600}
+.stsrc{margin:8px 0 0;padding-left:1.2em}.stsrc a{color:var(--velvet-2)}
+@media (max-width:760px){.stgrid{grid-template-columns:repeat(2,1fr);gap:12px}.stc .stimg{aspect-ratio:1/1}.stb{padding:10px}.stb strong{font-size:1rem}.stbl{-webkit-line-clamp:3;font-size:.8rem}.stfl{min-width:100%}}
+@media (max-width:380px){.stgrid{grid-template-columns:1fr}}
+
 </style>
 
 <header class="mast">
@@ -287,7 +319,7 @@ h1.pg{font-size:1.9rem;line-height:1.1;margin:0 0 6px}
 var DATA=null,FEED={updated:"",items:[]};
 
 var UI={
- en:{tag:"Opera calendar, premieres, reviews",ov:"Overview",cal:"Calendar",pre:"Premieres",rev:"Reviews",tbs:"Tbilisi Opera",nino:"Nino Surguladze",
+ en:{tag:"Opera calendar, premieres, reviews",ov:"Overview",cal:"Calendar",pre:"Premieres",rev:"Reviews",st:"Stars",tbs:"Tbilisi Opera",nino:"Nino Surguladze",
   h1:"The 2026–27 season at a glance",lede:"What is on, where and when: premieres, season announcements and reviews from the big houses, plus a page for the Georgian mezzo-soprano Nino Surguladze.",
   hs:"Opera houses",hn:"upcoming",hcred:"Photos load from Wikipedia and Wikimedia Commons (free licences). If a photo does not load, a monogram is shown.",vt:"Watch and listen",vwatch:"Search on YouTube",vnote:"Each card opens a YouTube search, so the videos are always recent. They belong to their owners.",pcred:"Photo: Marco Impallomeni",fh:"Latest headlines",fn:"Latest mentions of Nino Surguladze",fnote:"Collected automatically every day from public news feeds. Headlines are shown in their original language.",upd:"Data updated",up:"Upcoming",past:"Past",allh:"All houses",house:"House",show:"Show",
   s1:"upcoming productions",s2:"premieres",s3:"opera houses",s4:"reviews",
@@ -299,7 +331,7 @@ var UI={
   nroles:"Roles and houses",naw:"Honours",
   note1:"Nino's page only includes what the linked sources publish. If a source gives no date, we leave it out.",
   foot:"Compiled from the linked public sources on 18 October 2026. Descriptions are paraphrased; follow the links for the original texts. Check dates and casts with the theatre before you buy tickets."},
- it:{tag:"Calendario, prime e recensioni d'opera",ov:"Panoramica",cal:"Calendario",pre:"Prime",rev:"Recensioni",tbs:"Opera di Tbilisi",nino:"Nino Surguladze",
+ it:{tag:"Calendario, prime e recensioni d'opera",ov:"Panoramica",cal:"Calendario",pre:"Prime",rev:"Recensioni",st:"Stelle",tbs:"Opera di Tbilisi",nino:"Nino Surguladze",
   h1:"La stagione 2026–27 a colpo d'occhio",lede:"Cosa va in scena, dove e quando: prime, annunci di stagione e recensioni dai grandi teatri, più una pagina sul mezzosoprano georgiano Nino Surguladze.",
   hs:"Teatri d'opera",hn:"in programma",hcred:"Le foto vengono caricate da Wikipedia e Wikimedia Commons (licenze libere). Se una foto non si carica, appare un monogramma.",vt:"Guarda e ascolta",vwatch:"Cerca su YouTube",vnote:"Le schede aprono ricerche su YouTube per ogni tema, così i video sono sempre recenti. Appartengono ai rispettivi autori.",pcred:"Foto: Marco Impallomeni",fh:"Ultime notizie",fn:"Ultime menzioni di Nino Surguladze",fnote:"Raccolte automaticamente ogni giorno da feed pubblici. I titoli restano nella lingua originale.",upd:"Dati aggiornati",up:"In programma",past:"Passati",allh:"Tutti i teatri",house:"Teatro",show:"Mostra",
   s1:"produzioni in programma",s2:"prime",s3:"teatri",s4:"recensioni",
@@ -311,7 +343,7 @@ var UI={
   nroles:"Ruoli e teatri",naw:"Riconoscimenti",
   note1:"La pagina di Nino riporta solo ciò che pubblicano le fonti collegate. Se una fonte non dà la data, la omettiamo.",
   foot:"Compilato dalle fonti pubbliche collegate il 18 ottobre 2026. Le descrizioni sono parafrasate; per i testi originali seguite i link. Prima di comprare i biglietti controllate date e cast con il teatro."},
- ka:{tag:"საოპერო კალენდარი, პრემიერები, რეცენზიები",ov:"მიმოხილვა",cal:"კალენდარი",pre:"პრემიერები",rev:"რეცენზიები",tbs:"თბილისის ოპერა",nino:"ნინო სურგულაძე",
+ ka:{tag:"საოპერო კალენდარი, პრემიერები, რეცენზიები",ov:"მიმოხილვა",cal:"კალენდარი",pre:"პრემიერები",rev:"რეცენზიები",st:"ვარსკვლავები",tbs:"თბილისის ოპერა",nino:"ნინო სურგულაძე",
   h1:"2026–27 სეზონი ერთი ნახვით",lede:"რა მიდის, სად და როდის: პრემიერები, ანონსები და რეცენზიები წამყვანი თეატრებიდან, ცალკე განყოფილებით ქართველი მეცოსოპრანო ნინო სურგულაძისთვის.",
   hs:"ოპერის თეატრები",hn:"მოსალოდნელი",hcred:"ფოტოები იტვირთება Wikipedia-სა და Wikimedia Commons-იდან (თავისუფალი ლიცენზიები). თუ ფოტო არ ჩაიტვირთა, ნაცვლად ჩანს მონოგრამა.",vt:"ვუყუროთ და მოვისმინოთ",vwatch:"ძებნა YouTube-ზე",vnote:"ბარათები ხსნის YouTube-ის ძიებას თემის მიხედვით, ამიტომ ვიდეოები ყოველთვის ახალია. ისინი მათ ავტორებს ეკუთვნის.",pcred:"ფოტო: მარკო იმპალომენი",fh:"უახლესი სათაურები",fn:"ნინო სურგულაძის უახლესი ხსენებები",fnote:"ყოველდღე ავტომატურად გროვდება ღია საინფორმაციო არხებიდან. სათაურები ორიგინალ ენაზე რჩება.",upd:"მონაცემები განახლდა",up:"მოსალოდნელი",past:"განვლილი",allh:"ყველა თეატრი",house:"თეატრი",show:"ჩვენება",
   s1:"მოსალოდნელი დადგმა",s2:"პრემიერა",s3:"თეატრი",s4:"რეცენზია",
@@ -329,8 +361,9 @@ var LOCALE={en:"en-GB",it:"it-IT",ka:"ka-GE"};
 var lang="ka",view="ov",hf="all",time="up";
 try{var sv=localStorage.getItem("oa-lang");if(sv&&UI[sv])lang=sv}catch(e){}
 try{var nav=(navigator.language||"").slice(0,2);if(!localStorage.getItem("oa-lang")&&UI[nav])lang=nav}catch(e){}
-var VIEWS=["ov","cal","pre","rev","tbs","nino"];
-if(VIEWS.indexOf(location.hash.slice(1))>-1)view=location.hash.slice(1);
+var VIEWS=["ov","cal","pre","rev","st","tbs","nino"],stSlug="";
+function hashParts(){var h=location.hash.slice(1).split("/"),v=VIEWS.indexOf(h[0])>-1?h[0]:"ov",sl=(v==="st"&&/^[a-z0-9-]+$/.test(h[1]||""))?h[1]:"";return{v:v,s:sl}}
+(function(){var hp=hashParts();if(location.hash){view=hp.v;stSlug=hp.s}})();
 
 function T(o){return o?(o[lang]||o.en||""):""}
 function esc(s){return String(s).replace(/[&<>"]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]})}
@@ -479,7 +512,7 @@ function qHtml(q){
 function revBlock(){
   var R=DATA.nino.rev;if(!R)return "";
   return '<h2 class="block-title" style="margin-top:28px">'+esc(T(R.title))+'</h2><p class="meta">'+esc(T(R.note))+'</p><div class="rcards">'+R.cards.map(function(c){
-    return '<article class="rcard"><a class="rph" href="'+esc(c.img)+'" target="_blank" rel="noopener"><img loading="lazy" src="'+esc(c.img)+'" alt="'+esc(T(c.cap))+'" onerror="this.parentNode.classList.add(\'noimg\')"></a><div class="rb"><b>'+esc(T(c.cap))+'</b>'+c.q.map(qHtml).join("")+'</div></article>';
+    return '<article class="rcard"><a class="rph" href="'+esc(c.img)+'" target="_blank" rel="noopener"><img loading="lazy" src="'+esc(c.img)+'" alt="'+esc(T(c.cap))+'" onerror="this.parentNode.classList.add(\'noimg\')"></a><div class="rb">'+c.q.map(qHtml).join("")+'</div></article>';
   }).join("")+'</div>'+(R.more&&R.more.length?'<div class="rmore">'+R.more.map(qHtml).join("")+'</div>':'');
 }
 function bioBlock(){
@@ -525,7 +558,7 @@ var SEOD={ka:"საოპერო კალენდარი, პრემი
  it:"Calendario, prime e recensioni dai principali teatri d'opera, con pagine sull'Opera di Tbilisi e sul mezzosoprano georgiano Nino Surguladze."};
 var LOC={ka:"ka_GE",en:"en_GB",it:"it_IT"};
 function setMeta(sel,attr,val){var e=document.querySelector(sel);if(e)e.setAttribute(attr,val)}
-var RENDER={ov:vOverview,cal:vCalendar,pre:vPremieres,rev:vReviews,tbs:vTbilisi,nino:vNino};
+var RENDER={ov:vOverview,cal:vCalendar,pre:vPremieres,rev:vReviews,st:vStars,tbs:vTbilisi,nino:vNino};
 function chrome(){
   var u=UI[lang];
   document.documentElement.lang=lang;
@@ -536,6 +569,7 @@ function chrome(){
   Array.prototype.forEach.call(document.querySelectorAll("#langs button"),function(b){b.setAttribute("aria-pressed",String(b.getAttribute("data-l")===lang))});
 }
 function render(){
+  if(!DATA&&view!=="st")return;
   var u=UI[lang];
   chrome();
   document.getElementById("app").innerHTML='<section class="view on">'+RENDER[view]()+'</section><footer>'+esc(u.foot)+'</footer>';
@@ -543,7 +577,7 @@ function render(){
   var sel=document.getElementById("hsel");
   if(sel)sel.addEventListener("change",function(){hf=sel.value;render()});
   Array.prototype.forEach.call(document.querySelectorAll(".seg button"),function(b){b.addEventListener("click",function(){time=b.getAttribute("data-t");render()})});
-  var ttl=view==="ov"?"Opera Atlas":u[view]+" · Opera Atlas";
+  var ttl=view==="ov"?"Opera Atlas":(view==="st"?stTitle():u[view])+" · Opera Atlas";
   document.title=ttl;
   setMeta('meta[name="description"]',"content",SEOD[lang]);setMeta('meta[property="og:title"]',"content",ttl);setMeta('meta[property="og:description"]',"content",SEOD[lang]);setMeta('meta[property="og:locale"]',"content",LOC[lang]);
   document.getElementById("menulbl").textContent=u[view];
@@ -568,11 +602,102 @@ document.getElementById("tabs").addEventListener("click",function(e){
   var a=e.target.closest("a");if(!a)return;
   e.preventDefault();go(a.getAttribute("data-v"),true);
 });
-function viewFromHash(){var h=location.hash.slice(1);return VIEWS.indexOf(h)>-1?h:"ov"}
-function go(v,push){var same=(v===view&&location.hash==="#"+v);view=v;if(push&&!same){try{history.pushState({v:v},"","#"+v)}catch(x){}}render();window.scrollTo(0,0)}
-function onNav(){var v=viewFromHash();if(v!==view){view=v;render();window.scrollTo(0,0)}else if(typeof closeMenu==="function")closeMenu()}
+function go(v,push,sl){sl=(v==="st"&&sl)?sl:"";var hs="#"+v+(sl?"/"+sl:"");var same=(v===view&&sl===stSlug&&location.hash===hs);view=v;stSlug=sl;if(push&&!same){try{history.pushState({v:v},"",hs)}catch(x){}}render();window.scrollTo(0,0)}
+function onNav(){var hp=hashParts();if(hp.v!==view||hp.s!==stSlug){view=hp.v;stSlug=hp.s;render();window.scrollTo(0,0)}else if(typeof closeMenu==="function")closeMenu()}
 window.addEventListener("popstate",onNav);window.addEventListener("hashchange",onNav);
 try{if("scrollRestoration" in history)history.scrollRestoration="manual"}catch(x){}
+
+/* ===== Opera Stars (lazy: singers.json and singers/<slug>.json load only when the section opens) ===== */
+var ST_={
+ en:{ttl:"Opera Stars",intro:"A catalogue of opera singers, listed alphabetically. It is not a ranking.",q:"Search by name",fv:"Voice type",fe:"Era",all:"All",hist:"Historic",cont:"Contemporary",back:"← All singers",roles:"Signature roles",tl:"Milestones",notes:"Source notes",src:"Sources",listen:"Search recordings on YouTube",none:"No singers match your search.",load:"Loading…",err:"This section could not be loaded. Please try again later.",nf:"Profile not found.",ph:"Photo",page:"Open full page →",cnt:"singers",pcred:"Photo licences are listed on each profile.",
+  v:{soprano:"Soprano",mezzo:"Mezzo-soprano",contralto:"Contralto",tenor:"Tenor",baritone:"Baritone",bass:"Bass"}},
+ it:{ttl:"Stelle dell'Opera",intro:"Un catalogo di cantanti d'opera in ordine alfabetico. Non è una classifica.",q:"Cerca per nome",fv:"Tipo di voce",fe:"Epoca",all:"Tutti",hist:"Storici",cont:"Contemporanei",back:"← Tutti i cantanti",roles:"Ruoli emblematici",tl:"Tappe",notes:"Note sulle fonti",src:"Fonti",listen:"Cerca registrazioni su YouTube",none:"Nessun cantante corrisponde alla ricerca.",load:"Caricamento…",err:"Impossibile caricare questa sezione. Riprova più tardi.",nf:"Profilo non trovato.",ph:"Foto",page:"Apri la pagina completa →",cnt:"cantanti",pcred:"Le licenze delle foto sono indicate in ogni profilo.",
+  v:{soprano:"Soprano",mezzo:"Mezzosoprano",contralto:"Contralto",tenor:"Tenore",baritone:"Baritono",bass:"Basso"}},
+ ka:{ttl:"ოპერის ვარსკვლავები",intro:"ოპერის მომღერალთა კატალოგი ანბანური რიგით. ეს რეიტინგი არ არის.",q:"ძებნა სახელით",fv:"ხმის ტიპი",fe:"ეპოქა",all:"ყველა",hist:"ისტორიული",cont:"თანამედროვე",back:"← ყველა მომღერალი",roles:"ცნობილი პარტიები",tl:"მთავარი ეტაპები",notes:"შენიშვნა წყაროებზე",src:"წყაროები",listen:"ჩანაწერების ძებნა YouTube-ზე",none:"ძიებით მომღერალი ვერ მოიძებნა.",load:"იტვირთება…",err:"ამ განყოფილების ჩატვირთვა ვერ მოხერხდა. სცადეთ მოგვიანებით.",nf:"პროფილი ვერ მოიძებნა.",ph:"ფოტო",page:"სრული გვერდის გახსნა →",cnt:"მომღერალი",pcred:"ფოტოების ლიცენზიები მითითებულია თითოეულ პროფილზე.",
+  v:{soprano:"სოპრანო",mezzo:"მეცოსოპრანო",contralto:"კონტრალტო",tenor:"ტენორი",baritone:"ბარიტონი",bass:"ბასი"}}
+};
+var STD=null,STP={},STB={},stQ="",stV="all",stE="all";
+function stL(){return ST_[lang]||ST_.en}
+function stFind(id){if(!STD)return null;for(var i=0;i<STD.singers.length;i++)if(STD.singers[i].id===id)return STD.singers[i];return null}
+function stTitle(){if(stSlug){var s=stFind(stSlug);if(s)return T(s.name)}return stL().ttl}
+function stFetch(url,ok,bad){fetch(url).then(function(r){if(!r.ok)throw 0;return r.json()}).then(ok).catch(bad)}
+function stRefresh(){if(view==="st")render()}
+function stLoad(){
+  if(!STD&&!STB.idx){STB.idx=1;stFetch("singers.json",function(d){STD=d;STB.idx=0;stRefresh()},function(){STB.idx=0;STB.err=1;stRefresh()})}
+  if(stSlug&&STP[stSlug]===undefined&&!STB[stSlug]){var sl=stSlug;STB[sl]=1;stFetch("singers/"+sl+".json",function(d){STP[sl]=d;STB[sl]=0;stRefresh()},function(){STP[sl]=false;STB[sl]=0;stRefresh()})}
+}
+function stNorm(x){return String(x||"").toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g,"")}
+function stMatch(s){
+  var l=stL();
+  if(stV!=="all"&&s.voice!==stV)return false;
+  if(stE!=="all"&&s.era!==stE)return false;
+  if(!stQ)return true;
+  var q=stNorm(stQ.trim()),h=[s.name.en,s.name.it,s.name.ka,s.sort].concat(s.aliases||[]).map(stNorm).join(" ");
+  return h.indexOf(q)>-1;
+}
+function stMono(n){return n.split(/\s+/).map(function(w){return w.charAt(0)}).join("").slice(0,2).toUpperCase()}
+function stImg(s,eager){var i=s.img;return '<span class="stimg"><span class="mono" aria-hidden="true">'+esc(stMono(s.name.en))+'</span>'+(i?'<img src="'+esc(i.src)+'" alt="" width="'+i.w+'" height="'+i.h+'" decoding="async"'+(eager?'':' loading="lazy"')+' style="object-position:'+esc(i.pos||"50% 20%")+'">':'')+'</span>'}
+function stCard(s){
+  var l=stL(),href=s.to?"#"+s.to:"#st/"+s.id,att=s.to?'data-go="'+esc(s.to)+'"':'data-st="'+esc(s.id)+'"';
+  var yrs=s.born?(s.born+(s.died?"–"+s.died:"")):"";
+  return '<li><a class="stc" href="'+href+'" '+att+'>'+stImg(s)+'<span class="stb"><span class="stv">'+esc(l.v[s.voice]||s.voice)+(yrs?' · '+yrs:'')+'</span><strong>'+esc(T(s.name))+'</strong><span class="stbl">'+esc(T(s.blurb))+'</span></span></a></li>';
+}
+function stGrid(){
+  var l=stL(),list=STD.singers.filter(stMatch).sort(function(a,b){return a.sort<b.sort?-1:1});
+  return list.length?'<ul class="stgrid">'+list.map(stCard).join("")+'</ul>':'<p class="empty">'+esc(l.none)+'</p>';
+}
+function stChips(key,cur,opts){
+  return '<div class="stf" role="group" aria-label="'+esc(opts.label)+'"><span class="stfl">'+esc(opts.label)+'</span>'+opts.items.map(function(o){return '<button type="button" class="stfb" data-stf="'+key+'" data-val="'+esc(o[0])+'" aria-pressed="'+(cur===o[0])+'">'+esc(o[1])+'</button>'}).join("")+'</div>';
+}
+function stCatalog(){
+  var l=stL(),vs=[],seen={};
+  STD.singers.forEach(function(s){if(!seen[s.voice]){seen[s.voice]=1;vs.push(s.voice)}});
+  var order=["soprano","mezzo","contralto","tenor","baritone","bass"];vs.sort(function(a,b){return order.indexOf(a)-order.indexOf(b)});
+  return '<h1 class="pg">'+esc(l.ttl)+'</h1><p class="note stintro">'+esc(l.intro)+'</p>'+
+   '<div class="stsearch"><input id="stq" type="search" value="'+esc(stQ)+'" placeholder="'+esc(l.q)+'" aria-label="'+esc(l.q)+'" autocomplete="off"></div>'+
+   stChips("v",stV,{label:l.fv,items:[["all",l.all]].concat(vs.map(function(v){return[v,l.v[v]||v]}))})+
+   stChips("e",stE,{label:l.fe,items:[["all",l.all],["historic",l.hist],["contemporary",l.cont]]})+
+   '<div id="stgrid">'+stGrid()+'</div><p class="meta stfoot">'+esc(l.pcred)+'</p>';
+}
+function stProfile(){
+  var l=stL(),s=stFind(stSlug),P=STP[stSlug];
+  var back='<p class="stback"><a href="#st" data-st="">'+esc(l.back)+'</a></p>';
+  if(!P||!s)return back+'<p class="empty">'+esc(l.nf)+'</p>';
+  var i=s.img,cred=i?l.ph+': '+esc(i.author)+' · <a href="'+esc(i.lic_u)+'" target="_blank" rel="noopener">'+esc(i.lic)+'</a> · <a href="'+esc(i.file)+'" target="_blank" rel="noopener">Wikimedia Commons</a>':'';
+  var h=back+'<div class="hero nino-hero st-hero"><div class="portrait">'+stImg(s,true)+'</div><div class="hero-in"><span class="stamp">'+esc(T(P.vtype))+'</span><h1>'+esc(T(P.name))+'</h1><p class="fullname">'+esc(T(P.life))+'</p>'+(cred?'<p class="pcred">'+cred+'</p>':'')+'</div></div>';
+  h+=(T(P.bio)||[]).map(function(p){return '<p class="stbio">'+esc(p)+'</p>'}).join("");
+  h+='<h2 class="block-title" style="margin-top:22px">'+esc(l.roles)+'</h2><ul class="strl">'+P.roles.map(function(r){return '<li><b>'+esc(r.n)+'</b> <span>'+esc(r.c)+'</span></li>'}).join("")+'</ul>';
+  h+='<h2 class="block-title" style="margin-top:22px">'+esc(l.tl)+'</h2><ul class="tl">'+P.tl.map(function(x){return '<li><span class="y">'+esc(x.y)+'</span><div><p>'+esc(T(x.t))+'</p></div></li>'}).join("")+'</ul>';
+  if(P.notes&&P.notes.length)h+='<h2 class="block-title" style="margin-top:22px">'+esc(l.notes)+'</h2>'+P.notes.map(function(n){return '<div class="notice">'+esc(T(n))+'</div>'}).join("");
+  if(P.yt)h+='<p class="stlisten"><a href="https://www.youtube.com/results?search_query='+encodeURIComponent(P.yt)+'" target="_blank" rel="noopener">▶ '+esc(l.listen)+' ↗</a></p>';
+  h+='<h2 class="block-title" style="margin-top:22px">'+esc(l.src)+'</h2><ul class="stsrc">'+P.src.map(function(x){return '<li><a href="'+esc(x.u)+'" target="_blank" rel="noopener">'+esc(x.n)+' ↗</a></li>'}).join("")+'</ul>';
+  return h;
+}
+function vStars(){
+  var l=stL();
+  stLoad();
+  if(STB.err&&!STD)return '<h1 class="pg">'+esc(l.ttl)+'</h1><p class="empty">'+esc(l.err)+'</p>';
+  if(!STD||(stSlug&&STP[stSlug]===undefined))return (stSlug?'<p class="stback"><a href="#st" data-st="">'+esc(l.back)+'</a></p>':'<h1 class="pg">'+esc(l.ttl)+'</h1>')+'<p class="empty" role="status">'+esc(l.load)+'</p>';
+  return stSlug?stProfile():stCatalog();
+}
+(function(){
+  var app=document.getElementById("app");
+  app.addEventListener("click",function(e){
+    var c=e.target.closest("[data-st],[data-go]");
+    if(c&&!(e.ctrlKey||e.metaKey||e.shiftKey||e.button)){
+      e.preventDefault();
+      if(c.hasAttribute("data-go"))go(c.getAttribute("data-go"),true);else go("st",true,c.getAttribute("data-st"));
+      return;
+    }
+    var f=e.target.closest("[data-stf]");
+    if(f){if(f.getAttribute("data-stf")==="v")stV=f.getAttribute("data-val");else stE=f.getAttribute("data-val");render()}
+  });
+  app.addEventListener("input",function(e){
+    if(e.target.id!=="stq")return;
+    stQ=e.target.value;var g=document.getElementById("stgrid");if(g&&STD)g.innerHTML=stGrid();
+  });
+  app.addEventListener("error",function(e){var t=e.target;if(t&&t.tagName==="IMG"&&t.closest&&t.closest(".stimg"))t.remove()},true);
+})();
 
 var LBL={ka:{open:"ფოტოს გადიდება",close:"დახურვა",prev:"წინა ფოტო",next:"შემდეგი ფოტო",dlg:"ფოტოგალერეა"},en:{open:"Enlarge photo",close:"Close",prev:"Previous photo",next:"Next photo",dlg:"Photo gallery"},it:{open:"Ingrandisci la foto",close:"Chiudi",prev:"Foto precedente",next:"Foto successiva",dlg:"Galleria fotografica"}};
 var LB=null,lbSY=0,lbI=0,lbOpener=null,lbPushed=false,lbX0=0,lbY0=0;
