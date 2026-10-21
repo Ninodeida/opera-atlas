@@ -10,7 +10,7 @@
 <meta property="og:title" content="Opera Atlas"><meta property="og:description" content="საოპერო კალენდარი, პრემიერები და რეცენზიები წამყვანი თეატრებიდან, გვერდები თბილისის ოპერასა და ქართველ მეცოსოპრანო ნინო სურგულაძეზე."><meta property="og:locale" content="ka_GE">
 <meta name="twitter:card" content="summary">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%235a0f26'/%3E%3Ctext x='32' y='45' font-family='Georgia,serif' font-size='40' font-weight='700' text-anchor='middle' fill='%23e9d08f'%3EO%3C/text%3E%3C/svg%3E">
-<script>window.__D=fetch("data.json").then(function(r){return r.json()});window.__F=fetch("feed.json").then(function(r){return r.json()}).catch(function(){return null});</script>
+<script>window.__D=fetch("data.json").then(function(r){return r.json()});window.__F=fetch("feed.json").then(function(r){return r.json()}).catch(function(){return null});if(/^#st(\/|$)/.test(location.hash))window.__S=fetch("singers.json").then(function(r){return r.ok?r.json():null}).catch(function(){return null});</script>
 <meta name="claude:viewport-fit-sides" content="cover">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -623,7 +623,8 @@ function stTitle(){if(stSlug){var s=stFind(stSlug);if(s)return T(s.name)}return 
 function stFetch(url,ok,bad){fetch(url).then(function(r){if(!r.ok)throw 0;return r.json()}).then(ok).catch(bad)}
 function stRefresh(){if(view==="st")render()}
 function stLoad(){
-  if(!STD&&!STB.idx){STB.idx=1;stFetch("singers.json",function(d){STD=d;STB.idx=0;stRefresh()},function(){STB.idx=0;STB.err=1;stRefresh()})}
+  if(!STD&&!STB.idx){STB.idx=1;var bad=function(){STB.idx=0;STB.err=1;stRefresh()},ok=function(d){STD=d;STB.idx=0;stRefresh()},pre=window.__S;window.__S=null;
+    if(pre)pre.then(function(d){if(d)ok(d);else stFetch("singers.json",ok,bad)});else stFetch("singers.json",ok,bad)}
   if(stSlug&&STP[stSlug]===undefined&&!STB[stSlug]){var sl=stSlug;STB[sl]=1;stFetch("singers/"+sl+".json",function(d){STP[sl]=d;STB[sl]=0;stRefresh()},function(){STP[sl]=false;STB[sl]=0;stRefresh()})}
 }
 function stNorm(x){return String(x||"").toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g,"")}
@@ -636,15 +637,15 @@ function stMatch(s){
   return h.indexOf(q)>-1;
 }
 function stMono(n){return n.split(/\s+/).map(function(w){return w.charAt(0)}).join("").slice(0,2).toUpperCase()}
-function stImg(s,eager){var i=s.img;return '<span class="stimg"><span class="mono" aria-hidden="true">'+esc(stMono(s.name.en))+'</span>'+(i?'<img src="'+esc(i.src)+'" alt="" width="'+i.w+'" height="'+i.h+'" decoding="async"'+(eager?'':' loading="lazy"')+' style="object-position:'+esc(i.pos||"50% 20%")+'">':'')+'</span>'}
-function stCard(s){
+function stImg(s,eager,hi,card){var i=s.img,u=i&&card&&i.sm?i.sm:(i?i.src:""),w=i&&card&&i.sm?i.smw:(i?i.w:0),h=i&&card&&i.sm?i.smh:(i?i.h:0);return '<span class="stimg"><span class="mono" aria-hidden="true">'+esc(stMono(s.name.en))+'</span>'+(i?'<img src="'+esc(u)+'" alt="" width="'+w+'" height="'+h+'" decoding="async"'+(eager?'':' loading="lazy"')+(hi?' fetchpriority="high"':'')+' style="object-position:'+esc(i.pos||"50% 20%")+'">':'')+'</span>'}
+function stCard(s,n){
   var l=stL(),href=s.to?"#"+s.to:"#st/"+s.id,att=s.to?'data-go="'+esc(s.to)+'"':'data-st="'+esc(s.id)+'"';
   var yrs=s.born?(s.born+(s.died?"–"+s.died:"")):"";
-  return '<li><a class="stc" href="'+href+'" '+att+'>'+stImg(s)+'<span class="stb"><span class="stv">'+esc(l.v[s.voice]||s.voice)+(yrs?' · '+yrs:'')+'</span><strong>'+esc(T(s.name))+'</strong><span class="stbl">'+esc(T(s.blurb))+'</span></span></a></li>';
+  return '<li><a class="stc" href="'+href+'" '+att+'>'+stImg(s,n<4,n<2,true)+'<span class="stb"><span class="stv">'+esc(l.v[s.voice]||s.voice)+(yrs?' · '+yrs:'')+'</span><strong>'+esc(T(s.name))+'</strong><span class="stbl">'+esc(T(s.blurb))+'</span></span></a></li>';
 }
 function stGrid(){
   var l=stL(),list=STD.singers.filter(stMatch).sort(function(a,b){return a.sort<b.sort?-1:1});
-  return list.length?'<ul class="stgrid">'+list.map(stCard).join("")+'</ul>':'<p class="empty">'+esc(l.none)+'</p>';
+  return list.length?'<ul class="stgrid">'+list.map(function(x,n){return stCard(x,n)}).join("")+'</ul>':'<p class="empty">'+esc(l.none)+'</p>';
 }
 function stChips(key,cur,opts){
   return '<div class="stf" role="group" aria-label="'+esc(opts.label)+'"><span class="stfl">'+esc(opts.label)+'</span>'+opts.items.map(function(o){return '<button type="button" class="stfb" data-stf="'+key+'" data-val="'+esc(o[0])+'" aria-pressed="'+(cur===o[0])+'">'+esc(o[1])+'</button>'}).join("")+'</div>';

@@ -40,7 +40,10 @@
     "author": "Andreas Praefcke",
     "lic": "Public domain",
     "lic_u": "https://commons.wikimedia.org/wiki/File:Cecilia_Bartoli_2008.jpg",
-    "file": "https://commons.wikimedia.org/wiki/File:Cecilia_Bartoli_2008.jpg"
+    "file": "https://commons.wikimedia.org/wiki/File:Cecilia_Bartoli_2008.jpg",
+    "sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Cecilia_Bartoli_2008.jpg/250px-Cecilia_Bartoli_2008.jpg",
+    "smw": 250,
+    "smh": 258
    }
   },
   {
@@ -81,7 +84,10 @@
     "author": "Federico Patellani",
     "lic": "Public domain",
     "lic_u": "https://commons.wikimedia.org/wiki/File:Maria_Callas_1957_Milano.jpg",
-    "file": "https://commons.wikimedia.org/wiki/File:Maria_Callas_1957_Milano.jpg"
+    "file": "https://commons.wikimedia.org/wiki/File:Maria_Callas_1957_Milano.jpg",
+    "sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Maria_Callas_1957_Milano.jpg/250px-Maria_Callas_1957_Milano.jpg",
+    "smw": 250,
+    "smh": 252
    }
   },
   {
@@ -120,7 +126,10 @@
     "author": "Kingkongphoto & www.celebrity-photos.com",
     "lic": "CC BY-SA 2.0",
     "lic_u": "https://creativecommons.org/licenses/by-sa/2.0/",
-    "file": "https://commons.wikimedia.org/wiki/File:Luciano_Pavarotti_2004.jpg"
+    "file": "https://commons.wikimedia.org/wiki/File:Luciano_Pavarotti_2004.jpg",
+    "sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Luciano_Pavarotti_2004.jpg/250px-Luciano_Pavarotti_2004.jpg",
+    "smw": 250,
+    "smh": 357
    }
   },
   {
