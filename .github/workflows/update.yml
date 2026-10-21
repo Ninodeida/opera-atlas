@@ -18,6 +18,10 @@ jobs:
           python-version: "3.12"
       - name: Fetch feeds and refresh data
         run: python scripts/update.py
+      - name: Validate data
+        run: python scripts/validate.py
+      - name: Run tests
+        run: python -m unittest discover -s tests
       - name: Commit changes
         run: |
           git config user.name "opera-atlas-bot"

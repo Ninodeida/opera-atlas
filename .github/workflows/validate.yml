@@ -1,0 +1,29 @@
+name: Validate Opera Atlas data
+
+# Read-only check of the JSON data and the validator tests. It never commits,
+# pushes or changes files. The daily "Daily update" push from update.yml is
+# made with GITHUB_TOKEN, so it does not trigger this workflow; update.yml
+# runs the same checks itself before committing.
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Validate data
+        run: python scripts/validate.py
+      - name: Run tests
+        run: python -m unittest discover -s tests
