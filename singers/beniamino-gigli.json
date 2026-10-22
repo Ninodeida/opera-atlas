@@ -1,0 +1,161 @@
+{
+ "id": "beniamino-gigli",
+ "name": {
+  "en": "Beniamino Gigli",
+  "it": "Beniamino Gigli",
+  "ka": "ბენიამინო ჯილი"
+ },
+ "vtype": {
+  "en": "Lyric tenor",
+  "it": "Tenore lirico",
+  "ka": "ლირიკული ტენორი"
+ },
+ "life": {
+  "en": "b. 20 Mar 1890, Recanati · d. 30 Nov 1957, Rome",
+  "it": "n. 20 mar 1890, Recanati · m. 30 nov 1957, Roma",
+  "ka": "დ. 1890 წლის 20 მარტი, რეკანატი · გ. 1957 წლის 30 ნოემბერი, რომი"
+ },
+ "bio": {
+  "en": [
+   "Beniamino Gigli was born in Recanati, the youngest of six children of a shoemaker, and sang as a boy in the cathedral choir. In 1911 he entered the Liceo musicale di Santa Cecilia in Rome, where he studied with Enrico Rosati. In 1914 he won the young singers' competition in Parma and made his debut the same year in Rovigo as Enzo in Ponchielli's La Gioconda.",
+   "After engagements in Italy, Spain and South America, his breakthrough at La Scala came on 19 November 1918 in Boito's Mefistofele under Arturo Toscanini. On 26 November 1920 he made his Metropolitan Opera debut as Faust in the same opera. He sang at the Met almost without interruption until 1932 and, after Caruso's death in 1921, was hailed as his successor, although his voice was very different.",
+   "He first sang at Covent Garden in 1930 (Andrea Chénier). Between 1935 and 1951 he made many films in Germany and Italy, which spread his fame well beyond the opera house. From 1946 he often appeared with his daughter, the soprano Rina Gigli. His last opera performance was in 1954 and his last concert in 1955; he died in Rome in 1957."
+  ],
+  "it": [
+   "Beniamino Gigli nacque a Recanati, ultimo dei sei figli di un calzolaio, e da ragazzo cantò nella Schola cantorum del duomo. Nel 1911 entrò nel Liceo musicale di Santa Cecilia a Roma, dove studiò con Enrico Rosati. Nel 1914 vinse il concorso per giovani cantanti di Parma e nello stesso anno debuttò a Rovigo come Enzo ne La Gioconda di Ponchielli.",
+   "Dopo scritture in Italia, Spagna e America del Sud, la consacrazione alla Scala arrivò il 19 novembre 1918 con il Mefistofele di Boito diretto da Arturo Toscanini. Il 26 novembre 1920 debuttò al Metropolitan come Faust nella stessa opera. Al Metropolitan cantò quasi ininterrottamente fino al 1932 e, dopo la morte di Caruso nel 1921, fu salutato come suo successore, benché la sua voce fosse molto diversa.",
+   "Nel 1930 cantò per la prima volta al Covent Garden (Andrea Chénier). Tra il 1935 e il 1951 girò numerosi film in Germania e in Italia, che diffusero la sua fama ben oltre il teatro d'opera. Dal 1946 si esibì spesso con la figlia, il soprano Rina Gigli. L'ultima recita d'opera fu nel 1954 e l'ultimo concerto nel 1955; morì a Roma nel 1957."
+  ],
+  "ka": [
+   "ბენიამინო ჯილი რეკანატში, მეწაღის ოჯახში ექვს შვილს შორის უმცროსად დაიბადა და ბავშვობაში საკათედრო ტაძრის გუნდში მღეროდა. 1911 წელს რომში, სანტა ჩეჩილიას მუსიკალურ ლიცეუმში ჩაირიცხა და ენრიკო როზატისთან სწავლობდა. 1914 წელს პარმაში ახალგაზრდა მომღერალთა კონკურსში გაიმარჯვა და იმავე წელს როვიგოში დებიუტი შედგა ენცოს პარტიით პონკიელის ოპერაში „ჯოკონდა“.",
+   "იტალიაში, ესპანეთსა და სამხრეთ ამერიკაში გამოსვლების შემდეგ ლა სკალაში აღიარება 1918 წლის 19 ნოემბერს მოიპოვა ბოიტოს „მეფისტოფელში“, არტურო ტოსკანინის დირიჟორობით. 1920 წლის 26 ნოემბერს მეტროპოლიტენ-ოპერაში დებიუტი იმავე ოპერაში, ფაუსტის პარტიით შედგა. Met-ში თითქმის შეუწყვეტლად 1932 წლამდე მღეროდა; 1921 წელს კარუზოს გარდაცვალების შემდეგ მის მემკვიდრედ მიიჩნიეს, თუმცა მათი ხმები ძალიან განსხვავდებოდა.",
+   "კოვენ-გარდენში პირველად 1930 წელს იმღერა („ანდრე შენიე“). 1935–1951 წლებში გერმანიასა და იტალიაში ბევრ ფილმში ითამაშა, რამაც მისი სახელი საოპერო თეატრის ფარგლებს გასცდა. 1946 წლიდან ხშირად გამოდიოდა ქალიშვილთან, სოპრანო რინა ჯილისთან ერთად. უკანასკნელად ოპერაში 1954 წელს იმღერა, ბოლო კონცერტი კი 1955 წელს გამართა; გარდაიცვალა რომში 1957 წელს."
+  ]
+ },
+ "roles": [
+  {
+   "n": "Faust (Mefistofele)",
+   "c": "Boito"
+  },
+  {
+   "n": "Andrea Chénier",
+   "c": "Giordano"
+  },
+  {
+   "n": "Enzo (La Gioconda)",
+   "c": "Ponchielli"
+  },
+  {
+   "n": "Rodolfo (La bohème)",
+   "c": "Puccini"
+  },
+  {
+   "n": "Cavaradossi (Tosca)",
+   "c": "Puccini"
+  },
+  {
+   "n": "Turiddu (Cavalleria rusticana)",
+   "c": "Mascagni"
+  },
+  {
+   "n": "Vasco da Gama (L'Africaine)",
+   "c": "Meyerbeer"
+  }
+ ],
+ "tl": [
+  {
+   "y": "1890",
+   "t": {
+    "en": "Born in Recanati",
+    "it": "Nasce a Recanati",
+    "ka": "დაიბადა რეკანატში"
+   }
+  },
+  {
+   "y": "1914",
+   "t": {
+    "en": "Wins the Parma competition; debut in Rovigo (La Gioconda)",
+    "it": "Vince il concorso di Parma; debutto a Rovigo (La Gioconda)",
+    "ka": "იმარჯვებს პარმის კონკურსში; დებიუტი როვიგოში („ჯოკონდა“)"
+   }
+  },
+  {
+   "y": "1918",
+   "t": {
+    "en": "La Scala, Mefistofele under Toscanini",
+    "it": "Scala, Mefistofele diretto da Toscanini",
+    "ka": "ლა სკალა, „მეფისტოფელი“ ტოსკანინის დირიჟორობით"
+   }
+  },
+  {
+   "y": "1920",
+   "t": {
+    "en": "Metropolitan Opera debut (Mefistofele)",
+    "it": "Debutto al Metropolitan (Mefistofele)",
+    "ka": "დებიუტი მეტროპოლიტენ-ოპერაში („მეფისტოფელი“)"
+   }
+  },
+  {
+   "y": "1930",
+   "t": {
+    "en": "Covent Garden debut (Andrea Chénier)",
+    "it": "Debutto al Covent Garden (Andrea Chénier)",
+    "ka": "დებიუტი კოვენ-გარდენში („ანდრე შენიე“)"
+   }
+  },
+  {
+   "y": "1935–1951",
+   "t": {
+    "en": "Films in Germany and Italy",
+    "it": "Film in Germania e in Italia",
+    "ka": "ფილმები გერმანიასა და იტალიაში"
+   }
+  },
+  {
+   "y": "1954",
+   "t": {
+    "en": "Last opera performance (last concert 1955)",
+    "it": "Ultima recita d'opera (ultimo concerto nel 1955)",
+    "ka": "უკანასკნელი საოპერო სპექტაკლი (ბოლო კონცერტი — 1955)"
+   }
+  },
+  {
+   "y": "1957",
+   "t": {
+    "en": "Dies in Rome",
+    "it": "Muore a Roma",
+    "ka": "გარდაიცვალა რომში"
+   }
+  }
+ ],
+ "notes": [
+  {
+   "en": "Britannica says he stayed with the Met for 12 seasons; Treccani says he sang there until 1932. The Met Archives also list a short return in the 1938–39 season.",
+   "it": "Britannica parla di 12 stagioni al Metropolitan; Treccani indica che vi cantò fino al 1932. Gli archivi del Metropolitan registrano anche un breve ritorno nella stagione 1938-39.",
+   "ka": "Britannica წერს, რომ Met-ში 12 სეზონი იმღერა; Treccani-ს მიხედვით იქ 1932 წლამდე გამოდიოდა. Met-ის არქივში ასევე აღრიცხულია ხანმოკლე დაბრუნება 1938–39 წლების სეზონში."
+  }
+ ],
+ "yt": "Beniamino Gigli Una furtiva lagrima",
+ "src": [
+  {
+   "n": "Encyclopaedia Britannica — Beniamino Gigli",
+   "u": "https://www.britannica.com/biography/Beniamino-Gigli"
+  },
+  {
+   "n": "Treccani, Dizionario Biografico degli Italiani — Gigli, Beniamino",
+   "u": "https://www.treccani.it/enciclopedia/beniamino-gigli_(Dizionario-Biografico)/"
+  },
+  {
+   "n": "Metropolitan Opera Archives — Beniamino Gigli",
+   "u": "https://archives.metopera.org/MetOperaSearch/search.jsp?q=%22Beniamino%20Gigli%22&src=browser"
+  },
+  {
+   "n": "Library of Congress, National Jukebox — Beniamino Gigli recordings",
+   "u": "https://www.loc.gov/collections/national-jukebox/?q=Beniamino+Gigli"
+  },
+  {
+   "n": "Wikipedia — Beniamino Gigli",
+   "u": "https://en.wikipedia.org/wiki/Beniamino_Gigli"
+  }
+ ]
+}

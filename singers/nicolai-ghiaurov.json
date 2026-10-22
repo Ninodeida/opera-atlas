@@ -1,0 +1,158 @@
+{
+ "id": "nicolai-ghiaurov",
+ "name": {
+  "en": "Nicolai Ghiaurov",
+  "it": "Nicolai Ghiaurov",
+  "ka": "ნიკოლაი გიაუროვი"
+ },
+ "vtype": {
+  "en": "Bass",
+  "it": "Basso",
+  "ka": "ბასი"
+ },
+ "life": {
+  "en": "b. 13 Sep 1929, Velingrad (Bulgaria) · d. 2 Jun 2004, Modena",
+  "it": "n. 13 set 1929, Velingrad (Bulgaria) · m. 2 giu 2004, Modena",
+  "ka": "დ. 1929 წლის 13 სექტემბერი, ველინგრადი (ბულგარეთი) · გ. 2004 წლის 2 ივნისი, მოდენა"
+ },
+ "bio": {
+  "en": [
+   "Nicolai Ghiaurov was born in Velingrad, Bulgaria. As a young man he was drawn to acting; his voice was discovered during military service, and he went on to study at the Sofia Academy of Music and at the Moscow Conservatory. In 1955 he made his debut at the Sofia Opera as Don Basilio in Rossini's Il barbiere di Siviglia.",
+   "In 1957 he triumphed at the Bolshoi as Méphistophélès in Gounod's Faust, a role he repeated in Bologna the following year, which brought him international attention. Engagements followed at La Scala, Vienna and Covent Garden, where he sang Padre Guardiano in La forza del destino. On 8 November 1965 he made his Metropolitan Opera debut, again as Méphistophélès. In 1965 he also sang Don Giovanni at the Salzburg Festival under Herbert von Karajan, with whom he later recorded Boris Godunov.",
+   "Treccani describes his Boris Godunov and his Philip II in Don Carlo as landmarks in the history of interpretation; he was equally admired in Mozart, in Verdi (Zaccaria, Silva, Ramfis, the Requiem) and in French opera, including Massenet's Don Quichotte. In 1981 he married the soprano Mirella Freni and later became an Italian citizen. He continued singing until early 2004 and died in Modena that year."
+  ],
+  "it": [
+   "Nicolai Ghiaurov nacque a Velingrad, in Bulgaria. Da giovane fu attratto dalla recitazione; la sua voce fu scoperta durante il servizio militare e studiò poi all'Accademia di musica di Sofia e al Conservatorio di Mosca. Nel 1955 debuttò all'Opera di Sofia come Don Basilio ne Il barbiere di Siviglia di Rossini.",
+   "Nel 1957 trionfò al Bol'šoj come Méphistophélès nel Faust di Gounod, ruolo che ripeté a Bologna l'anno seguente ottenendo notorietà internazionale. Seguirono scritture alla Scala, a Vienna e al Covent Garden, dove cantò Padre Guardiano ne La forza del destino. L'8 novembre 1965 debuttò al Metropolitan, ancora come Méphistophélès. Nel 1965 cantò anche Don Giovanni al Festival di Salisburgo con Herbert von Karajan, con il quale incise poi Boris Godunov.",
+   "Treccani considera il suo Boris Godunov e il suo Filippo II nel Don Carlo pietre miliari della storia dell'interpretazione; fu ugualmente apprezzato in Mozart, in Verdi (Zaccaria, Silva, Ramfis, la Messa da Requiem) e nell'opera francese, tra cui il Don Quichotte di Massenet. Nel 1981 sposò il soprano Mirella Freni e in seguito ottenne la cittadinanza italiana. Cantò fino all'inizio del 2004 e morì a Modena quello stesso anno."
+  ],
+  "ka": [
+   "ნიკოლაი გიაუროვი ბულგარეთში, ველინგრადში დაიბადა. ახალგაზრდობაში მსახიობობით იყო გატაცებული; მისი ხმა სამხედრო სამსახურის დროს აღმოაჩინეს, რის შემდეგაც სოფიის მუსიკის აკადემიასა და მოსკოვის კონსერვატორიაში სწავლობდა. 1955 წელს სოფიის ოპერაში დებიუტი შედგა დონ ბაზილიოს პარტიით როსინის ოპერაში „სევილიელი დალაქი“.",
+   "1957 წელს მოსკოვის დიდ თეატრში გუნოს „ფაუსტში“ მეფისტოფელის პარტიამ ტრიუმფი მოუტანა; მომდევნო წელს ეს პარტია ბოლონიაში გაიმეორა, რამაც საერთაშორისო ყურადღება მოუტანა. შემდეგ ლა სკალაში, ვენასა და კოვენ-გარდენში მიიწვიეს, სადაც მამა გვარდიანოს პარტია იმღერა („ბედის ძალა“). 1965 წლის 8 ნოემბერს მეტროპოლიტენ-ოპერაში დებიუტი კვლავ მეფისტოფელის პარტიით შედგა. იმავე 1965 წელს ზალცბურგის ფესტივალზე დონ ჟუანი იმღერა ჰერბერტ ფონ კარაიანის დირიჟორობით, რომელთანაც მოგვიანებით „ბორის გოდუნოვი“ ჩაწერა.",
+   "Treccani მის ბორის გოდუნოვსა და ფილიპე II-ს („დონ კარლოსი“) ინტერპრეტაციის ისტორიის ეტაპებად მიიჩნევს; ასევე აფასებდნენ მოცარტის, ვერდის (ზაქარია, სილვა, რამფისი, რეკვიემი) და ფრანგულ რეპერტუარში, მათ შორის მასნეს „დონ კიხოტში“. 1981 წელს სოპრანო მირელა ფრენიზე დაქორწინდა, მოგვიანებით კი იტალიის მოქალაქეობა მიიღო. 2004 წლის დასაწყისამდე მღეროდა და იმავე წელს მოდენაში გარდაიცვალა."
+  ]
+ },
+ "roles": [
+  {
+   "n": "Boris Godunov",
+   "c": "Mussorgsky"
+  },
+  {
+   "n": "Filippo II (Don Carlo)",
+   "c": "Verdi"
+  },
+  {
+   "n": "Méphistophélès (Faust)",
+   "c": "Gounod"
+  },
+  {
+   "n": "Mefistofele",
+   "c": "Boito"
+  },
+  {
+   "n": "Don Quichotte",
+   "c": "Massenet"
+  },
+  {
+   "n": "Zaccaria (Nabucco)",
+   "c": "Verdi"
+  },
+  {
+   "n": "Padre Guardiano (La forza del destino)",
+   "c": "Verdi"
+  },
+  {
+   "n": "Don Basilio (Il barbiere di Siviglia)",
+   "c": "Rossini"
+  }
+ ],
+ "tl": [
+  {
+   "y": "1929",
+   "t": {
+    "en": "Born in Velingrad",
+    "it": "Nasce a Velingrad",
+    "ka": "დაიბადა ველინგრადში"
+   }
+  },
+  {
+   "y": "1955",
+   "t": {
+    "en": "Debut at the Sofia Opera (Il barbiere di Siviglia)",
+    "it": "Debutto all'Opera di Sofia (Il barbiere di Siviglia)",
+    "ka": "დებიუტი სოფიის ოპერაში („სევილიელი დალაქი“)"
+   }
+  },
+  {
+   "y": "1957",
+   "t": {
+    "en": "Méphistophélès at the Bolshoi, Moscow",
+    "it": "Méphistophélès al Bol'šoj, Mosca",
+    "ka": "მეფისტოფელი მოსკოვის დიდ თეატრში"
+   }
+  },
+  {
+   "y": "1959/1960",
+   "t": {
+    "en": "La Scala debut (see notes)",
+    "it": "Debutto alla Scala (vedi note)",
+    "ka": "დებიუტი ლა სკალაში (იხ. შენიშვნები)"
+   }
+  },
+  {
+   "y": "1965",
+   "t": {
+    "en": "Metropolitan Opera debut (Faust); Don Giovanni in Salzburg",
+    "it": "Debutto al Metropolitan (Faust); Don Giovanni a Salisburgo",
+    "ka": "დებიუტი მეტროპოლიტენ-ოპერაში („ფაუსტი“); „დონ ჟუანი“ ზალცბურგში"
+   }
+  },
+  {
+   "y": "1981",
+   "t": {
+    "en": "Marries Mirella Freni",
+    "it": "Sposa Mirella Freni",
+    "ka": "ქორწინდება მირელა ფრენიზე"
+   }
+  },
+  {
+   "y": "2004",
+   "t": {
+    "en": "Dies in Modena",
+    "it": "Muore a Modena",
+    "ka": "გარდაიცვალა მოდენაში"
+   }
+  }
+ ],
+ "notes": [
+  {
+   "en": "Dates of his La Scala and Covent Garden debuts differ between sources: 1959 or 1960 for La Scala, 1962 or 1965 for Covent Garden. The Guardian obituary of June 2004 also contains a misprinted death year (2002).",
+   "it": "Le date dei debutti alla Scala e al Covent Garden variano tra le fonti: 1959 o 1960 per la Scala, 1962 o 1965 per il Covent Garden. Il necrologio del Guardian del giugno 2004 riporta inoltre per errore il 2002 come anno di morte.",
+   "ka": "ლა სკალასა და კოვენ-გარდენში დებიუტების თარიღები წყაროებში განსხვავდება: ლა სკალისთვის 1959 ან 1960 წელი, კოვენ-გარდენისთვის — 1962 ან 1965. 2004 წლის ივნისის Guardian-ის ნეკროლოგში გარდაცვალების წლად შეცდომით 2002 წერია."
+  },
+  {
+   "en": "Voice type: he is usually described as a bass (basso cantante); some databases also list bass-baritone.",
+   "it": "Tipo di voce: è descritto di solito come basso (basso cantante); alcune banche dati indicano anche basso-baritono.",
+   "ka": "ხმის ტიპი: ჩვეულებრივ ბასად (ბასო კანტანტე) მოიხსენიებენ; ზოგი მონაცემთა ბაზა ბას-ბარიტონსაც უთითებს."
+  }
+ ],
+ "yt": "Nicolai Ghiaurov Boris Godunov",
+ "src": [
+  {
+   "n": "Treccani, Enciclopedia — Ghiaurov, Nikolaj",
+   "u": "https://www.treccani.it/enciclopedia/nikolaj-ghiaurov/"
+  },
+  {
+   "n": "The Guardian — Nicolai Ghiaurov obituary (2004)",
+   "u": "https://www.theguardian.com/news/2004/jun/05/guardianobituaries.artsobituaries"
+  },
+  {
+   "n": "Metropolitan Opera Archives — Nicolai Ghiaurov",
+   "u": "https://archives.metopera.org/MetOperaSearch/search.jsp?q=%22Nicolai%20Ghiaurov%22&src=browser"
+  },
+  {
+   "n": "Wikipedia — Nicolai Ghiaurov",
+   "u": "https://en.wikipedia.org/wiki/Nicolai_Ghiaurov"
+  }
+ ]
+}

@@ -281,6 +281,12 @@ class ValidatorTest(unittest.TestCase):
         r = self.run_validator()
         self.assertReported(r.errors, "#nino-surguladze.to", 'unknown value "ninoo"')
 
+    def test_singer_without_photo_is_warning(self):
+        del self.files["singers.json"]["singers"][0]["img"]
+        r = self.run_validator()
+        self.assertEqual(r.errors, [])
+        self.assertReported(r.warnings, "#maria-callas", "no photo")
+
     def test_unlisted_profile_is_warning(self):
         self.files["singers/extra.json"] = dict(self.files["singers/maria-callas.json"], id="extra")
         r = self.run_validator()
