@@ -1,0 +1,161 @@
+{
+ "id": "aureliano-pertile",
+ "name": {
+  "en": "Aureliano Pertile",
+  "it": "Aureliano Pertile",
+  "ka": "აურელიანო პერტილე"
+ },
+ "vtype": {
+  "en": "Tenor",
+  "it": "Tenore",
+  "ka": "ტენორი"
+ },
+ "life": {
+  "en": "b. 9 Nov 1885, Montagnana (Padua) · d. 11 Jan 1952, Milan",
+  "it": "n. 9 nov 1885, Montagnana (Padova) · m. 11 gen 1952, Milano",
+  "ka": "დ. 1885 წლის 9 ნოემბერი, მონტანიანა (პადუა) · გ. 1952 წლის 11 იანვარი, მილანი"
+ },
+ "bio": {
+  "en": [
+   "Aureliano Pertile was born in Montagnana, near Padua, the son of a shoemaker. While working for a goldsmith's firm in Vicenza he took singing lessons, and he later studied with Vittorio Orefice in Padua and with Manlio Bavagnoli in Milan. He made his debut on 11 February 1911 at the Teatro Eretenio in Vicenza as Lionello in Flotow's Martha, and over the next years sang in many Italian theatres and toured South America.",
+   "On 1 December 1921 he made his Metropolitan Opera debut as Cavaradossi in Tosca, but his American engagement ended after about a month. Arturo Toscanini then brought him to La Scala, where he sang Mefistofele in March 1922. Until 1929 he was Toscanini's favourite tenor, and he created the leading tenor roles in Boito's Nerone (1924), Wolf-Ferrari's Sly (1927) and, later, Mascagni's Nerone (1935).",
+   "He sang at Covent Garden in 1927, 1929 and 1931, and recorded complete Aida, Il trovatore and Carmen with La Scala forces between 1928 and 1932. Treccani notes that his voice was not naturally beautiful or even, but that musicality, phrasing and clear diction made him a model interpreter of Radamès, Manrico, Des Grieux and Lohengrin. He gave his stage farewell in January 1946 in Pagliacci in Salerno, then taught singing in Milan, where he died in 1952."
+  ],
+  "it": [
+   "Aureliano Pertile nacque a Montagnana, in provincia di Padova, figlio di un calzolaio. Mentre lavorava in un'azienda orafa di Vicenza prese lezioni di canto; studiò poi con Vittorio Orefice a Padova e con Manlio Bavagnoli a Milano. Debuttò l'11 febbraio 1911 al teatro Eretenio di Vicenza come Lionello in Marta di Flotow e negli anni seguenti cantò in numerosi teatri italiani e in tournée in America del Sud.",
+   "Il 1º dicembre 1921 debuttò al Metropolitan come Cavaradossi in Tosca, ma l'esperienza americana si concluse in circa un mese. Arturo Toscanini lo chiamò allora alla Scala, dove nel marzo 1922 cantò Mefistofele. Fino al 1929 fu il tenore prediletto di Toscanini e creò i ruoli tenorili principali nel Nerone di Boito (1924), in Sly di Wolf-Ferrari (1927) e, più tardi, nel Nerone di Mascagni (1935).",
+   "Cantò al Covent Garden nel 1927, 1929 e 1931 e incise con i complessi della Scala le edizioni integrali di Aida, Il trovatore e Carmen tra il 1928 e il 1932. Treccani osserva che la sua voce non era naturalmente bella né omogenea, ma che musicalità, fraseggio e dizione nitida ne fecero un interprete esemplare di Radamès, Manrico, Des Grieux e Lohengrin. Diede l'addio alle scene nel gennaio 1946 con Pagliacci a Salerno, poi insegnò canto a Milano, dove morì nel 1952."
+  ],
+  "ka": [
+   "აურელიანო პერტილე პადუის მახლობლად, მონტანიანაში, მეწაღის ოჯახში დაიბადა. ვიჩენცაში საიუველირო ფირმაში მუშაობისას სიმღერის გაკვეთილებს იღებდა, შემდეგ კი ვიტორიო ორეფიჩესთან პადუაში და მანლიო ბავანიოლისთან მილანში სწავლობდა. დებიუტი 1911 წლის 11 თებერვალს ვიჩენცის „ტეატრო ერეტენიოში“ შედგა ლიონელოს პარტიით ფლოტოვის ოპერაში „მართა“; მომდევნო წლებში იტალიის ბევრ თეატრში მღეროდა და სამხრეთ ამერიკაში გასტროლებზე იმყოფებოდა.",
+   "1921 წლის 1 დეკემბერს მეტროპოლიტენ-ოპერაში კავარადოსის პარტიით („ტოსკა“) დებიუტი შედგა, თუმცა ამერიკული კონტრაქტი დაახლოებით ერთ თვეში დასრულდა. ამის შემდეგ არტურო ტოსკანინიმ იგი ლა სკალაში მიიწვია, სადაც 1922 წლის მარტში „მეფისტოფელი“ იმღერა. 1929 წლამდე ტოსკანინის რჩეული ტენორი იყო და ტენორის მთავარი პარტიები შექმნა ბოიტოს „ნერონში“ (1924), ვოლფ-ფერარის „სლაიში“ (1927) და მოგვიანებით მასკანის „ნერონში“ (1935).",
+   "კოვენ-გარდენში 1927, 1929 და 1931 წლებში იმღერა, ხოლო 1928–1932 წლებში ლა სკალის კოლექტივთან ერთად „აიდას“, „ტრუბადურისა“ და „კარმენის“ სრული ჩანაწერები გააკეთა. Treccani აღნიშნავს, რომ მისი ხმა ბუნებით არც ლამაზი იყო და არც თანაბარი, მაგრამ მუსიკალობამ, ფრაზირებამ და მკაფიო დიქციამ იგი რადამესის, მანრიკოს, დე გრიეს და ლოენგრინის სანიმუშო შემსრულებლად აქცია. სცენას 1946 წლის იანვარში სალერნოში, „ჯამბაზებით“ დაემშვიდობა, შემდეგ მილანში სიმღერას ასწავლიდა; იქვე გარდაიცვალა 1952 წელს."
+  ]
+ },
+ "roles": [
+  {
+   "n": "Nerone (Nerone)",
+   "c": "Boito"
+  },
+  {
+   "n": "Radamès (Aida)",
+   "c": "Verdi"
+  },
+  {
+   "n": "Manrico (Il trovatore)",
+   "c": "Verdi"
+  },
+  {
+   "n": "Des Grieux (Manon Lescaut)",
+   "c": "Puccini"
+  },
+  {
+   "n": "Lohengrin",
+   "c": "Wagner"
+  },
+  {
+   "n": "Faust (Mefistofele)",
+   "c": "Boito"
+  },
+  {
+   "n": "Edgardo (Lucia di Lammermoor)",
+   "c": "Donizetti"
+  },
+  {
+   "n": "Otello",
+   "c": "Verdi"
+  }
+ ],
+ "tl": [
+  {
+   "y": "1885",
+   "t": {
+    "en": "Born in Montagnana",
+    "it": "Nasce a Montagnana",
+    "ka": "დაიბადა მონტანიანაში"
+   }
+  },
+  {
+   "y": "1911",
+   "t": {
+    "en": "Debut in Vicenza (Martha)",
+    "it": "Debutto a Vicenza (Marta)",
+    "ka": "დებიუტი ვიჩენცაში („მართა“)"
+   }
+  },
+  {
+   "y": "1921",
+   "t": {
+    "en": "Metropolitan Opera debut (Tosca)",
+    "it": "Debutto al Metropolitan (Tosca)",
+    "ka": "დებიუტი მეტროპოლიტენ-ოპერაში („ტოსკა“)"
+   }
+  },
+  {
+   "y": "1922",
+   "t": {
+    "en": "La Scala, Mefistofele under Toscanini",
+    "it": "Scala, Mefistofele diretto da Toscanini",
+    "ka": "ლა სკალა, „მეფისტოფელი“ ტოსკანინის დირიჟორობით"
+   }
+  },
+  {
+   "y": "1924",
+   "t": {
+    "en": "Creates the title role in Boito's Nerone, La Scala",
+    "it": "Crea il ruolo del titolo nel Nerone di Boito, Scala",
+    "ka": "ქმნის მთავარ პარტიას ბოიტოს „ნერონში“, ლა სკალა"
+   }
+  },
+  {
+   "y": "1935",
+   "t": {
+    "en": "Creates the title role in Mascagni's Nerone, La Scala",
+    "it": "Crea il ruolo del titolo nel Nerone di Mascagni, Scala",
+    "ka": "ქმნის მთავარ პარტიას მასკანის „ნერონში“, ლა სკალა"
+   }
+  },
+  {
+   "y": "1946",
+   "t": {
+    "en": "Stage farewell (Pagliacci, Salerno)",
+    "it": "Addio alle scene (Pagliacci, Salerno)",
+    "ka": "სცენასთან დამშვიდობება („ჯამბაზები“, სალერნო)"
+   }
+  },
+  {
+   "y": "1952",
+   "t": {
+    "en": "Dies in Milan",
+    "it": "Muore a Milano",
+    "ka": "გარდაიცვალა მილანში"
+   }
+  }
+ ],
+ "notes": [
+  {
+   "en": "Treccani describes his Met contract as covering the whole season, but his American stay lasted about a month; the Met Archives list his performances between 1 December 1921 and 26 January 1922.",
+   "it": "Treccani descrive un contratto con il Metropolitan per l'intera stagione, ma il soggiorno americano durò circa un mese; gli archivi del Metropolitan registrano recite tra il 1º dicembre 1921 e il 26 gennaio 1922.",
+   "ka": "Treccani-ს ცნობით, Met-თან კონტრაქტი მთელ სეზონს მოიცავდა, მაგრამ ამერიკაში დაახლოებით ერთი თვე დარჩა; Met-ის არქივში მისი სპექტაკლები 1921 წლის 1 დეკემბრიდან 1922 წლის 26 იანვრამდეა აღრიცხული."
+  }
+ ],
+ "yt": "Aureliano Pertile Mefistofele",
+ "src": [
+  {
+   "n": "Treccani, Dizionario Biografico degli Italiani — Pertile, Aureliano",
+   "u": "https://www.treccani.it/enciclopedia/aureliano-pertile_(Dizionario-Biografico)/"
+  },
+  {
+   "n": "Treccani, Enciclopedia — Pertile, Aureliano",
+   "u": "https://www.treccani.it/enciclopedia/aureliano-pertile/"
+  },
+  {
+   "n": "Metropolitan Opera Archives — Aureliano Pertile",
+   "u": "https://archives.metopera.org/MetOperaSearch/search.jsp?q=%22Aureliano%20Pertile%22&src=browser"
+  },
+  {
+   "n": "Wikipedia — Aureliano Pertile",
+   "u": "https://en.wikipedia.org/wiki/Aureliano_Pertile"
+  }
+ ]
+}

@@ -584,7 +584,7 @@ def check_singers(c, s, profiles):
             ep = tag("$.singers", i, e)
             c.r.counts["singers"] += 1
             if not c.obj(e, ep, required=("id", "name", "sort", "aliases", "voice", "era", "born", "died",
-                                          "country", "blurb", "img"), optional=("to",)):
+                                          "country", "blurb"), optional=("img", "to")):
                 continue
             sid = c.get(e, "id", ep, c.text)
             if sid is not None and not SLUG_RE.match(sid):
@@ -602,7 +602,10 @@ def check_singers(c, s, profiles):
             died = c.get(e, "died", ep, c.integer, nullable=True)
             if born and died and died < born:
                 c.error(ep, f"died ({died}) is before born ({born})")
-            check_singer_img(c, e.get("img"), ep + ".img")
+            if "img" in e:
+                check_singer_img(c, e["img"], ep + ".img")
+            else:
+                c.warn(ep, "no photo; the card shows a monogram")
             to = c.get(e, "to", ep, c.enum, VIEWS)
             if sid is not None:
                 listed[sid] = (ep, e, "to" in e)

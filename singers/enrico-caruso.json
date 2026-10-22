@@ -1,0 +1,178 @@
+{
+ "id": "enrico-caruso",
+ "name": {
+  "en": "Enrico Caruso",
+  "it": "Enrico Caruso",
+  "ka": "ენრიკო კარუზო"
+ },
+ "vtype": {
+  "en": "Tenor",
+  "it": "Tenore",
+  "ka": "ტენორი"
+ },
+ "life": {
+  "en": "b. 25 Feb 1873, Naples (see notes) · d. 2 Aug 1921, Naples",
+  "it": "n. 25 feb 1873, Napoli (vedi note) · m. 2 ago 1921, Napoli",
+  "ka": "დ. 1873 წლის 25 თებერვალი, ნეაპოლი (იხ. შენიშვნები) · გ. 1921 წლის 2 აგვისტო, ნეაპოლი"
+ },
+ "bio": {
+  "en": [
+   "Enrico Caruso was born in Naples into a poor family. As a boy he sang in a parish choir, but he had no formal vocal training until about the age of 18, when he studied with Guglielmo Vergine. His operatic debut came on 16 November 1894 at the Teatro Nuovo in Naples, in Mario Morelli's L'amico Francesco.",
+   "On 17 November 1898 he created Loris in the premiere of Giordano's Fedora at the Teatro Lirico in Milan, and he went on to create the leading tenor roles in Adriana Lecouvreur and Germania. He first sang at La Scala in 1900 (La bohème). International fame followed in 1902, with La bohème in Monte Carlo and Rigoletto at Covent Garden.",
+   "On 23 November 1903 he made his Metropolitan Opera debut as the Duke in Rigoletto on the season's opening night. The Met became the centre of his career: there he created Dick Johnson in La fanciulla del West (1910), and on 24 December 1920 he sang Eléazar in La Juive, his last public performance. He recorded some 200 operatic excerpts and songs and was among the first musicians whose voice is well documented on records. He died in Naples in 1921."
+  ],
+  "it": [
+   "Enrico Caruso nacque a Napoli in una famiglia povera. Da ragazzo cantò in un coro parrocchiale, ma iniziò uno studio regolare del canto solo verso i diciotto anni, con Guglielmo Vergine. Debuttò in teatro il 16 novembre 1894 al Teatro Nuovo di Napoli, ne L'amico Francesco di Mario Morelli.",
+   "Il 17 novembre 1898 creò Loris nella prima di Fedora di Giordano al Teatro Lirico di Milano e in seguito fu il primo interprete dei ruoli tenorili principali di Adriana Lecouvreur e Germania. Cantò per la prima volta alla Scala nel 1900 (La bohème). La fama internazionale arrivò nel 1902, con La bohème a Monte Carlo e Rigoletto al Covent Garden.",
+   "Il 23 novembre 1903 debuttò al Metropolitan Opera come Duca di Mantova in Rigoletto, nella serata inaugurale della stagione. Il Metropolitan divenne il centro della sua carriera: lì creò Dick Johnson ne La fanciulla del West (1910) e il 24 dicembre 1920 cantò Eléazar ne La Juive, la sua ultima recita pubblica. Incise circa 200 brani d'opera e canzoni e fu tra i primi musicisti la cui voce è ampiamente documentata su disco. Morì a Napoli nel 1921."
+  ],
+  "ka": [
+   "ენრიკო კარუზო ნეაპოლში, ღარიბ ოჯახში დაიბადა. ბავშვობაში სამრევლო გუნდში მღეროდა, თუმცა სისტემური ვოკალური განათლება მხოლოდ დაახლოებით თვრამეტი წლისამ, გულიელმო ვერჯინესთან მიიღო. საოპერო დებიუტი 1894 წლის 16 ნოემბერს ნეაპოლის „ტეატრო ნუოვოში“ შედგა, მარიო მორელის ოპერაში „მეგობარი ფრანჩესკო“.",
+   "1898 წლის 17 ნოემბერს მილანის „ტეატრო ლირიკოში“ ჯორდანოს „ფედორას“ პრემიერაზე ლორისის პარტია შექმნა, შემდეგ კი ტენორის მთავარი პარტიების პირველი შემსრულებელი გახდა ოპერებში „ადრიანა ლეკუვრერი“ და „გერმანია“. ლა სკალაში პირველად 1900 წელს იმღერა („ბოჰემა“). საერთაშორისო აღიარება 1902 წელს მოვიდა: მონტე-კარლოში „ბოჰემით“ და ლონდონის კოვენ-გარდენში „რიგოლეტოთი“.",
+   "1903 წლის 23 ნოემბერს მეტროპოლიტენ-ოპერაში, სეზონის გახსნაზე, ჰერცოგის პარტიით („რიგოლეტო“) დებიუტი შედგა. Met-ი მისი კარიერის ცენტრად იქცა: აქ შექმნა დიკ ჯონსონის პარტია ოპერაში „დასავლეთის ქალიშვილი“ (1910), 1920 წლის 24 დეკემბერს კი ელეაზარის პარტია იმღერა ოპერაში „ებრაელი ქალი“ — ეს მისი უკანასკნელი საჯარო გამოსვლა იყო. დაახლოებით 200 საოპერო ფრაგმენტი და სიმღერა ჩაწერა და ერთ-ერთი პირველი მუსიკოსია, რომლის ხმაც ჩანაწერებით ფართოდაა დოკუმენტირებული. გარდაიცვალა ნეაპოლში 1921 წელს."
+  ]
+ },
+ "roles": [
+  {
+   "n": "Duke of Mantua (Rigoletto)",
+   "c": "Verdi"
+  },
+  {
+   "n": "Loris (Fedora)",
+   "c": "Giordano"
+  },
+  {
+   "n": "Rodolfo (La bohème)",
+   "c": "Puccini"
+  },
+  {
+   "n": "Nemorino (L'elisir d'amore)",
+   "c": "Donizetti"
+  },
+  {
+   "n": "Radamès (Aida)",
+   "c": "Verdi"
+  },
+  {
+   "n": "Canio (Pagliacci)",
+   "c": "Leoncavallo"
+  },
+  {
+   "n": "Dick Johnson (La fanciulla del West)",
+   "c": "Puccini"
+  },
+  {
+   "n": "Eléazar (La Juive)",
+   "c": "Halévy"
+  }
+ ],
+ "tl": [
+  {
+   "y": "1873",
+   "t": {
+    "en": "Born in Naples",
+    "it": "Nasce a Napoli",
+    "ka": "დაიბადა ნეაპოლში"
+   }
+  },
+  {
+   "y": "1894",
+   "t": {
+    "en": "Debut at the Teatro Nuovo, Naples (L'amico Francesco)",
+    "it": "Debutto al Teatro Nuovo di Napoli (L'amico Francesco)",
+    "ka": "დებიუტი ნეაპოლის „ტეატრო ნუოვოში“ („მეგობარი ფრანჩესკო“)"
+   }
+  },
+  {
+   "y": "1898",
+   "t": {
+    "en": "Creates Loris in the premiere of Fedora, Milan",
+    "it": "Crea Loris nella prima di Fedora, Milano",
+    "ka": "ქმნის ლორისის პარტიას „ფედორას“ პრემიერაზე, მილანი"
+   }
+  },
+  {
+   "y": "1900",
+   "t": {
+    "en": "La Scala debut (La bohème)",
+    "it": "Debutto alla Scala (La bohème)",
+    "ka": "დებიუტი ლა სკალაში („ბოჰემა“)"
+   }
+  },
+  {
+   "y": "1902",
+   "t": {
+    "en": "Covent Garden debut (Rigoletto)",
+    "it": "Debutto al Covent Garden (Rigoletto)",
+    "ka": "დებიუტი კოვენ-გარდენში („რიგოლეტო“)"
+   }
+  },
+  {
+   "y": "1903",
+   "t": {
+    "en": "Metropolitan Opera debut on opening night (Rigoletto)",
+    "it": "Debutto al Metropolitan nella serata inaugurale (Rigoletto)",
+    "ka": "დებიუტი მეტროპოლიტენ-ოპერაში სეზონის გახსნაზე („რიგოლეტო“)"
+   }
+  },
+  {
+   "y": "1910",
+   "t": {
+    "en": "Creates Dick Johnson in La fanciulla del West, Met",
+    "it": "Crea Dick Johnson ne La fanciulla del West, Metropolitan",
+    "ka": "ქმნის დიკ ჯონსონის პარტიას („დასავლეთის ქალიშვილი“), Met"
+   }
+  },
+  {
+   "y": "1920",
+   "t": {
+    "en": "Last public performance: La Juive, Met (24 December)",
+    "it": "Ultima recita pubblica: La Juive, Metropolitan (24 dicembre)",
+    "ka": "უკანასკნელი საჯარო გამოსვლა: „ებრაელი ქალი“, Met (24 დეკემბერი)"
+   }
+  },
+  {
+   "y": "1921",
+   "t": {
+    "en": "Dies in Naples",
+    "it": "Muore a Napoli",
+    "ka": "გარდაიცვალა ნეაპოლში"
+   }
+  }
+ ],
+ "notes": [
+  {
+   "en": "Birth date: Britannica gives 25 February 1873, the Dizionario Biografico degli Italiani (Treccani) gives 27 February, and some records give 24 February. This page uses 25 February.",
+   "it": "Data di nascita: Britannica indica il 25 febbraio 1873, il Dizionario Biografico degli Italiani (Treccani) il 27 febbraio e alcuni documenti il 24 febbraio. Questa pagina usa il 25 febbraio.",
+   "ka": "დაბადების თარიღი: Britannica-ს მიხედვით 1873 წლის 25 თებერვალია, Treccani-ს „იტალიელთა ბიოგრაფიული ლექსიკონის“ მიხედვით — 27 თებერვალი, ზოგი დოკუმენტით კი — 24 თებერვალი. ამ გვერდზე გამოყენებულია 25 თებერვალი."
+  },
+  {
+   "en": "The number of his recordings and Met performances differs between sources; the figures here follow Britannica.",
+   "it": "Il numero di incisioni e di recite al Metropolitan varia tra le fonti; qui si seguono i dati di Britannica.",
+   "ka": "ჩანაწერებისა და Met-ის სპექტაკლების რაოდენობა წყაროებში განსხვავდება; აქ Britannica-ს მონაცემებია მოყვანილი."
+  }
+ ],
+ "yt": "Enrico Caruso Vesti la giubba",
+ "src": [
+  {
+   "n": "Encyclopaedia Britannica — Enrico Caruso",
+   "u": "https://www.britannica.com/biography/Enrico-Caruso"
+  },
+  {
+   "n": "Treccani, Dizionario Biografico degli Italiani — Caruso, Enrico",
+   "u": "https://www.treccani.it/enciclopedia/enrico-caruso_(Dizionario-Biografico)/"
+  },
+  {
+   "n": "Metropolitan Opera Archives — Enrico Caruso",
+   "u": "https://archives.metopera.org/MetOperaSearch/search.jsp?q=%22Enrico%20Caruso%22&src=browser"
+  },
+  {
+   "n": "Library of Congress, National Jukebox — Enrico Caruso recordings",
+   "u": "https://www.loc.gov/collections/national-jukebox/?q=Enrico+Caruso"
+  },
+  {
+   "n": "Wikipedia — Enrico Caruso",
+   "u": "https://en.wikipedia.org/wiki/Enrico_Caruso"
+  }
+ ]
+}

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21",
+ "updated": "2026-10-23",
  "singers": [
   {
    "id": "cecilia-bartoli",
@@ -166,6 +166,394 @@
     "w": 560,
     "h": 700,
     "pos": "50% 20%"
+   }
+  },
+  {
+   "id": "enrico-caruso",
+   "name": {
+    "en": "Enrico Caruso",
+    "it": "Enrico Caruso",
+    "ka": "ენრიკო კარუზო"
+   },
+   "sort": "Caruso",
+   "aliases": [
+    "Caruso",
+    "Enrico",
+    "კარუზო",
+    "ენრიკო",
+    "Карузо",
+    "Errico Caruso"
+   ],
+   "voice": "tenor",
+   "era": "historic",
+   "born": 1873,
+   "died": 1921,
+   "country": {
+    "en": "Italy",
+    "it": "Italia",
+    "ka": "იტალია"
+   },
+   "blurb": {
+    "en": "Neapolitan tenor, the Met's leading star for 17 seasons and one of the first singers to document his voice on records.",
+    "it": "Tenore napoletano, stella del Metropolitan per 17 stagioni e tra i primi cantanti a documentare la propria voce su disco.",
+    "ka": "ნეაპოლელი ტენორი; 17 სეზონის განმავლობაში მეტროპოლიტენ-ოპერის მთავარი ვარსკვლავი და ერთ-ერთი პირველი მომღერალი, ვინც ხმა ფირფიტებზე ჩაწერა."
+   },
+   "img": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Enrico_Caruso_tenor.jpg/500px-Enrico_Caruso_tenor.jpg",
+    "w": 500,
+    "h": 646,
+    "pos": "50% 25%",
+    "author": "Laveccha Studio, Chicago (1910)",
+    "lic": "Public domain",
+    "lic_u": "https://commons.wikimedia.org/wiki/File:Enrico_Caruso_tenor.jpg",
+    "file": "https://commons.wikimedia.org/wiki/File:Enrico_Caruso_tenor.jpg",
+    "sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Enrico_Caruso_tenor.jpg/250px-Enrico_Caruso_tenor.jpg",
+    "smw": 250,
+    "smh": 323
+   }
+  },
+  {
+   "id": "beniamino-gigli",
+   "name": {
+    "en": "Beniamino Gigli",
+    "it": "Beniamino Gigli",
+    "ka": "ბენიამინო ჯილი"
+   },
+   "sort": "Gigli",
+   "aliases": [
+    "Gigli",
+    "Beniamino",
+    "ჯილი",
+    "ბენიამინო",
+    "Джильи",
+    "Džili",
+    "Jilli"
+   ],
+   "voice": "tenor",
+   "era": "historic",
+   "born": 1890,
+   "died": 1957,
+   "country": {
+    "en": "Italy",
+    "it": "Italia",
+    "ka": "იტალია"
+   },
+   "blurb": {
+    "en": "Lyric tenor from Recanati, admired for the smoothness of his voice; a Met favourite in the 1920s and a popular film star.",
+    "it": "Tenore lirico di Recanati, celebre per la morbidezza della voce; beniamino del Metropolitan negli anni Venti e popolare divo del cinema.",
+    "ka": "რეკანატელი ლირიკული ტენორი, ცნობილი ხმის სირბილით; 1920-იან წლებში მეტროპოლიტენ-ოპერის საყვარელი მომღერალი და პოპულარული კინოვარსკვლავი."
+   },
+   "img": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/70/Beniamino_Gigli_1.jpg",
+    "w": 433,
+    "h": 608,
+    "pos": "45% 18%",
+    "author": "Bain News Service",
+    "lic": "Public domain",
+    "lic_u": "https://commons.wikimedia.org/wiki/File:Beniamino_Gigli_1.jpg",
+    "file": "https://commons.wikimedia.org/wiki/File:Beniamino_Gigli_1.jpg",
+    "sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Beniamino_Gigli_1.jpg/250px-Beniamino_Gigli_1.jpg",
+    "smw": 250,
+    "smh": 351
+   }
+  },
+  {
+   "id": "aureliano-pertile",
+   "name": {
+    "en": "Aureliano Pertile",
+    "it": "Aureliano Pertile",
+    "ka": "აურელიანო პერტილე"
+   },
+   "sort": "Pertile",
+   "aliases": [
+    "Pertile",
+    "Aureliano",
+    "პერტილე",
+    "აურელიანო",
+    "Пертиле"
+   ],
+   "voice": "tenor",
+   "era": "historic",
+   "born": 1885,
+   "died": 1952,
+   "country": {
+    "en": "Italy",
+    "it": "Italia",
+    "ka": "იტალია"
+   },
+   "blurb": {
+    "en": "Tenor from Montagnana, Toscanini's favourite at La Scala in the 1920s; famed for intelligence and phrasing rather than sheer beauty of tone.",
+    "it": "Tenore di Montagnana, prediletto di Toscanini alla Scala negli anni Venti; celebre per intelligenza e fraseggio più che per bellezza di timbro.",
+    "ka": "მონტანიანელი ტენორი, 1920-იან წლებში ლა სკალაში ტოსკანინის რჩეული; განთქმული იყო ინტელექტითა და ფრაზირებით უფრო, ვიდრე ტემბრის სილამაზით."
+   },
+   "img": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Pertile_LCCN2014713714.jpg/500px-Pertile_LCCN2014713714.jpg",
+    "w": 500,
+    "h": 683,
+    "pos": "60% 15%",
+    "author": "Bain News Service",
+    "lic": "Public domain",
+    "lic_u": "https://commons.wikimedia.org/wiki/File:Pertile_LCCN2014713714.jpg",
+    "file": "https://commons.wikimedia.org/wiki/File:Pertile_LCCN2014713714.jpg",
+    "sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Pertile_LCCN2014713714.jpg/250px-Pertile_LCCN2014713714.jpg",
+    "smw": 250,
+    "smh": 341
+   }
+  },
+  {
+   "id": "joan-sutherland",
+   "name": {
+    "en": "Joan Sutherland",
+    "it": "Joan Sutherland",
+    "ka": "ჯოან საზერლენდი"
+   },
+   "sort": "Sutherland",
+   "aliases": [
+    "Sutherland",
+    "Joan",
+    "La Stupenda",
+    "საზერლენდი",
+    "ჯოანი",
+    "Сазерленд",
+    "Dame Joan Sutherland"
+   ],
+   "voice": "soprano",
+   "era": "historic",
+   "born": 1926,
+   "died": 2010,
+   "country": {
+    "en": "Australia",
+    "it": "Australia",
+    "ka": "ავსტრალია"
+   },
+   "blurb": {
+    "en": "Australian soprano, “La Stupenda”, regarded as the leading coloratura of the 20th century and celebrated in the bel canto repertoire.",
+    "it": "Soprano australiana, “La Stupenda”, considerata la massima coloratura del Novecento e celebre nel repertorio belcantistico.",
+    "ka": "ავსტრალიელი სოპრანო, „ლა სტუპენდა“; XX საუკუნის წამყვან კოლორატურად მიიჩნევა და განსაკუთრებით ცნობილია ბელკანტოს რეპერტუარით."
+   },
+   "img": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Dame_Joan_Sutherland_21_Allan_Warren.jpg/500px-Dame_Joan_Sutherland_21_Allan_Warren.jpg",
+    "w": 500,
+    "h": 659,
+    "pos": "50% 30%",
+    "author": "Allan Warren (1975)",
+    "lic": "CC BY-SA 3.0",
+    "lic_u": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "file": "https://commons.wikimedia.org/wiki/File:Dame_Joan_Sutherland_21_Allan_Warren.jpg",
+    "sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Dame_Joan_Sutherland_21_Allan_Warren.jpg/250px-Dame_Joan_Sutherland_21_Allan_Warren.jpg",
+    "smw": 250,
+    "smh": 330
+   }
+  },
+  {
+   "id": "franco-corelli",
+   "name": {
+    "en": "Franco Corelli",
+    "it": "Franco Corelli",
+    "ka": "ფრანკო კორელი"
+   },
+   "sort": "Corelli",
+   "aliases": [
+    "Corelli",
+    "Franco",
+    "Dario Franco Corelli",
+    "კორელი",
+    "ფრანკო",
+    "Корелли"
+   ],
+   "voice": "tenor",
+   "era": "historic",
+   "born": 1921,
+   "died": 2003,
+   "country": {
+    "en": "Italy",
+    "it": "Italia",
+    "ka": "იტალია"
+   },
+   "blurb": {
+    "en": "Tenor from Ancona with a large, dark voice and brilliant top; a celebrated Calaf, Manrico and Pollione at La Scala and the Met.",
+    "it": "Tenore di Ancona dalla voce ampia e scura e dagli acuti squillanti; celebre Calaf, Manrico e Pollione alla Scala e al Metropolitan.",
+    "ka": "ანკონელი ტენორი დიდი, მუქი ხმითა და ბრწყინვალე მაღალი რეგისტრით; ცნობილი კალაფი, მანრიკო და პოლიონე ლა სკალასა და Met-ში."
+   },
+   "img": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Photo_Naples%2C_San_Carlo_Theatre%2C_1955-56_season%2C_Portrait_of_the_Italian_tenor_Franco_Corelli_on_the_occasion_of_the_performance_of_Giuseppe_Verdi%27s_Aida_1956_-_Touring_Club_Italiano_11_5273.jpg/500px-thumbnail.jpg",
+    "w": 500,
+    "h": 698,
+    "pos": "55% 22%",
+    "author": "Touring Club Italiano (photographer unknown, 1956)",
+    "lic": "CC BY-SA 4.0",
+    "lic_u": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "file": "https://commons.wikimedia.org/wiki/File:Photo_Naples%2C_San_Carlo_Theatre%2C_1955-56_season%2C_Portrait_of_the_Italian_tenor_Franco_Corelli_on_the_occasion_of_the_performance_of_Giuseppe_Verdi%27s_Aida_1956_-_Touring_Club_Italiano_11_5273.jpg",
+    "sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Photo_Naples%2C_San_Carlo_Theatre%2C_1955-56_season%2C_Portrait_of_the_Italian_tenor_Franco_Corelli_on_the_occasion_of_the_performance_of_Giuseppe_Verdi%27s_Aida_1956_-_Touring_Club_Italiano_11_5273.jpg/250px-thumbnail.jpg",
+    "smw": 250,
+    "smh": 349
+   }
+  },
+  {
+   "id": "renata-scotto",
+   "name": {
+    "en": "Renata Scotto",
+    "it": "Renata Scotto",
+    "ka": "რენატა სკოტო"
+   },
+   "sort": "Scotto",
+   "aliases": [
+    "Scotto",
+    "Renata",
+    "სკოტო",
+    "რენატა",
+    "Скотто"
+   ],
+   "voice": "soprano",
+   "era": "historic",
+   "born": 1934,
+   "died": 2023,
+   "country": {
+    "en": "Italy",
+    "it": "Italia",
+    "ka": "იტალია"
+   },
+   "blurb": {
+    "en": "Soprano from Savona, a great singing actress: Butterfly, Violetta and the bel canto heroines; later an opera director and teacher.",
+    "it": "Soprano di Savona, grande attrice-cantante: Butterfly, Violetta e le eroine del belcanto; in seguito regista d'opera e insegnante.",
+    "ka": "სავონელი სოპრანო, დიდი მომღერალი-მსახიობი: ბატერფლაი, ვიოლეტა და ბელკანტოს გმირი ქალები; მოგვიანებით ოპერის რეჟისორი და პედაგოგი."
+   },
+   "img": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Photo_The_soprano_Renata_Scotto_records_Rossini%27s_opera_La_cambiale_di_matrimonio_for_Casa_Ricordi_1960_-_Touring_Club_Italiano_04_1946.jpg/500px-Photo_The_soprano_Renata_Scotto_records_Rossini%27s_opera_La_cambiale_di_matrimonio_for_Casa_Ricordi_1960_-_Touring_Club_Italiano_04_1946.jpg",
+    "w": 500,
+    "h": 379,
+    "pos": "88% 35%",
+    "author": "Touring Club Italiano (photographer unknown, 1960)",
+    "lic": "CC BY-SA 4.0",
+    "lic_u": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "file": "https://commons.wikimedia.org/wiki/File:Photo_The_soprano_Renata_Scotto_records_Rossini%27s_opera_La_cambiale_di_matrimonio_for_Casa_Ricordi_1960_-_Touring_Club_Italiano_04_1946.jpg",
+    "sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Photo_The_soprano_Renata_Scotto_records_Rossini%27s_opera_La_cambiale_di_matrimonio_for_Casa_Ricordi_1960_-_Touring_Club_Italiano_04_1946.jpg/250px-Photo_The_soprano_Renata_Scotto_records_Rossini%27s_opera_La_cambiale_di_matrimonio_for_Casa_Ricordi_1960_-_Touring_Club_Italiano_04_1946.jpg",
+    "smw": 250,
+    "smh": 189
+   }
+  },
+  {
+   "id": "nicolai-ghiaurov",
+   "name": {
+    "en": "Nicolai Ghiaurov",
+    "it": "Nicolai Ghiaurov",
+    "ka": "ნიკოლაი გიაუროვი"
+   },
+   "sort": "Ghiaurov",
+   "aliases": [
+    "Ghiaurov",
+    "Gyaurov",
+    "Gjaurov",
+    "Nikolaj Ghiaurov",
+    "Nicolai",
+    "გიაუროვი",
+    "ნიკოლაი",
+    "Гяуров",
+    "Николай Гяуров"
+   ],
+   "voice": "bass",
+   "era": "historic",
+   "born": 1929,
+   "died": 2004,
+   "country": {
+    "en": "Bulgaria",
+    "it": "Bulgaria",
+    "ka": "ბულგარეთი"
+   },
+   "blurb": {
+    "en": "Bulgarian bass with a broad, velvety voice; a defining Boris Godunov and Philip II, and one of the great basses of the 20th century.",
+    "it": "Basso bulgaro dal timbro ampio e vellutato; Boris Godunov e Filippo II di riferimento, tra i grandi bassi del Novecento.",
+    "ka": "ბულგარელი ბასი ფართო, ხავერდოვანი ხმით; ბორის გოდუნოვისა და ფილიპე II-ის ეტალონური შემსრულებელი, XX საუკუნის ერთ-ერთი დიდი ბასი."
+   }
+  },
+  {
+   "id": "dmitri-hvorostovsky",
+   "name": {
+    "en": "Dmitri Hvorostovsky",
+    "it": "Dmitrij Chvorostovskij",
+    "ka": "დიმიტრი ხვოროსტოვსკი"
+   },
+   "sort": "Hvorostovsky",
+   "aliases": [
+    "Hvorostovsky",
+    "Khvorostovsky",
+    "Chvorostovskij",
+    "Dmitry",
+    "Dmitri",
+    "ხვოროსტოვსკი",
+    "დიმიტრი",
+    "Хворостовский",
+    "Дмитрий Хворостовский"
+   ],
+   "voice": "baritone",
+   "era": "historic",
+   "born": 1962,
+   "died": 2017,
+   "country": {
+    "en": "Russia",
+    "it": "Russia",
+    "ka": "რუსეთი"
+   },
+   "blurb": {
+    "en": "Siberian baritone with a dark, seamless legato; winner of Cardiff Singer of the World 1989 and a celebrated Onegin and Verdi baritone.",
+    "it": "Baritono siberiano dal legato scuro e omogeneo; vincitore del Cardiff Singer of the World 1989, celebre Onegin e baritono verdiano.",
+    "ka": "ციმბირელი ბარიტონი მუქი, უწყვეტი ლეგატოთი; 1989 წლის „კარდიფის მსოფლიო მომღერლის“ გამარჯვებული, ცნობილი ონეგინი და ვერდის ბარიტონი."
+   },
+   "img": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Hvorostovsky_%28cropped%29.jpeg/500px-Hvorostovsky_%28cropped%29.jpeg",
+    "w": 500,
+    "h": 665,
+    "pos": "50% 25%",
+    "author": "Kremlin.ru (2011)",
+    "lic": "CC BY 4.0",
+    "lic_u": "https://creativecommons.org/licenses/by/4.0/",
+    "file": "https://commons.wikimedia.org/wiki/File:Hvorostovsky_%28cropped%29.jpeg",
+    "sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Hvorostovsky_%28cropped%29.jpeg/250px-Hvorostovsky_%28cropped%29.jpeg",
+    "smw": 250,
+    "smh": 333
+   }
+  },
+  {
+   "id": "tito-gobbi",
+   "name": {
+    "en": "Tito Gobbi",
+    "it": "Tito Gobbi",
+    "ka": "ტიტო გობი"
+   },
+   "sort": "Gobbi",
+   "aliases": [
+    "Gobbi",
+    "Tito",
+    "გობი",
+    "ტიტო",
+    "Гобби"
+   ],
+   "voice": "baritone",
+   "era": "historic",
+   "born": 1913,
+   "died": 1984,
+   "country": {
+    "en": "Italy",
+    "it": "Italia",
+    "ka": "იტალია"
+   },
+   "blurb": {
+    "en": "Baritone from Bassano del Grappa, the great singing actor of his generation: Scarpia, Falstaff, Iago and Simon Boccanegra.",
+    "it": "Baritono di Bassano del Grappa, grande cantante-attore della sua generazione: Scarpia, Falstaff, Jago e Simon Boccanegra.",
+    "ka": "ბასანო-დელ-გრაპელი ბარიტონი, თავისი თაობის დიდი მომღერალი-მსახიობი: სკარპია, ფალსტაფი, იაგო და სიმონ ბოკანეგრა."
+   },
+   "img": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Tito_Gobbi_Allan_Warren.jpg/500px-Tito_Gobbi_Allan_Warren.jpg",
+    "w": 500,
+    "h": 524,
+    "pos": "50% 25%",
+    "author": "Allan Warren (1973)",
+    "lic": "CC BY-SA 3.0",
+    "lic_u": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "file": "https://commons.wikimedia.org/wiki/File:Tito_Gobbi_Allan_Warren.jpg",
+    "sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Tito_Gobbi_Allan_Warren.jpg/250px-Tito_Gobbi_Allan_Warren.jpg",
+    "smw": 250,
+    "smh": 262
    }
   }
  ]
