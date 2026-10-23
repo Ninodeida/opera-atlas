@@ -1,0 +1,146 @@
+{
+ "id": "george-gagnidze",
+ "name": {
+  "en": "George Gagnidze",
+  "it": "George Gagnidze",
+  "ka": "გია გაგნიძე"
+ },
+ "vtype": {
+  "en": "Baritone",
+  "it": "Baritono",
+  "ka": "ბარიტონი"
+ },
+ "life": {
+  "en": "b. 9 Aug 1970, Tbilisi",
+  "it": "n. 9 ago 1970, Tbilisi",
+  "ka": "დ. 1970 წლის 9 აგვისტო, თბილისი"
+ },
+ "bio": {
+  "en": [
+   "George (Giorgi) Gagnidze was born in Tbilisi and studied at the Tbilisi State Conservatoire in the class of Tamaz Laperashvili, graduating in 1996. While still a student he made his debut at the Tbilisi Opera and Ballet Theatre, where he sang leading roles for about ten years, including Murman and Kiazo in Paliashvili's operas, Germont, Iago, Rigoletto and Amonasro.",
+   "From 2003 to 2005 he sang leading roles in German opera houses, including Weimar and Osnabrück. In 2005 he won the Voci Verdiane competition in Busseto, whose jury was chaired by José Carreras. In 2008 he sang Scarpia in Tosca with the New York Philharmonic under Lorin Maazel.",
+   "On 27 January 2009 he made his Metropolitan Opera debut in the title role of Rigoletto, and the same year he sang Scarpia in Luc Bondy's new Met production of Tosca under James Levine. He has since returned to the Met regularly, in roles including Macbeth, Alfio and Tonio, and has sung at La Scala, the Paris Opéra, the Vienna State Opera, the Berlin opera houses, the Arena di Verona, the Liceu and the Teatro Real. He has lived in Germany since 2003."
+  ],
+  "it": [
+   "George (Giorgi) Gagnidze nacque a Tbilisi e studiò al Conservatorio statale di Tbilisi nella classe di Tamaz Laperashvili, diplomandosi nel 1996. Ancora studente debuttò al Teatro dell'Opera e del Balletto di Tbilisi, dove per circa dieci anni cantò ruoli principali, tra cui Murman e Kiazo nelle opere di Paliashvili, Germont, Jago, Rigoletto e Amonasro.",
+   "Dal 2003 al 2005 cantò ruoli principali in teatri tedeschi, tra cui Weimar e Osnabrück. Nel 2005 vinse il concorso Voci Verdiane di Busseto, la cui giuria era presieduta da José Carreras. Nel 2008 fu Scarpia in Tosca con la New York Philharmonic diretta da Lorin Maazel.",
+   "Il 27 gennaio 2009 debuttò al Metropolitan nel ruolo del titolo di Rigoletto e nello stesso anno cantò Scarpia nel nuovo allestimento di Tosca di Luc Bondy diretto da James Levine. Da allora è tornato regolarmente al Metropolitan, tra l'altro come Macbeth, Alfio e Tonio, e ha cantato alla Scala, all'Opéra di Parigi, alla Staatsoper di Vienna, nei teatri d'opera di Berlino, all'Arena di Verona, al Liceu e al Teatro Real. Vive in Germania dal 2003."
+  ],
+  "ka": [
+   "გია (გიორგი) გაგნიძე თბილისში დაიბადა და თბილისის სახელმწიფო კონსერვატორიაში თამაზ ლაფერაშვილის კლასში სწავლობდა, რომელიც 1996 წელს დაამთავრა. ჯერ კიდევ სტუდენტობისას დებიუტი შედგა თბილისის ოპერისა და ბალეტის თეატრში, სადაც დაახლოებით ათი წლის განმავლობაში წამყვან პარტიებს მღეროდა, მათ შორის მურმანსა და კიაზოს ფალიაშვილის ოპერებში, ჟერმონს, იაგოს, რიგოლეტოსა და ამონასროს.",
+   "2003–2005 წლებში წამყვან პარტიებს მღეროდა გერმანიის საოპერო თეატრებში, მათ შორის ვაიმარსა და ოსნაბრიუკში. 2005 წელს ბუსეტოში კონკურსში „ვერდის ხმები“ გაიმარჯვა, რომლის ჟიურის თავმჯდომარეც ხოსე კარერასი იყო. 2008 წელს ნიუ-იორკის ფილარმონიასთან ერთად, ლორინ მაზელის დირიჟორობით, სკარპია იმღერა „ტოსკაში“.",
+   "2009 წლის 27 იანვარს მეტროპოლიტენ-ოპერაში დებიუტი შედგა რიგოლეტოს მთავარი პარტიით, იმავე წელს კი ლუკ ბონდის ახალ დადგმაში, ჯეიმზ ლევაინის დირიჟორობით, სკარპია იმღერა. მას შემდეგ რეგულარულად ბრუნდება Met-ში, მათ შორის მაკბეტის, ალფიოსა და ტონიოს პარტიებით, და უმღერია ლა სკალაში, პარიზის ოპერაში, ვენის სახელმწიფო ოპერაში, ბერლინის თეატრებში, ვერონის არენაზე, ლისეუსა და მადრიდის „ტეატრო რეალში“. 2003 წლიდან გერმანიაში ცხოვრობს."
+  ]
+ },
+ "roles": [
+  {
+   "n": "Rigoletto",
+   "c": "Verdi"
+  },
+  {
+   "n": "Scarpia (Tosca)",
+   "c": "Puccini"
+  },
+  {
+   "n": "Macbeth",
+   "c": "Verdi"
+  },
+  {
+   "n": "Amonasro (Aida)",
+   "c": "Verdi"
+  },
+  {
+   "n": "Iago (Otello)",
+   "c": "Verdi"
+  },
+  {
+   "n": "Tonio (Pagliacci)",
+   "c": "Leoncavallo"
+  },
+  {
+   "n": "Alfio (Cavalleria rusticana)",
+   "c": "Mascagni"
+  },
+  {
+   "n": "Murman (Abesalom and Eteri)",
+   "c": "Paliashvili"
+  }
+ ],
+ "tl": [
+  {
+   "y": "1970",
+   "t": {
+    "en": "Born in Tbilisi",
+    "it": "Nasce a Tbilisi",
+    "ka": "დაიბადა თბილისში"
+   }
+  },
+  {
+   "y": "1994/1996",
+   "t": {
+    "en": "Debut at the Tbilisi Opera (see notes)",
+    "it": "Debutto all'Opera di Tbilisi (vedi note)",
+    "ka": "დებიუტი თბილისის ოპერაში (იხ. შენიშვნები)"
+   }
+  },
+  {
+   "y": "2003",
+   "t": {
+    "en": "Moves to Germany; engagements in German houses",
+    "it": "Si trasferisce in Germania; scritture in teatri tedeschi",
+    "ka": "გადადის გერმანიაში; კონტრაქტები გერმანიის თეატრებში"
+   }
+  },
+  {
+   "y": "2005",
+   "t": {
+    "en": "Wins Voci Verdiane, Busseto",
+    "it": "Vince Voci Verdiane, Busseto",
+    "ka": "იმარჯვებს კონკურსში „ვერდის ხმები“, ბუსეტო"
+   }
+  },
+  {
+   "y": "2008",
+   "t": {
+    "en": "Scarpia with the New York Philharmonic under Lorin Maazel",
+    "it": "Scarpia con la New York Philharmonic diretta da Lorin Maazel",
+    "ka": "სკარპია ნიუ-იორკის ფილარმონიასთან, ლორინ მაზელის დირიჟორობით"
+   }
+  },
+  {
+   "y": "2009",
+   "t": {
+    "en": "Metropolitan Opera debut (Rigoletto); Scarpia in the Met's new Tosca",
+    "it": "Debutto al Metropolitan (Rigoletto); Scarpia nella nuova Tosca del Met",
+    "ka": "დებიუტი მეტროპოლიტენ-ოპერაში („რიგოლეტო“); სკარპია Met-ის ახალ „ტოსკაში“"
+   }
+  }
+ ],
+ "notes": [
+  {
+   "en": "Debut at the Tbilisi Opera: Georgian sources give 1994, as Murman in Abesalom and Eteri, when he was a third-year student; English Wikipedia gives 1996, as Renato in Un ballo in maschera.",
+   "it": "Debutto all'Opera di Tbilisi: le fonti georgiane indicano il 1994, come Murman in Abesalom ed Eteri, quando era studente al terzo anno; Wikipedia in inglese indica il 1996, come Renato in Un ballo in maschera.",
+   "ka": "დებიუტი თბილისის ოპერაში: ქართული წყაროები 1994 წელს ასახელებენ, მურმანის პარტიით („აბესალომ და ეთერი“), როცა მესამე კურსის სტუდენტი იყო; ინგლისური Wikipedia — 1996 წელს, რენატოს პარტიით („ბალ-მასკარადი“)."
+  },
+  {
+   "en": "In Georgian reference works his name is Giorgi Gagnidze; internationally he performs as George Gagnidze, and the Georgian short form Gia is also used.",
+   "it": "Nelle opere di consultazione georgiane il suo nome è Giorgi Gagnidze; a livello internazionale si esibisce come George Gagnidze, ed è in uso anche la forma breve georgiana Gia.",
+   "ka": "ქართულ საცნობარო გამოცემებში მისი სახელია გიორგი გაგნიძე; საერთაშორისო სცენაზე George Gagnidze-ის სახელით გამოდის, ასევე გამოიყენება ქართული შემოკლებული ფორმა „გია“."
+  }
+ ],
+ "yt": "George Gagnidze Rigoletto",
+ "src": [
+  {
+   "n": "NPLG, Encyclopaedic Dictionary of Music — გაგნიძე გიორგი",
+   "u": "https://www.nplg.gov.ge/wikidict/index.php/%E1%83%92%E1%83%90%E1%83%92%E1%83%9C%E1%83%98%E1%83%AB%E1%83%94_%E1%83%92%E1%83%98%E1%83%9D%E1%83%A0%E1%83%92%E1%83%98"
+  },
+  {
+   "n": "Metropolitan Opera Archives — George Gagnidze",
+   "u": "https://archives.metopera.org/MetOperaSearch/search.jsp?q=%22George%20Gagnidze%22&src=browser"
+  },
+  {
+   "n": "Wikipedia — George Gagnidze",
+   "u": "https://en.wikipedia.org/wiki/George_Gagnidze"
+  }
+ ]
+}

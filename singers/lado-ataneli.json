@@ -1,0 +1,138 @@
+{
+ "id": "lado-ataneli",
+ "name": {
+  "en": "Lado Ataneli",
+  "it": "Lado Ataneli",
+  "ka": "ლადო ათანელი"
+ },
+ "vtype": {
+  "en": "Baritone",
+  "it": "Baritono",
+  "ka": "ბარიტონი"
+ },
+ "life": {
+  "en": "b. 9 Sep 1964, Dedoplistskaro district (see notes)",
+  "it": "n. 9 set 1964, distretto di Dedoplistskaro (vedi note)",
+  "ka": "დ. 1964 წლის 9 სექტემბერი, დედოფლისწყაროს რაიონი (იხ. შენიშვნები)"
+ },
+ "bio": {
+  "en": [
+   "Lado Ataneli (born Vladimer Atanelishvili) was born in the Dedoplistskaro district of eastern Georgia into a musical family. He studied at the Tbilisi State Conservatoire from 1984 to 1989 and joined the Tbilisi Opera and Ballet Theatre, first as a trainee and from 1989 as a soloist. There he sang Renato in Un ballo in maschera, Germont, Montano in Otello, Figaro and Murman in Paliashvili's Abesalom and Eteri.",
+   "In 1991 he won first prize and the Grand Prix at the Francesc Viñas International Singing Competition in Barcelona. In 1993 he moved to Germany, and from there he built an international career under the name Ataneli, appearing at houses including La Scala, the Paris Opéra and Covent Garden. On 25 February 2003 he made his Metropolitan Opera debut as Germont in La traviata.",
+   "In 2003 he recorded Barnaba in Ponchielli's La Gioconda with Plácido Domingo for EMI, and he has released solo albums of opera arias. In Georgia he founded the charity foundation Tanadgoma (2009) and a vocal competition for young singers that bears his name; he received the Shota Rustaveli State Prize in 2011."
+  ],
+  "it": [
+   "Lado Ataneli (nato Vladimer Atanelishvili) nacque nel distretto di Dedoplistskaro, nella Georgia orientale, in una famiglia di musicisti. Studiò al Conservatorio statale di Tbilisi dal 1984 al 1989 ed entrò al Teatro dell'Opera e del Balletto di Tbilisi, prima come allievo e dal 1989 come solista. Lì cantò Renato in Un ballo in maschera, Germont, Montano in Otello, Figaro e Murman in Abesalom ed Eteri di Paliashvili.",
+   "Nel 1991 vinse il primo premio e il Grand Prix al Concorso internazionale di canto Francesc Viñas di Barcellona. Nel 1993 si trasferì in Germania e da lì costruì una carriera internazionale con il nome Ataneli, esibendosi tra l'altro alla Scala, all'Opéra di Parigi e al Covent Garden. Il 25 febbraio 2003 debuttò al Metropolitan come Germont ne La traviata.",
+   "Nel 2003 incise Barnaba nella Gioconda di Ponchielli con Plácido Domingo per EMI e ha pubblicato album solistici di arie d'opera. In Georgia ha fondato la fondazione benefica Tanadgoma (2009) e un concorso di canto per giovani che porta il suo nome; nel 2011 ha ricevuto il Premio di Stato Shota Rustaveli."
+  ],
+  "ka": [
+   "ლადო ათანელი (დაბადებით ვლადიმერ ათანელიშვილი) აღმოსავლეთ საქართველოში, დედოფლისწყაროს რაიონში, მუსიკალურ ოჯახში დაიბადა. 1984–1989 წლებში თბილისის სახელმწიფო კონსერვატორიაში სწავლობდა და თბილისის ოპერისა და ბალეტის თეატრში ჯერ სტაჟიორად, 1989 წლიდან კი სოლისტად მიიღეს. აქ იმღერა რენატო „ბალ-მასკარადში“, ჟერმონი, მონტანო „ოტელოში“, ფიგარო და მურმანი ზაქარია ფალიაშვილის „აბესალომ და ეთერში“.",
+   "1991 წელს ბარსელონაში ფრანსესკ ვინიასის სახელობის საერთაშორისო ვოკალურ კონკურსში პირველი პრემია და გრან-პრი მოიპოვა. 1993 წელს გერმანიაში გადავიდა და იქიდან ათანელის სახელით საერთაშორისო კარიერა ააწყო: გამოდიოდა ლა სკალაში, პარიზის ოპერასა და კოვენ-გარდენში. 2003 წლის 25 თებერვალს მეტროპოლიტენ-ოპერაში დებიუტი შედგა ჟერმონის პარტიით („ტრავიატა“).",
+   "2003 წელს EMI-სთვის პლასიდო დომინგოსთან ერთად ჩაწერა ბარნაბას პარტია პონკიელის „ჯოკონდაში“; გამოცემული აქვს საოპერო არიების სოლო ალბომები. საქართველოში დააარსა საქველმოქმედო ფონდი „თანადგომა“ (2009) და ახალგაზრდა ვოკალისტთა კონკურსი, რომელიც მის სახელს ატარებს; 2011 წელს შოთა რუსთაველის სახელობის სახელმწიფო პრემია მიენიჭა."
+  ]
+ },
+ "roles": [
+  {
+   "n": "Germont (La traviata)",
+   "c": "Verdi"
+  },
+  {
+   "n": "Renato (Un ballo in maschera)",
+   "c": "Verdi"
+  },
+  {
+   "n": "Barnaba (La Gioconda)",
+   "c": "Ponchielli"
+  },
+  {
+   "n": "Figaro (Il barbiere di Siviglia)",
+   "c": "Rossini"
+  },
+  {
+   "n": "Murman (Abesalom and Eteri)",
+   "c": "Paliashvili"
+  },
+  {
+   "n": "Montano (Otello)",
+   "c": "Verdi"
+  }
+ ],
+ "tl": [
+  {
+   "y": "1964",
+   "t": {
+    "en": "Born in the Dedoplistskaro district",
+    "it": "Nasce nel distretto di Dedoplistskaro",
+    "ka": "დაიბადა დედოფლისწყაროს რაიონში"
+   }
+  },
+  {
+   "y": "1989",
+   "t": {
+    "en": "Graduates from the Tbilisi Conservatoire; soloist of the Tbilisi Opera",
+    "it": "Diploma al Conservatorio di Tbilisi; solista dell'Opera di Tbilisi",
+    "ka": "ამთავრებს თბილისის კონსერვატორიას; თბილისის ოპერის სოლისტი"
+   }
+  },
+  {
+   "y": "1991",
+   "t": {
+    "en": "First prize and Grand Prix, Francesc Viñas Competition, Barcelona",
+    "it": "Primo premio e Grand Prix, Concorso Francesc Viñas, Barcellona",
+    "ka": "პირველი პრემია და გრან-პრი, ვინიასის კონკურსი, ბარსელონა"
+   }
+  },
+  {
+   "y": "1993",
+   "t": {
+    "en": "Moves to Germany",
+    "it": "Si trasferisce in Germania",
+    "ka": "გადადის გერმანიაში"
+   }
+  },
+  {
+   "y": "2003",
+   "t": {
+    "en": "Metropolitan Opera debut (La traviata); La Gioconda with Domingo for EMI",
+    "it": "Debutto al Metropolitan (La traviata); La Gioconda con Domingo per EMI",
+    "ka": "დებიუტი მეტროპოლიტენ-ოპერაში („ტრავიატა“); „ჯოკონდა“ დომინგოსთან ერთად EMI-სთვის"
+   }
+  },
+  {
+   "y": "2011",
+   "t": {
+    "en": "Shota Rustaveli State Prize",
+    "it": "Premio di Stato Shota Rustaveli",
+    "ka": "შოთა რუსთაველის სახელობის სახელმწიფო პრემია"
+   }
+  }
+ ],
+ "notes": [
+  {
+   "en": "Birth date and place: the NPLG music dictionary gives 9 September 1964, Dedoplistskaro; Georgian Wikipedia gives 12 September 1964 and the village of Japaridze (today Samreklo) in the Dedoplistskaro district.",
+   "it": "Data e luogo di nascita: il dizionario musicale della NPLG indica il 9 settembre 1964 a Dedoplistskaro; Wikipedia in georgiano il 12 settembre 1964 e il villaggio di Japaridze (oggi Samreklo) nel distretto di Dedoplistskaro.",
+   "ka": "დაბადების თარიღი და ადგილი: ეროვნული ბიბლიოთეკის მუსიკის ლექსიკონის მიხედვით 1964 წლის 9 სექტემბერია, დედოფლისწყარო; ქართული Wikipedia-ს მიხედვით — 1964 წლის 12 სექტემბერი, დედოფლისწყაროს რაიონის სოფელი ჯაფარიძე (ახლა სამრეკლო)."
+  },
+  {
+   "en": "The list of international houses follows Georgian Wikipedia; only the Met debut has been checked against the house's own archive.",
+   "it": "L'elenco dei teatri internazionali segue Wikipedia in georgiano; solo il debutto al Metropolitan è stato verificato nell'archivio del teatro.",
+   "ka": "საერთაშორისო თეატრების ჩამონათვალი ქართული Wikipedia-ს მიხედვითაა; თეატრის საკუთარ არქივში მხოლოდ Met-ის დებიუტია გადამოწმებული."
+  }
+ ],
+ "yt": "Lado Ataneli baritone",
+ "src": [
+  {
+   "n": "NPLG, Encyclopaedic Dictionary of Music — ათანელი ლადო",
+   "u": "https://www.nplg.gov.ge/wikidict/index.php/%E1%83%90%E1%83%97%E1%83%90%E1%83%9C%E1%83%94%E1%83%9A%E1%83%98_%E1%83%9A%E1%83%90%E1%83%93%E1%83%9D"
+  },
+  {
+   "n": "Metropolitan Opera Archives — Lado Ataneli",
+   "u": "https://archives.metopera.org/MetOperaSearch/search.jsp?q=%22Lado%20Ataneli%22&src=browser"
+  },
+  {
+   "n": "Wikipedia (ka) — ლადო ათანელი",
+   "u": "https://ka.wikipedia.org/wiki/%E1%83%9A%E1%83%90%E1%83%93%E1%83%9D_%E1%83%90%E1%83%97%E1%83%90%E1%83%9C%E1%83%94%E1%83%9A%E1%83%98"
+  }
+ ]
+}

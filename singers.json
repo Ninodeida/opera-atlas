@@ -555,6 +555,268 @@
     "smw": 250,
     "smh": 262
    }
+  },
+  {
+   "id": "montserrat-caballe",
+   "name": {
+    "en": "Montserrat Caballé",
+    "it": "Montserrat Caballé",
+    "ka": "მონსერატ კაბალიე"
+   },
+   "sort": "Caballe",
+   "aliases": [
+    "Caballé",
+    "Caballe",
+    "Montserrat",
+    "კაბალიე",
+    "მონსერატ",
+    "Кабалье",
+    "Montserrat Caballé i Folch"
+   ],
+   "voice": "soprano",
+   "era": "historic",
+   "born": 1933,
+   "died": 2018,
+   "country": {
+    "en": "Spain",
+    "it": "Spagna",
+    "ka": "ესპანეთი"
+   },
+   "blurb": {
+    "en": "Catalan soprano admired for her versatility and phrasing in Verdi, Donizetti and Strauss; famed for her pianissimo and for “Barcelona” with Freddie Mercury.",
+    "it": "Soprano catalano ammirato per versatilità e fraseggio in Verdi, Donizetti e Strauss; celebre per i pianissimi e per “Barcelona” con Freddie Mercury.",
+    "ka": "კატალონიელი სოპრანო, ცნობილი მრავალმხრივობითა და ფრაზირებით ვერდის, დონიცეტისა და შტრაუსის ოპერებში; განთქმული იყო პიანისიმოთი და ფრედი მერკურისთან ერთად შესრულებული „ბარსელონათი“."
+   },
+   "img": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Montserrat_Caball%C3%A9_i_Folch_cropped_%281982%29.jpg/500px-Montserrat_Caball%C3%A9_i_Folch_cropped_%281982%29.jpg",
+    "w": 500,
+    "h": 625,
+    "pos": "50% 25%",
+    "author": "Generalitat de Catalunya, Departament de la Presidència (1982)",
+    "lic": "Attribution (Generalitat de Catalunya)",
+    "lic_u": "https://commons.wikimedia.org/wiki/Template:Attribution-gencat",
+    "file": "https://commons.wikimedia.org/wiki/File:Montserrat_Caball%C3%A9_i_Folch_cropped_(1982).jpg",
+    "sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Montserrat_Caball%C3%A9_i_Folch_cropped_%281982%29.jpg/250px-Montserrat_Caball%C3%A9_i_Folch_cropped_%281982%29.jpg",
+    "smw": 250,
+    "smh": 313
+   }
+  },
+  {
+   "id": "tsisana-tatishvili",
+   "name": {
+    "en": "Tsisana Tatishvili",
+    "it": "Tsisana Tatishvili",
+    "ka": "ცისანა ტატიშვილი"
+   },
+   "sort": "Tatishvili",
+   "aliases": [
+    "Tatishvili",
+    "Tsisana",
+    "ტატიშვილი",
+    "ცისანა",
+    "Татишвили",
+    "Цисана Татишвили"
+   ],
+   "voice": "soprano",
+   "era": "historic",
+   "born": 1939,
+   "died": 2017,
+   "country": {
+    "en": "Georgia",
+    "it": "Georgia",
+    "ka": "საქართველო"
+   },
+   "blurb": {
+    "en": "Lyric-dramatic soprano of the Tbilisi Opera, a celebrated Eteri, Tosca and Salome; People's Artist of the USSR.",
+    "it": "Soprano lirico-drammatico dell'Opera di Tbilisi, celebre Eteri, Tosca e Salome; Artista del popolo dell'URSS.",
+    "ka": "თბილისის ოპერის ლირიკულ-დრამატული სოპრანო, ცნობილი ეთერი, ტოსკა და სალომეა; სსრკ სახალხო არტისტი."
+   }
+  },
+  {
+   "id": "david-gamrekeli",
+   "name": {
+    "en": "David Gamrekeli",
+    "it": "David Gamrekeli",
+    "ka": "დავით გამრეკელი"
+   },
+   "sort": "Gamrekeli",
+   "aliases": [
+    "Gamrekeli",
+    "David",
+    "Davit Gamrekeli",
+    "გამრეკელი",
+    "დავით",
+    "Гамрекели"
+   ],
+   "voice": "baritone",
+   "era": "historic",
+   "born": 1911,
+   "died": 1977,
+   "country": {
+    "en": "Georgia",
+    "it": "Georgia",
+    "ka": "საქართველო"
+   },
+   "blurb": {
+    "en": "Georgian baritone with a velvety voice, a famous Kiazo in Daisi; soloist of the Tbilisi Opera and of the Bolshoi (1944–1952).",
+    "it": "Baritono georgiano dalla voce vellutata, celebre Kiazo in Daisi; solista dell'Opera di Tbilisi e del Bol'šoj (1944–1952).",
+    "ka": "ხავერდოვანი ხმის ქართველი ბარიტონი, განთქმული კიაზო „დაისში“; თბილისის ოპერისა და მოსკოვის დიდი თეატრის (1944–1952) სოლისტი."
+   }
+  },
+  {
+   "id": "vano-sarajishvili",
+   "name": {
+    "en": "Vano Sarajishvili",
+    "it": "Vano Sarajishvili",
+    "ka": "ვანო სარაჯიშვილი"
+   },
+   "sort": "Sarajishvili",
+   "aliases": [
+    "Sarajishvili",
+    "Vano",
+    "Ivane Sarajishvili",
+    "სარაჯიშვილი",
+    "ვანო",
+    "ივანე სარაჯიშვილი",
+    "Сараджишвили"
+   ],
+   "voice": "tenor",
+   "era": "historic",
+   "born": 1879,
+   "died": 1924,
+   "country": {
+    "en": "Georgia",
+    "it": "Georgia",
+    "ka": "საქართველო"
+   },
+   "blurb": {
+    "en": "Lyric-dramatic tenor, one of the founders of Georgian professional singing, known as the “Nightingale of Georgia”.",
+    "it": "Tenore lirico-drammatico, tra i fondatori del canto professionale georgiano, noto come “l'usignolo della Georgia”.",
+    "ka": "ლირიკულ-დრამატული ტენორი, ქართული პროფესიული ვოკალური ხელოვნების ერთ-ერთი ფუძემდებელი, „საქართველოს ბულბული“."
+   },
+   "img": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Georgian_singer_Vano_Sarajishvili_in_1901.jpg/500px-Georgian_singer_Vano_Sarajishvili_in_1901.jpg",
+    "w": 500,
+    "h": 707,
+    "pos": "50% 25%",
+    "author": "Unknown photographer (1901; National Parliamentary Library of Georgia)",
+    "lic": "Public domain",
+    "lic_u": "https://commons.wikimedia.org/wiki/File:Georgian_singer_Vano_Sarajishvili_in_1901.jpg",
+    "file": "https://commons.wikimedia.org/wiki/File:Georgian_singer_Vano_Sarajishvili_in_1901.jpg",
+    "sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Georgian_singer_Vano_Sarajishvili_in_1901.jpg/250px-Georgian_singer_Vano_Sarajishvili_in_1901.jpg",
+    "smw": 250,
+    "smh": 354
+   }
+  },
+  {
+   "id": "lado-ataneli",
+   "name": {
+    "en": "Lado Ataneli",
+    "it": "Lado Ataneli",
+    "ka": "ლადო ათანელი"
+   },
+   "sort": "Ataneli",
+   "aliases": [
+    "Ataneli",
+    "Lado",
+    "Vladimer Atanelishvili",
+    "ათანელი",
+    "ლადო",
+    "ვლადიმერ ათანელიშვილი",
+    "Атанели"
+   ],
+   "voice": "baritone",
+   "era": "contemporary",
+   "born": 1964,
+   "died": null,
+   "country": {
+    "en": "Georgia",
+    "it": "Georgia",
+    "ka": "საქართველო"
+   },
+   "blurb": {
+    "en": "Georgian baritone, winner of the Francesc Viñas Competition (1991), heard in Verdi roles at the Met, La Scala and Covent Garden.",
+    "it": "Baritono georgiano, vincitore del Concorso Francesc Viñas (1991), interprete verdiano al Metropolitan, alla Scala e al Covent Garden.",
+    "ka": "ქართველი ბარიტონი, ფრანსესკ ვინიასის კონკურსის გამარჯვებული (1991), ვერდის პარტიების შემსრულებელი Met-ში, ლა სკალასა და კოვენ-გარდენში."
+   }
+  },
+  {
+   "id": "paata-burchuladze",
+   "name": {
+    "en": "Paata Burchuladze",
+    "it": "Paata Burchuladze",
+    "ka": "პაატა ბურჭულაძე"
+   },
+   "sort": "Burchuladze",
+   "aliases": [
+    "Burchuladze",
+    "Burčuladze",
+    "Paata",
+    "ბურჭულაძე",
+    "პაატა",
+    "Бурчуладзе",
+    "Паата Бурчуладзе"
+   ],
+   "voice": "bass",
+   "era": "contemporary",
+   "born": 1955,
+   "died": null,
+   "country": {
+    "en": "Georgia",
+    "it": "Georgia",
+    "ka": "საქართველო"
+   },
+   "blurb": {
+    "en": "Georgian bass with a dark, powerful voice, Tchaikovsky Competition winner (1982), heard at La Scala, Covent Garden and the Met.",
+    "it": "Basso georgiano dalla voce scura e potente, vincitore del Concorso Čajkovskij (1982), ascoltato alla Scala, al Covent Garden e al Metropolitan.",
+    "ka": "ქართველი ბანი მუქი, ძლიერი ხმით, ჩაიკოვსკის კონკურსის გამარჯვებული (1982), გამოდიოდა ლა სკალაში, კოვენ-გარდენსა და Met-ში."
+   },
+   "img": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Paata_Burchuladze_2022.jpg/500px-Paata_Burchuladze_2022.jpg",
+    "w": 500,
+    "h": 731,
+    "pos": "50% 20%",
+    "author": "Radio Ar Daidardo (2022, video still)",
+    "lic": "CC BY 3.0",
+    "lic_u": "https://creativecommons.org/licenses/by/3.0/",
+    "file": "https://commons.wikimedia.org/wiki/File:Paata_Burchuladze_2022.jpg",
+    "sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Paata_Burchuladze_2022.jpg/250px-Paata_Burchuladze_2022.jpg",
+    "smw": 250,
+    "smh": 366
+   }
+  },
+  {
+   "id": "george-gagnidze",
+   "name": {
+    "en": "George Gagnidze",
+    "it": "George Gagnidze",
+    "ka": "გია გაგნიძე"
+   },
+   "sort": "Gagnidze",
+   "aliases": [
+    "Gagnidze",
+    "George",
+    "Giorgi Gagnidze",
+    "Gia Gagnidze",
+    "გაგნიძე",
+    "გია",
+    "გიორგი გაგნიძე",
+    "Гагнидзе"
+   ],
+   "voice": "baritone",
+   "era": "contemporary",
+   "born": 1970,
+   "died": null,
+   "country": {
+    "en": "Georgia",
+    "it": "Georgia",
+    "ka": "საქართველო"
+   },
+   "blurb": {
+    "en": "Georgian baritone in the Italian dramatic repertoire: Rigoletto, Scarpia and Macbeth at the Met and in Europe's leading houses.",
+    "it": "Baritono georgiano del repertorio drammatico italiano: Rigoletto, Scarpia e Macbeth al Metropolitan e nei grandi teatri europei.",
+    "ka": "ქართველი ბარიტონი იტალიური დრამატული რეპერტუარით: რიგოლეტო, სკარპია და მაკბეტი Met-სა და ევროპის წამყვან თეატრებში."
+   }
   }
  ]
 }
